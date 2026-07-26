@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Meteonews.ch" tvg-name="Meteonews" group-title="Weather" tvg-logo="https://i.imgur.com/YtYhbJD.png" tvg-country="CH",Meteonews [1080]
+https://streaming.meteonews.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="3CatCameresdeltemps.es" tvg-name="3Cat Cameres del temps" group-title="Weather" tvg-logo="https://i.imgur.com/zXy2kbe.png" tvg-country="ES",3Cat Cameres del temps [1080]
+https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
+#EXTINF:-1 tvg-id="AccuWeatherNetwork.us" tvg-name="AccuWeather Network" group-title="Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/AccuWeather.png/960px-AccuWeather.png" tvg-country="US",AccuWeather Network [1080]
+https://gpuserver3.tier1streams.com/AccuWeather/index.m3u8
+#EXTINF:-1 tvg-id="AccuWeatherNOW.us" tvg-name="AccuWeather NOW" group-title="Weather" tvg-logo="https://i.imgur.com/M8wbVYK.png" tvg-country="US",AccuWeather NOW [1080]
+https://d1gldweznovt26.cloudfront.net/Accuweather.m3u8
+#EXTINF:-1 tvg-id="AlabamaWeatherNetwork.us" tvg-name="Alabama Weather Network" group-title="Weather" tvg-logo="https://alabamaweathernetwork.com/wp-content/uploads/2025/07/bpt2ej6u.png" tvg-country="US",Alabama Weather Network [1080]
+https://alwxnet-ott-proxy.cloud9streaming.com/alwxnet/live/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="Fox Weather" group-title="Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/960px-Fox_Weather_logo.svg.png" tvg-country="US",Fox Weather [1080]
+https://pb-hum8cczphcrpf.akamaized.net/FOX_Weather.m3u8
+#EXTINF:-1 tvg-id="NorCastWeather.us" tvg-name="NorCast Weather" group-title="Weather" tvg-logo="https://i.imgur.com/AfjoZgo.png" tvg-country="US",NorCast Weather [1080]
+https://norcast-weather.streamology.live/api/v1/streams/c1b5b114698e1ad4687153c4402d5ef0/live.m3u8
+#EXTINF:-1 tvg-id="WeatherNation.us" tvg-name="WeatherNation" group-title="Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WeatherNation_Logo.svg/960px-WeatherNation_Logo.svg.png" tvg-country="US",WeatherNation [1080]
+http://40.160.24.55/WEATHER_NATION/index.m3u8

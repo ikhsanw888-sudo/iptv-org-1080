@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="InWonder.nl" tvg-name="InWonder" group-title="Science" tvg-logo="https://cdn.uc.assets.prezly.com/1e0b2617-b145-4489-9d63-ba8438489f26/InWonder_portrait-black.png" tvg-country="NL",InWonder [1080]
+https://amg00861-amg00861c9-stirr-us-8243.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CosmosTV.py" tvg-name="Cosmos TV" group-title="Science" tvg-logo="https://i.imgur.com/dAMyExY.jpg" tvg-country="PY",Cosmos TV [1080]
+https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
+#EXTINF:-1 tvg-id="scifi.ru" tvg-name=".sci-fi" group-title="Science" tvg-logo="https://i.imgur.com/nSSUHcg.png" tvg-country="RU",.sci-fi [1080]
+http://stream.mcquack.net/180/index.m3u8
+#EXTINF:-1 tvg-id="IlmvaTabiat.tj" tvg-name="Ilm va Tabiat" group-title="Science" tvg-logo="https://i.imgur.com/MDULX7X.png" tvg-country="TJ",Ilm va Tabiat [1080]
+https://live.teleradiocom.tj/15/3m.m3u8
+#EXTINF:-1 tvg-id="EkoTV.ua" tvg-name="Eko TV" group-title="Science" tvg-logo="https://i.imgur.com/WovATGb.png" tvg-country="UA",Eko TV [1080]
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.1.60/index.m3u8
+#EXTINF:-1 tvg-id="Wonder.uk" tvg-name="Wonder" group-title="Science" tvg-logo="https://i.imgur.com/LquGNbh.png" tvg-country="UK",Wonder [1080]
+https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SmithsonianChannel.us" tvg-name="Smithsonian Channel" group-title="Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/960px-SmithsonianChannellogo.png" tvg-country="US",Smithsonian Channel [1080]
+http://206.212.244.63/148/index.m3u8

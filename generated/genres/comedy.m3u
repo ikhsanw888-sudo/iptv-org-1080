@@ -1,0 +1,40 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Novocomedy.fr" tvg-name="Novocomedy" group-title="Comedy" tvg-logo="https://novocomedy.com/wp-content/uploads/LogoNovocomedy.png" tvg-country="FR",Novocomedy [1080]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/novo-comedy/video.m3u8?ads.vf=CMRSFvusYbe
+#EXTINF:-1 tvg-id="ETVComedy.in" tvg-name="ETV Comedy" group-title="Comedy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900003U3_20251106T195117SQUARE.png" tvg-country="IN",ETV Comedy [1080]
+https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8
+#EXTINF:-1 tvg-id="JordanComedy.jo" tvg-name="Jordan Comedy" group-title="Comedy" tvg-logo="https://i.imgur.com/DuwwoO2.png" tvg-country="JO",Jordan Comedy [1080]
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8
+#EXTINF:-1 tvg-id="RoyaComedy.jo" tvg-name="Roya Comedy" group-title="Comedy" tvg-logo="https://i.imgur.com/oIThcM8.png" tvg-country="JO",Roya Comedy [1080]
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="Distrito Comedia" group-title="Comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png" tvg-country="MX",Distrito Comedia [1080]
+http://177.234.249.135:8888/DistritoComedia/index.m3u8
+#EXTINF:-1 tvg-id="Kinokomedija.ru" tvg-name="Kinokomedija" group-title="Comedy" tvg-logo="https://i.imgur.com/dVjtth0.png" tvg-country="RU",Kinokomedija [1080]
+http://stream.mcquack.net/265/index.m3u8
+#EXTINF:-1 tvg-id="Komediynoe.ru" tvg-name="Komediynoe" group-title="Comedy" tvg-logo="https://i.imgur.com/cEKe8XC.png" tvg-country="RU",Komediynoe [1080]
+http://stream.mcquack.net/74/index.m3u8
+#EXTINF:-1 tvg-id="TvoyeTVYumor.ru" tvg-name="Tvoye TV Yumor" group-title="Comedy" tvg-logo="https://smotret.tv/images/tvoe-tv-yumor.webp" tvg-country="RU",Tvoye TV Yumor [1080]
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusComedy.ru" tvg-name="viju+ Comedy" group-title="Comedy" tvg-logo="https://i.imgur.com/YoNOFu7.png" tvg-country="RU",viju+ Comedy [1080]
+http://stream.mcquack.net/201/index.m3u8
+#EXTINF:-1 tvg-id="AFV.us" tvg-name="AFV" group-title="Comedy" tvg-logo="https://i.imgur.com/TOB9vmW.png" tvg-country="US",AFV [1080]
+https://d1mp1kdk5zi1ie.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central" group-title="Comedy" tvg-logo="https://images.pluto.tv/channels/64f8a408bd341e000818fcda/colorLogoPNG.png" tvg-country="US",Comedy Central [1080]
+http://206.212.244.63/44/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us" tvg-name="Comedy Central Latin America" group-title="Comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" tvg-country="US",Comedy Central Latin America [1080]
+http://15.204.246.24:8080/ComedyCentralHD/index.m3u8
+#EXTINF:-1 tvg-id="ComedyDynamics.us" tvg-name="Comedy Dynamics" group-title="Comedy" tvg-logo="https://i.imgur.com/1lEvUOa.png" tvg-country="US",Comedy Dynamics [1080]
+https://d3a5mry3t5fzw9.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="JustforLaughsGags.us" tvg-name="Just for Laughs Gags" group-title="Comedy" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-country="US",Just for Laughs Gags [1080]
+https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8
+#EXTINF:-1 tvg-id="Laff.us" tvg-name="Laff" group-title="Comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" tvg-country="US",Laff [1080]
+http://40.160.24.53/LAFF_TV/index.m3u8
+#EXTINF:-1 tvg-id="MysteryScienceTheater3000.us" tvg-name="Mystery Science Theater 3000" group-title="Comedy" tvg-logo="https://i.imgur.com/8KWjY4o.png" tvg-country="US",Mystery Science Theater 3000 [1080]
+https://d1c73nj8qxp55a.cloudfront.net/Mystery_Science_Theater_3000.m3u8
+#EXTINF:-1 tvg-id="NBCComedyVault.us" tvg-name="NBC Comedy Vault" group-title="Comedy" tvg-logo="https://i.imgur.com/nydZWwg.png" tvg-country="US",NBC Comedy Vault [1080]
+https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="SNLVault.us" tvg-name="SNL Vault" group-title="Comedy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/712dae9e-9111-4bbc-8ea4-242e891ab5b3/snl-vault-fclogo-72-dpi-1500-x-1000-3-2-channel-logo-dark-plex-1.png" tvg-country="US",SNL Vault [1080]
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993017/hls/master.m3u8?ads.xumo_channelId=99993017
+#EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="Starz Comedy" group-title="Comedy" tvg-logo="https://i.imgur.com/JpKvjZe.png" tvg-country="US",Starz Comedy [1080]
+http://40.160.24.55/STARZ_COMEDY/index.m3u8

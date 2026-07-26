@@ -1,0 +1,135 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SeriesClassic.br" tvg-name="Series Classic" group-title="Series" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/img/mobile/featured/bg_mobile.jpg" tvg-country="BR",Series Classic [1080]
+https://cdn-tiva-video10-logicahost-com-br.smartbit.co/serieclassic/serieclassic/playlist.m3u8
+#EXTINF:-1 tvg-id="HauntTV.ca" tvg-name="HauntTV" group-title="Series" tvg-logo="https://haunt-tv.com/wp-content/uploads/2022/09/haunt-tv-logo.png" tvg-country="CA",HauntTV [1080]
+https://d1ak5jijks54h1.cloudfront.net/Haunt_TV.m3u8
+#EXTINF:-1 tvg-id="13T.cl" tvg-name="13T" group-title="Series" tvg-logo="https://i.imgur.com/csBNi2L.png" tvg-country="CL",13T [1080]
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+#EXTINF:-1 tvg-id="3CatPlatsbruts.es" tvg-name="3Cat Plats bruts" group-title="Series" tvg-logo="https://i.imgur.com/49ZENis.png" tvg-country="ES",3Cat Plats bruts [1080]
+https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
+#EXTINF:-1 tvg-id="TodoNovelas.es" tvg-name="Todo Novelas" group-title="Series" tvg-logo="https://i.imgur.com/NuYwGok.png" tvg-country="ES",Todo Novelas [1080]
+https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
+#EXTINF:-1 tvg-id="TVEStar.es" tvg-name="TVE Star" group-title="Series" tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" tvg-country="ES",TVE Star [1080]
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
+#EXTINF:-1 tvg-id="FrequenceNovelas.fr" tvg-name="Frequence Novelas" group-title="Series" tvg-logo="https://i.imgur.com/fEjNAps.png" tvg-country="FR",Frequence Novelas [1080]
+https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyOneBlacklist.fr" tvg-name="Sony One Blacklist" group-title="Series" tvg-logo="https://i.imgur.com/uJC8rXr.png" tvg-country="FR",Sony One Blacklist [1080]
+https://d1x87j1jmcypab.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="HOTDrama.il" tvg-name="HOT Drama" group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HotNewLogo.svg/250px-HotNewLogo.svg.png" tvg-country="IL",HOT Drama [1080]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/381/index.m3u8
+#EXTINF:-1 tvg-id="YamTichoni.il" tvg-name="Yam Tichoni" group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/5/58/YamTichoniChannel.svg/1280px-YamTichoniChannel.svg.png" tvg-country="IL",Yam Tichoni [1080]
+http://stream.mcquack.net/46/index.m3u8
+#EXTINF:-1 tvg-id="RoyaDrama.jo" tvg-name="Roya Drama" group-title="Series" tvg-logo="https://i.imgur.com/V7I0MVf.png" tvg-country="JO",Roya Drama [1080]
+https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8
+#EXTINF:-1 tvg-id="TlnovelasLatinAmerica.mx" tvg-name="Tlnovelas Latin America" group-title="Series" tvg-logo="https://i.imgur.com/Rvm38Mu.png" tvg-country="MX",Tlnovelas Latin America [1080]
+http://177.234.249.135:8888/Telenovelas/index.m3u8
+#EXTINF:-1 tvg-id="LatinaClasicos.pe" tvg-name="Latina Clasicos" group-title="Series" tvg-logo="https://i.imgur.com/q0dAWyj.png" tvg-country="PE",Latina Clasicos [1080]
+http://45.171.108.253:8888/LATINA/index.m3u8
+#EXTINF:-1 tvg-id="Smotrim100Muzhskoe.ru" tvg-name="Smotrim 100% Muzhskoe" group-title="Series" tvg-logo="https://i.imgur.com/UY3fjYU.png" tvg-country="RU",Smotrim 100% Muzhskoe [1080]
+https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
+#EXTINF:-1 tvg-id="SmotrimChestnyyDetektiv.ru" tvg-name="Smotrim Chestnyy Detektiv" group-title="Series" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/svg/444/241/8.svg" tvg-country="RU",Smotrim Chestnyy Detektiv [1080]
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="vijuPlusSerial.ru" tvg-name="viju+ Serial" group-title="Series" tvg-logo="https://i.imgur.com/8yXZET5.png" tvg-country="RU",viju+ Serial [1080]
+http://stream.mcquack.net/311/index.m3u8
+#EXTINF:-1 tvg-id="BabAlHara.sa" tvg-name="Bab Al Hara" group-title="Series" tvg-logo="https://i.imgur.com/QtlnZbq.png" tvg-country="SA",Bab Al Hara [1080]
+https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8
+#EXTINF:-1 tvg-id="Maraya.sa" tvg-name="Maraya" group-title="Series" tvg-logo="https://shahid.mbc.net/mediaObject/d089a559-4f41-4def-a786-f98fcfbf0464?height=auto&width=288&croppingPoint=&version=1&type=png" tvg-country="SA",Maraya [1080]
+https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8
+#EXTINF:-1 tvg-id="MBCMasrDrama.sa" tvg-name="MBC Masr Drama" group-title="Series" tvg-logo="https://media0070.elcinema.com/tvguide/1399_1.png" tvg-country="SA",MBC Masr Drama [1080]
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8
+#EXTINF:-1 tvg-id="Tviyserial.ua" tvg-name="Tviy serial" group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Tviy_Serial.svg/250px-Tviy_Serial.svg.png" tvg-country="UA",Tviy serial [1080]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/466/index.m3u8
+#EXTINF:-1 tvg-id="BBCDrama.uk" tvg-name="BBC Drama" group-title="Series" tvg-logo="https://i.imgur.com/HctHhLL.png" tvg-country="UK",BBC Drama [1080]
+https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DontTellTheBride.uk" tvg-name="Don't Tell The Bride" group-title="Series" tvg-logo="https://i.imgur.com/h0bc3Fa.png" tvg-country="UK",Don't Tell The Bride [1080]
+https://lds-donttellbride-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MostHaunted.uk" tvg-name="Most Haunted" group-title="Series" tvg-logo="https://i.imgur.com/hTDvXxZ.png" tvg-country="UK",Most Haunted [1080]
+https://amg00426-lds-amg00426c17-samsung-gb-10157.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TheChatShowChannel.uk" tvg-name="The Chat Show Channel" group-title="Series" tvg-logo="https://yt3.googleusercontent.com/aQ_vvywmcBt4X1SmeEMgT3uf7bb1Z__I9XVwabeg7RrSSEuIhswMlvwhyi0Wl4PlLHwXufLgOg=s900-c-k-c0x00ffffff-no-rj" tvg-country="UK",The Chat Show Channel [1080]
+https://amg00426-lds-amg00426c11-rakuten-uk-3888.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TrueCrime.uk" tvg-name="True Crime" group-title="Series" tvg-logo="https://i.imgur.com/LK2NFst.png" tvg-country="UK",True Crime [1080]
+https://b6cca454.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9UcnVlQ3JpbWVVS2Zyb21DQlNSZWFsaXR5X0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="48Hours.us" tvg-name="48 Hours" group-title="Series" tvg-logo="https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png" tvg-country="US",48 Hours [1080]
+https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
+#EXTINF:-1 tvg-id="AllWeddingsWEtv.us" tvg-name="All Weddings WE tv" group-title="Series" tvg-logo="https://i.imgur.com/OjLCew5.png" tvg-country="US",All Weddings WE tv [1080]
+https://amc-allweddings-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AngerManagementChannel.us" tvg-name="Anger Management Channel" group-title="Series" tvg-logo="https://i.imgur.com/VXZgrNy.png" tvg-country="US",Anger Management Channel [1080]
+https://aegis-cloudfront-1.tubi.video/0a019247-55a2-4b3e-8b62-b84c9cbd5b12/playlist.m3u8
+#EXTINF:-1 tvg-id="AntiquesRoadshowUK.us" tvg-name="Antiques Roadshow UK" group-title="Series" tvg-logo="https://i.imgur.com/rKWLv48.png" tvg-country="US",Antiques Roadshow UK [1080]
+https://bbc-antiquesroadshowuk-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AreWeThereYet.us" tvg-name="Are We There Yet?" group-title="Series" tvg-logo="https://i.imgur.com/3BJQiHP.png" tvg-country="US",Are We There Yet? [1080]
+https://aegis-cloudfront-1.tubi.video/453e03c1-3a9f-415c-9370-5c744b19a748/playlist.m3u8
+#EXTINF:-1 tvg-id="Baywatch.us" tvg-name="Baywatch" group-title="Series" tvg-logo="https://i.imgur.com/c2esKHg.png" tvg-country="US",Baywatch [1080]
+https://aegis-cloudfront-1.tubi.video/9d1cd886-32b9-41ce-a7de-3babb46506aa/playlist.m3u8
+#EXTINF:-1 tvg-id="CelebrityNameGame.us" tvg-name="Celebrity Name Game" group-title="Series" tvg-logo="https://provider-static.plex.tv/epg/cms/production/773232e1-5c36-490b-922e-e5be8ec12eb2/celebrityd5796a3e14bf45513f7b3071b90d030.png" tvg-country="US",Celebrity Name Game [1080]
+https://amg00353-amg00353c19-xumo-us-2608.playouts.now.amagi.tv/lionsgate-clbng/playlist.m3u8
+#EXTINF:-1 tvg-id="ColdCaseFiles.us" tvg-name="Cold Case Files" group-title="Series" tvg-logo="https://i.imgur.com/mowSfj6.png" tvg-country="US",Cold Case Files [1080]
+https://aegis-cloudfront-1.tubi.video/1e764712-0649-4946-bd7e-f1bbba3be6fa/playlist.m3u8
+#EXTINF:-1 tvg-id="DarkMatterTV.us" tvg-name="Dark Matter TV" group-title="Series" tvg-logo="https://i.imgur.com/9K8T3ND.png" tvg-country="US",Dark Matter TV [1080]
+https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DealorNoDeal.us" tvg-name="Deal or No Deal" group-title="Series" tvg-logo="https://i.imgur.com/lZvNXA1.png" tvg-country="US",Deal or No Deal [1080]
+https://amg00627-amg00627c21-samsung-gb-3869.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DesignatedSurvivor.us" tvg-name="Designated Survivor" group-title="Series" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6f31f52b-2b65-49eb-91e5-52e07edd1927/DesignatedSurvivor_Plex_1500x1000_Logo_Dark.png" tvg-country="US",Designated Survivor [1080]
+https://amg00353-amg00353c40-xumo-us-4839.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DoctorWhoClassic.us" tvg-name="Doctor Who Classic" group-title="Series" tvg-logo="https://i.imgur.com/JIqJQQM.png" tvg-country="US",Doctor Who Classic [1080]
+https://bbc-classicdrwho-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DogtheBountyHunter.us" tvg-name="Dog the Bounty Hunter" group-title="Series" tvg-logo="https://i.imgur.com/lMICupK.png" tvg-country="US",Dog the Bounty Hunter [1080]
+https://aegis-cloudfront-1.tubi.video/ff0ad399-75ed-42ba-8c60-75bb6cb8c929/playlist.m3u8
+#EXTINF:-1 tvg-id="DogWhisperer.us" tvg-name="Dog Whisperer" group-title="Series" tvg-logo="https://i.imgur.com/tgWypVJ.png" tvg-country="US",Dog Whisperer [1080]
+https://pb-ffpxvjshv4rxx.akamaized.net/Dog_Whisperer_with_Cesar_Millan.m3u8
+#EXTINF:-1 tvg-id="DuckDynasty.us" tvg-name="Duck Dynasty" group-title="Series" tvg-logo="https://i.imgur.com/vMcSlwm.png" tvg-country="US",Duck Dynasty [1080]
+https://amg00276-amg00276c2-samsung-gb-3485.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FearFactor.us" tvg-name="Fear Factor" group-title="Series" tvg-logo="https://i.imgur.com/CIYnLWz.png" tvg-country="US",Fear Factor [1080]
+https://d2y1l0qikd751h.cloudfront.net/Fear_Factor.m3u8
+#EXTINF:-1 tvg-id="GhostHunters.us" tvg-name="Ghost Hunters" group-title="Series" tvg-logo="https://i.imgur.com/KdBr6rG.png" tvg-country="US",Ghost Hunters [1080]
+https://amg00353-amg00353c30-samsung-nz-3439.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HellsKitchen.us" tvg-name="Hell's Kitchen" group-title="Series" tvg-logo="https://i.imgur.com/P9eT0O9.png" tvg-country="US",Hell's Kitchen [1080]
+https://amg00654-itv-amg00654c1-samsung-au-1072.playouts.now.amagi.tv/itv-hellskitchen-samsung/playlist.m3u8
+#EXTINF:-1 tvg-id="ImpossibleQuizShow.us" tvg-name="Impossible Quiz Show" group-title="Series" tvg-logo="https://i.imgur.com/9EWffqx.png" tvg-country="US",Impossible Quiz Show [1080]
+https://bbc-impossible-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="InsideCrime.us" tvg-name="Inside Crime" group-title="Series" tvg-logo="https://i.imgur.com/wvQYWsj.png" tvg-country="US",Inside Crime [1080]
+https://amg00841-aenetworksukane-insidecrime-samsunguk-o968i.amagi.tv/playlist/amg00841-aenetworksukane-insidecrime-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-id="JohnnyCarsonTV.us" tvg-name="Johnny Carson TV" group-title="Series" tvg-logo="https://i.imgur.com/KBTqpJ7.png" tvg-country="US",Johnny Carson TV [1080]
+https://aegis-cloudfront-1.tubi.video/475550ae-8708-46a5-a7c3-54acb3d91480/playlist.m3u8
+#EXTINF:-1 tvg-id="JudgeNosey.us" tvg-name="Judge Nosey" group-title="Series" tvg-logo="https://i.imgur.com/S4r98AB.png" tvg-country="US",Judge Nosey [1080]
+https://amg00514-noseybaxterllc-realnosey-cineverse-tqbpv.amagi.tv/playlist/amg00514-noseybaxterllc-realnosey-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id="MBCDramaUSA.us" tvg-name="MBC Drama USA" group-title="Series" tvg-logo="https://i.imgur.com/g5PWnqp.png" tvg-country="US",MBC Drama USA [1080]
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
+#EXTINF:-1 tvg-id="McLeodsDaughters.us" tvg-name="McLeod's Daughters" group-title="Series" tvg-logo="https://i.imgur.com/q4BBDzw.png" tvg-country="US",McLeod's Daughters [1080]
+https://amg00627-amg00627c5-samsung-nz-2807.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mcleodsdaughters-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="MidsomerMurders.us" tvg-name="Midsomer Murders" group-title="Series" tvg-logo="https://i.imgur.com/VFqfyfY.png" tvg-country="US",Midsomer Murders [1080]
+https://all3media-midsomer-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MST3K.us" tvg-name="MST3K" group-title="Series" tvg-logo="https://i.imgur.com/2LSdcga.png" tvg-country="US",MST3K [1080]
+https://aegis-cloudfront-1.tubi.video/99c48388-377e-4f2c-ad8e-33d0dee33bc3/playlist.m3u8
+#EXTINF:-1 tvg-id="Mythbusters.us" tvg-name="Mythbusters" group-title="Series" tvg-logo="https://i.imgur.com/wzzjvcH.png" tvg-country="US",Mythbusters [1080]
+https://amg00627-amg00627c14-rakuten-uk-4802.playouts.now.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-id="NashBridges.us" tvg-name="Nash Bridges" group-title="Series" tvg-logo="https://images.pluto.tv/channels/666021cccb3ea10008406866/colorLogoPNG.png" tvg-country="US",Nash Bridges [1080]
+https://amg00353-amg00353c35-xumo-us-3804.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Nosey.us" tvg-name="Nosey" group-title="Series" tvg-logo="https://i.imgur.com/i5doCQK.png" tvg-country="US",Nosey [1080]
+https://samsungau-nosey-intl-1-samsungau-50d5x.amagi.tv/playlist/samsungau-nosey-intl-1-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="PBSAntiquesRoadshow.us" tvg-name="PBS Antiques Roadshow" group-title="Series" tvg-logo="https://i.imgur.com/U9CYaok.png" tvg-country="US",PBS Antiques Roadshow [1080]
+https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PBSNature.us" tvg-name="PBS Nature" group-title="Series" tvg-logo="https://i.imgur.com/Brry7cZ.png" tvg-country="US",PBS Nature [1080]
+https://d3mr43kyql7wgk.cloudfront.net/PBS_Nature.m3u8
+#EXTINF:-1 tvg-id="RakutenViki.us" tvg-name="Rakuten Viki" group-title="Series" tvg-logo="https://i.imgur.com/pbyd1g2.png" tvg-country="US",Rakuten Viki [1080]
+https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Survivor.us" tvg-name="Survivor" group-title="Series" tvg-logo="https://i.imgur.com/Zz9SgY8.png" tvg-country="US",Survivor [1080]
+https://amg00627-amg00627c16-samsung-nz-2811.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="TheAsylum.us" tvg-name="The Asylum" group-title="Series" tvg-logo="https://i.imgur.com/dx9tt1B.png" tvg-country="US",The Asylum [1080]
+https://d1i3g4v4xlfhad.cloudfront.net/The_Asylum.m3u8
+#EXTINF:-1 tvg-id="TheConners.us" tvg-name="The Conners" group-title="Series" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3acd803e-a5e3-430c-a34e-508123d2bd95/TheConners_1500x1000_Logo_Dark.png" tvg-country="US",The Conners [1080]
+https://aegis-cloudfront-1.tubi.video/e08080ff-3d87-4d9e-a156-91554fd2e39b/playlist.m3u8
+#EXTINF:-1 tvg-id="TheWalkingDeadUniverse.us" tvg-name="The Walking Dead Universe" group-title="Series" tvg-logo="https://i.imgur.com/IwJ5Pnc.png" tvg-country="US",The Walking Dead Universe [1080]
+https://amc-twdfanexperience-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ThisOldHouse.us" tvg-name="This Old House" group-title="Series" tvg-logo="https://i.imgur.com/nrVLyE6.png" tvg-country="US",This Old House [1080]
+https://thisoldhouse-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TNTNovelas.us" tvg-name="TNT Novelas" group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" tvg-country="US",TNT Novelas [1080]
+http://15.204.246.24:8080/TNTNovelasHD/index.m3u8
+#EXTINF:-1 tvg-id="TrueCrimeNetwork.us" tvg-name="True Crime Network" group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/True_Crime_Network_logo.svg/960px-True_Crime_Network_logo.svg.png" tvg-country="US",True Crime Network [1080]
+https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="UniversalCrime.us" tvg-name="Universal Crime" group-title="Series" tvg-logo="https://i.imgur.com/OwSlGMu.png" tvg-country="US",Universal Crime [1080]
+https://xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="WeTV.us" tvg-name="We TV" group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wetv-july-2024-logo.svg/3840px-Wetv-july-2024-logo.svg.png" tvg-country="US",We TV [1080]
+http://206.212.244.63/172/index.m3u8
