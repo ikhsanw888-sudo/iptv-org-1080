@@ -1,0 +1,156 @@
+name: Scan iptv-org and build 1080 playlists
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Every Sunday at 09:00 Western Indonesia Time (02:00 UTC)
+    - cron: "0 2 * * 0"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: iptv-org-1080-scan
+  cancel-in-progress: true
+
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    outputs:
+      matrix: ${{ steps.matrix.outputs.matrix }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Download API data and create shards
+        run: |
+          python scripts/prepare_iptv_scan.py \
+            --output-dir work \
+            --shards 24
+
+      - name: Export matrix
+        id: matrix
+        shell: bash
+        run: |
+          echo "matrix=$(cat work/matrix.json)" >> "$GITHUB_OUTPUT"
+
+      - name: Upload scan input
+        uses: actions/upload-artifact@v4
+        with:
+          name: scan-input
+          path: work/
+          retention-days: 2
+
+  probe:
+    needs: prepare
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+
+    strategy:
+      fail-fast: false
+      max-parallel: 6
+      matrix: ${{ fromJson(needs.prepare.outputs.matrix) }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Download scan input
+        uses: actions/download-artifact@v4
+        with:
+          name: scan-input
+          path: work/
+
+      - name: Ensure ffprobe is installed
+        shell: bash
+        run: |
+          if ! command -v ffprobe >/dev/null 2>&1; then
+            sudo apt-get update
+            sudo apt-get install -y ffmpeg
+          fi
+          ffprobe -version | head -n 1
+
+      - name: Probe shard ${{ matrix.shard }}
+        run: |
+          python scripts/probe_iptv_shard.py \
+            --input "work/shards/shard-${{ matrix.shard }}.json" \
+            --output "result-${{ matrix.shard }}.jsonl" \
+            --workers 6 \
+            --timeout 18 \
+            --attempts 2
+
+      - name: Upload shard result
+        uses: actions/upload-artifact@v4
+        with:
+          name: scan-${{ matrix.shard }}
+          path: result-${{ matrix.shard }}.jsonl
+          retention-days: 2
+
+  build:
+    needs: probe
+    if: ${{ always() && needs.probe.result == 'success' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Download all shard results
+        uses: actions/download-artifact@v4
+        with:
+          pattern: scan-*
+          path: scan-results/
+          merge-multiple: true
+
+      - name: Build deduplicated 1080 playlists
+        run: |
+          python scripts/build_iptv_outputs.py \
+            --input-dir scan-results \
+            --output-dir generated \
+            --report-dir reports \
+            --min-height 1080
+
+      - name: Upload full reports and playlists
+        uses: actions/upload-artifact@v4
+        with:
+          name: iptv-org-1080-output
+          path: |
+            generated/
+            reports/
+          retention-days: 14
+
+      - name: Commit latest playlists and compact reports
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add generated/
+          git add reports/scan-summary.md
+          git add reports/selected-1080.csv
+
+          if git diff --cached --quiet; then
+            echo "No generated changes to commit."
+          else
+            git commit -m "Update iptv-org 1080 playlists"
+            git push
+          fi

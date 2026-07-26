@@ -1,0 +1,5 @@
+work/
+scan-results/
+result-*.jsonl
+__pycache__/
+*.pyc
