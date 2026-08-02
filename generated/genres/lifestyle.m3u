@@ -7,31 +7,30 @@ https://cdn2.invivo.bg/codehealth_test/index.m3u8
 https://stream.wapptv.cl/video/index.m3u8
 #EXTINF:-1 tvg-id="CCTVHealth.cn" tvg-name="CCTV-Health" group-title="Lifestyle" tvg-logo="https://i.imgur.com/AzpRtCz.png" tvg-country="CN",CCTV-Health [1080]
 http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="CCTVWomensFashion.cn" tvg-name="CCTV-Women's Fashion" group-title="Lifestyle" tvg-logo="https://i.imgur.com/FVbP0aP.png" tvg-country="CN",CCTV-Women's Fashion [1080]
+http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="AutenticTravel.de" tvg-name="Autentic Travel" group-title="Lifestyle" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentictravel_white.png" tvg-country="DE",Autentic Travel [1080]
 https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
 #EXTINF:-1 tvg-id="SenalesTV.do" tvg-name="Senales TV" group-title="Lifestyle" tvg-logo="https://i.imgur.com/7Zr79F2.png" tvg-country="DO",Senales TV [1080]
 https://live.dionelysterrero.com/senalestv/stream.m3u8
+#EXTINF:-1 tvg-id="FashionTVParisLOriginal.fr" tvg-name="FashionTV Paris L'Original" group-title="Lifestyle" tvg-logo="https://i.imgur.com/GFTAN5Q.png" tvg-country="FR",FashionTV Paris L'Original [1080]
+https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 #EXTINF:-1 tvg-id="FashionTVSecrets.fr" tvg-name="FashionTV Secrets" group-title="Lifestyle" tvg-logo="https://i.ibb.co/fVGJyCC8/w512.png" tvg-country="FR",FashionTV Secrets [1080]
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1
 #EXTINF:-1 tvg-id="HANDICAPTV.fr" tvg-name="HANDICAP TV" group-title="Lifestyle" tvg-logo="https://i.imgur.com/vXbAeD0.png" tvg-country="FR",HANDICAP TV [1080]
 https://srv.webtvmanager.fr:3697/stream/play.m3u8
 #EXTINF:-1 tvg-id="MonteCarloDigitalTelevision.fr" tvg-name="Monte Carlo Digital Television" group-title="Lifestyle" tvg-logo="https://i.imgur.com/99h8F1y.jpeg" tvg-country="FR",Monte Carlo Digital Television [1080]
 https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
-#EXTINF:-1 tvg-id="TV5MondeStyle.fr" tvg-name="TV5Monde Style" group-title="Lifestyle" tvg-logo="https://i.imgur.com/cwC7Q2V.png" tvg-country="FR",TV5Monde Style [1080]
-https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 #EXTINF:-1 tvg-id="BiznetLifestyle.id" tvg-name="Biznet Lifestyle" group-title="Lifestyle" tvg-logo="https://i.imgur.com/XqUfQKA.png" tvg-country="ID",Biznet Lifestyle [1080]
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8
 #EXTINF:-1 tvg-id="ETVLife.in" tvg-name="ETV Life" group-title="Lifestyle" tvg-logo="https://dtil.tmsimg.com/assets/s143029_ld_h15_aa.png?lock=720x540" tvg-country="IN",ETV Life [1080]
 https://d2cj1h11htct8o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_LIFE_H264_cloud_in/index.m3u8
 #EXTINF:-1 tvg-id="NDTVGoodTimes.in" tvg-name="NDTV Good Times" group-title="Lifestyle" tvg-logo="https://i.imgur.com/7cruYvo.png" tvg-country="IN",NDTV Good Times [1080]
 https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="TV3Life.lv" tvg-name="TV3 Life" group-title="Lifestyle" tvg-logo="https://i.imgur.com/Tm8hj45.png" tvg-country="LV",TV3 Life [1080]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://stream.mcquack.net/373/index.m3u8
 #EXTINF:-1 tvg-id="SuperyachtTV.mc" tvg-name="Superyacht TV" group-title="Lifestyle" tvg-logo="https://i.imgur.com/cgjgjE1.png" tvg-country="MC",Superyacht TV [1080]
 https://sy.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="INFAST.nl" tvg-name="INFAST" group-title="Lifestyle" tvg-logo="https://cdn.uc.assets.prezly.com/1b9c9500-cb43-449b-9eb6-9579640ec904/InFast_portrait-red.png" tvg-country="NL",INFAST [1080]
-https://amg00861-terninternation-lifestyle-samsungnz-e3zqy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungnz/playlist.m3u8
+https://lifestyle-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="HGTV.nz" tvg-name="HGTV" group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png" tvg-country="NZ",HGTV [1080]
 https://i.mjh.nz/.r/sky-hgtv.m3u8
 #EXTINF:-1 tvg-id="Domashniy.ru" tvg-name="Domashniy" group-title="Lifestyle" tvg-logo="https://i.imgur.com/WaLwOyt.jpeg" tvg-country="RU",Domashniy [1920]
@@ -48,17 +47,19 @@ https://stream.bizzmedia.biz/bizz_tv/index.m3u8
 #EXTINF:-1 tvg-id="366TV.ua" tvg-name="36.6 TV" group-title="Lifestyle" tvg-logo="https://i.imgur.com/sC0K5BZ.png" tvg-country="UA",36.6 TV [1080]
 https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="AntiquesRoadTrip.us" tvg-name="Antiques Road Trip" group-title="Lifestyle" tvg-logo="https://i.imgur.com/kkm7VqV.png" tvg-country="US",Antiques Road Trip [1080]
-https://d3v8uchko88gmi.cloudfront.net/PBSART_GB.m3u8
+https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/PBSD-AntiquesRoadTripSF-samsung/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCHomeGarden.us" tvg-name="BBC Home & Garden" group-title="Lifestyle" tvg-logo="https://i.imgur.com/rC0pi1D.png" tvg-country="US",BBC Home & Garden [1080]
 https://d11r33s5i066xh.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="BizTV.us" tvg-name="Biz TV" group-title="Lifestyle" tvg-logo="https://i.imgur.com/yaNXOnO.png" tvg-country="US",Biz TV [1080]
-https://thegateway.app/BizAndYou/BizTV/playlist.m3u8
+https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8
 #EXTINF:-1 tvg-id="CleoTV.us" tvg-name="Cleo TV" group-title="Lifestyle" tvg-logo="https://i.imgur.com/US0T6DC.png" tvg-country="US",Cleo TV [1080]
-http://206.212.244.63/4234/index.m3u8
+http://206.212.244.63/38/index.m3u8
 #EXTINF:-1 tvg-id="FYI.us" tvg-name="FYI" group-title="Lifestyle" tvg-logo="https://i.ibb.co/zWBsG1kx/IMG-2211.png" tvg-country="US",FYI [1080]
 http://206.212.244.63/78/index.m3u8
 #EXTINF:-1 tvg-id="GlobalFashionChannel.us" tvg-name="Global Fashion Channel" group-title="Lifestyle" tvg-logo="https://i.imgur.com/s4eGYEP.jpg" tvg-country="US",Global Fashion Channel [1080]
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="KaloopyTV.us" tvg-name="Kaloopy TV" group-title="Lifestyle" tvg-logo="https://i.imgur.com/XPyOTZF.jpeg" tvg-country="US",Kaloopy TV [1080]
+https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/index.m3u8
 #EXTINF:-1 tvg-id="Localish.us" tvg-name="Localish" group-title="Lifestyle" tvg-logo="https://i.imgur.com/ACEbGD5.png" tvg-country="US",Localish [1080]
 https://dnmfq3sh1jipj.cloudfront.net/DisneyLocalish.m3u8
 #EXTINF:-1 tvg-id="NBCLXHome.us" tvg-name="NBC LX Home" group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/NBC_LX_Home_2023.svg" tvg-country="US",NBC LX Home [1080]
@@ -68,10 +69,10 @@ https://d3hqevbyoxtkoi.cloudfront.net/PBS_Travel.m3u8
 #EXTINF:-1 tvg-id="Revry.us" tvg-name="Revry" group-title="Lifestyle" tvg-logo="https://i.imgur.com/XuTUaq4.png" tvg-country="US",Revry [1080]
 https://d36jpyyja698yd.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="RevryQueer.us" tvg-name="Revry Queer" group-title="Lifestyle" tvg-country="US",Revry Queer [1080]
-https://linear-43.frequency.stream/dist/galxy/43/hls/master/playlist.m3u8
+https://linear-43.frequency.stream/mt/galxy/43/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="TheDesignNetwork.us" tvg-name="The Design Network" group-title="Lifestyle" tvg-logo="https://i.imgur.com/J5YJ3r3.png" tvg-country="US",The Design Network [1080]
 https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TheJamieOliverChannel.us" tvg-name="The Jamie Oliver Channel" group-title="Lifestyle" tvg-logo="https://i.imgur.com/4v93XUB.png" tvg-country="US",The Jamie Oliver Channel [1080]
-https://d3i68hpvh19xjd.cloudfront.net/JamieOliver_GB.m3u8
+https://jamieoliver-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PlousTV.ve" tvg-name="Plous TV" group-title="Lifestyle" tvg-logo="https://i.imgur.com/OSet4en.png" tvg-country="VE",Plous TV [1080]
 https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8

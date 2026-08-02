@@ -6,7 +6,7 @@ http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="ThikrayatTV.sa" tvg-name="Thikrayat TV" group-title="Classic" tvg-logo="https://i.imgur.com/AKa1X9d.png" tvg-country="SA",Thikrayat TV [1080]
 https://aloula-redirect.vercel.app/3/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroCrush.us" tvg-name="RetroCrush" group-title="Classic" tvg-logo="https://i.imgur.com/M40b4YI.png" tvg-country="US",RetroCrush [1080]
-https://d2nqmwm1ndpgi2.cloudfront.net/playlist.m3u8
+https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="TheArchive.us" tvg-name="The Archive" group-title="Classic" tvg-country="US",The Archive [1080]
 https://linear-1080.frequency.stream/dist/cineverse/1080/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="TheCarolBurnettShow.us" tvg-name="The Carol Burnett Show" group-title="Classic" tvg-logo="https://i.imgur.com/1a03FlX.png" tvg-country="US",The Carol Burnett Show [1080]

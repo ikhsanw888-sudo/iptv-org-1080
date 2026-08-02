@@ -4,7 +4,7 @@ https://fflive-darya-educationtv.b-cdn.net/master.m3u8
 #EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" group-title="Education" tvg-logo="https://i.imgur.com/5XyopHf.png" tvg-country="BR",AgroCanal [1080]
 http://186.219.52.187:80/agro_canal/index.m3u8
 #EXTINF:-1 tvg-id="CanalEducacao.br" tvg-name="Canal Educacao" group-title="Education" tvg-logo="https://i.imgur.com/OOB7nrS.png" tvg-country="BR",Canal Educacao [1080]
-http://45.177.114.115:80/CANAL_EDUCACAO/index.m3u8
+http://138.255.2.6:8084/TVESCOLA/index.m3u8
 #EXTINF:-1 tvg-id="CanalFDR.br" tvg-name="Canal FDR" group-title="Education" tvg-logo="https://i.imgur.com/7SE4CkE.png" tvg-country="BR",Canal FDR [1080]
 https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
 #EXTINF:-1 tvg-id="CanalSaude.br" tvg-name="Canal Saude" group-title="Education" tvg-logo="https://i.imgur.com/ht4tUOc.png" tvg-country="BR",Canal Saude [1080]
@@ -17,6 +17,8 @@ https://app.tvufop.com.br/hls/tvufop.m3u8
 https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV17.cn" tvg-name="CCTV-17" group-title="Education" tvg-logo="https://i.imgur.com/jSQURxS.png" tvg-country="CN",CCTV-17 [1080]
 http://74.91.26.218:82/live/cctv17hd.m3u8
+#EXTINF:-1 tvg-id="CCTVWorldGeography.cn" tvg-name="CCTV-World Geography" group-title="Education" tvg-logo="https://i.imgur.com/V2ncOXi.png" tvg-country="CN",CCTV-World Geography [1080]
+http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="Eduvision.co" tvg-name="Eduvision" group-title="Education" tvg-logo="https://i.imgur.com/ppBdqel.png" tvg-country="CO",Eduvision [1080]
 https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
 #EXTINF:-1 tvg-id="ARDalpha.de" tvg-name="ARD-alpha" group-title="Education" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/960px-ARD_alpha.svg.png" tvg-country="DE",ARD-alpha [1080]
@@ -38,6 +40,8 @@ https://live.knou.ac.kr/knou1/live1/playlist.m3u8
 https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
 #EXTINF:-1 tvg-id="TVCuatro44.mx" tvg-name="TV Cuatro 4.4" group-title="Education" tvg-logo="https://i.imgur.com/Of044Jx.png" tvg-country="MX",TV Cuatro 4.4 [1080]
 https://5ca3e84a76d30.streamlock.net/tv44gto/tv44gto.smil/.m3u8
+#EXTINF:-1 tvg-id="TVUG.mx" tvg-name="TV UG" group-title="Education" tvg-logo="https://i.imgur.com/pxkDpTU.jpeg" tvg-country="MX",TV UG [1080]
+https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8
 #EXTINF:-1 tvg-id="PalestineEdu.ps" tvg-name="Palestine Edu" group-title="Education" tvg-logo="https://i.imgur.com/AwVHXyC.png" tvg-country="PS",Palestine Edu [1080]
 https://pbc.furrera.ps/PalestineEDU/index.m3u8
 #EXTINF:-1 tvg-id="DaVinci.ru" tvg-name="Da Vinci" group-title="Education" tvg-logo="https://i.imgur.com/V8AUJP6.png" tvg-country="RU",Da Vinci [1080]

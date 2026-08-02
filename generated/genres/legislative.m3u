@@ -17,8 +17,6 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/in
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
 #EXTINF:-1 tvg-id="MOITV.kh" tvg-name="MOI TV" group-title="Legislative" tvg-logo="https://i.imgur.com/fbI2ybo.png" tvg-country="KH",MOI TV [1080]
 http://202.62.56.22:8080/hls/MOITV.m3u8
-#EXTINF:-1 tvg-id="ChamberTV.lu" tvg-name="Chamber TV" group-title="Legislative" tvg-logo="https://i.imgur.com/0QHb3bc.png" tvg-country="LU",Chamber TV [1080]
-https://media02.webtvlive.eu/chd-edge/smil:chamber_tv_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PrivescEuTV.md" tvg-name="Privesc.Eu TV" group-title="Legislative" tvg-logo="https://i.imgur.com/ukBacSn.png" tvg-country="MD",Privesc.Eu TV [1080]
 https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
 #EXTINF:-1 tvg-id="HluttawSD.mm" tvg-name="Hluttaw S & D" group-title="Legislative" tvg-logo="https://i.imgur.com/Gffq8ks.png" tvg-country="MM",Hluttaw S & D [1080]
@@ -91,3 +89,5 @@ https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch5/video.m3u8
 https://reflect-communitytv.cablecast.tv/live-3/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="YumaChannel72.us" tvg-name="Yuma Channel 72" group-title="Legislative" tvg-logo="https://i.imgur.com/QsFBCWv.png" tvg-country="US",Yuma Channel 72 [1080]
 https://livestream.telvue.com/yumaaz1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="YumaChannel73.us" tvg-name="Yuma Channel 73" group-title="Legislative" tvg-logo="https://i.imgur.com/QsFBCWv.png" tvg-country="US",Yuma Channel 73 [1080]
+https://livestream.telvue.com/yumaaz2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8

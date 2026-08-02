@@ -21,8 +21,6 @@ https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 http://stream.mcquack.net/141/index.m3u8
 #EXTINF:-1 tvg-id="RTGTV.ru" tvg-name="RTG TV" group-title="Travel" tvg-logo="https://i.imgur.com/ZMKPAho.png" tvg-country="RU",RTG TV [1080]
 http://stream.mcquack.net/164/index.m3u8
-#EXTINF:-1 tvg-id="TravelPlusAdventure.ru" tvg-name="Travel+Adventure" group-title="Travel" tvg-logo="https://i.imgur.com/AlpdXC4.png" tvg-country="RU",Travel+Adventure [1080]
-http://31.148.48.15/Travel_Adventure_HD/index.m3u8
 #EXTINF:-1 tvg-id="TVSayohi.tj" tvg-name="TV Sayohi" group-title="Travel" tvg-logo="https://i.imgur.com/lAkMrtr.png" tvg-country="TJ",TV Sayohi [1080]
 https://live.teleradiocom.tj/16/3m.m3u8
 #EXTINF:-1 tvg-id="SpaceLivepoweredbysen.uk" tvg-name="Space Live powered by sen" group-title="Travel" tvg-logo="https://static.frequency.com/studio/itv/channels/1224-400x200.png" tvg-country="UK",Space Live powered by sen [1080]
