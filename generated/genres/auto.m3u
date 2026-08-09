@@ -8,5 +8,7 @@ http://stream.mcquack.net/78/index.m3u8
 #EXTINF:-1 tvg-id="Pershyiavtomobilnyi.ua" tvg-name="Pershyi avtomobilnyi" group-title="Auto" tvg-logo="https://i.imgur.com/ul93Lse.png" tvg-country="UA",Pershyi avtomobilnyi [1080]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/404/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurbo.us" tvg-name="Discovery Turbo" group-title="Auto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Discovery_Turbo_2025.svg/1920px-Discovery_Turbo_2025.svg.png" tvg-country="US",Discovery Turbo [1080]
+https://gpuserver3.tier1streams.com/MOTORTREND/index.m3u8
 #EXTINF:-1 tvg-id="PowerNationTV.us" tvg-name="PowerNation TV" group-title="Auto" tvg-logo="https://i.imgur.com/jguTO8E.png" tvg-country="US",PowerNation TV [1080]
-https://amg01258-raycomsports-powernationnz-samsungnz-q92ks.amagi.tv/playlist.m3u8
+https://d1g3ue0w0jg45k.cloudfront.net/POWERNATION.m3u8
