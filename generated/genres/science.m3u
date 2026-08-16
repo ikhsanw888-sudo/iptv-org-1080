@@ -3,19 +3,15 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.19/live/ozone/index.m3u8
 #EXTINF:-1 tvg-id="InWonder.nl" tvg-name="InWonder" group-title="Science" tvg-logo="https://cdn.uc.assets.prezly.com/1e0b2617-b145-4489-9d63-ba8438489f26/InWonder_portrait-black.png" tvg-country="NL",InWonder [1080]
-https://amg00861-terninternation-inwonderushd-samsungus-gqtpa.amagi.tv/playlist/amg00861-terninternation-inwonderushd-samsungus/playlist.m3u8
+https://amg00861-amg00861c9-stirr-us-8243.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CosmosTV.py" tvg-name="Cosmos TV" group-title="Science" tvg-logo="https://i.imgur.com/dAMyExY.jpg" tvg-country="PY",Cosmos TV [1080]
 https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
 #EXTINF:-1 tvg-id="scifi.ru" tvg-name=".sci-fi" group-title="Science" tvg-logo="https://i.imgur.com/nSSUHcg.png" tvg-country="RU",.sci-fi [1080]
 http://stream.mcquack.net/180/index.m3u8
-#EXTINF:-1 tvg-id="IlmvaTabiat.tj" tvg-name="Ilm va Tabiat" group-title="Science" tvg-logo="https://i.imgur.com/MDULX7X.png" tvg-country="TJ",Ilm va Tabiat [1080]
-https://live.teleradiocom.tj/15/3m.m3u8
 #EXTINF:-1 tvg-id="EkoTV.ua" tvg-name="Eko TV" group-title="Science" tvg-logo="https://i.imgur.com/WovATGb.png" tvg-country="UA",Eko TV [1080]
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.1.60/index.m3u8
 #EXTINF:-1 tvg-id="Wonder.uk" tvg-name="Wonder" group-title="Science" tvg-logo="https://i.imgur.com/LquGNbh.png" tvg-country="UK",Wonder [1080]
 https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SmithsonianChannel.us" tvg-name="Smithsonian Channel" group-title="Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/960px-SmithsonianChannellogo.png" tvg-country="US",Smithsonian Channel [1080]
-http://40.160.24.55/SMITHSONIAN/index.m3u8
 #EXTINF:-1 tvg-id="CanThoTV2.vn" tvg-name="Can Tho TV 2" group-title="Science" tvg-logo="https://i.ibb.co/JjVvkMsf/cantho2-2025.png" tvg-country="VN",Can Tho TV 2 [1080]
 https://live.canthotv.vn/cs2/live.stream/playlist.m3u8

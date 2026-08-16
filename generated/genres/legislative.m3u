@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CanalGov.br" tvg-name="Canal Gov" group-title="Legislative" tvg-logo="https://i.imgur.com/rHPY0Yv.png" tvg-country="BR",Canal Gov [1080]
-http://45.177.114.115:80/TV_BRASIL_2/index.m3u8
-#EXTINF:-1 tvg-id="CanalCongreso.co" tvg-name="Canal Congreso" group-title="Legislative" tvg-logo="https://i.imgur.com/erJDwtY.jpeg" tvg-country="CO",Canal Congreso [1080]
-http://138.121.15.230:9002/CANAL-CONGRESO/index.m3u8
+http://45.177.114.115/TV_BRASIL_2/index.m3u8
+#EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Camara" group-title="Legislative" tvg-logo="https://i.imgur.com/Sdou1Ab.png" tvg-country="BR",TV Camara [1080]
+https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-id="TVfromtheDanishParliament.dk" tvg-name="TV from the Danish Parliament" group-title="Legislative" tvg-logo="https://i.imgur.com/RqQDUzX.png" tvg-country="DK",TV from the Danish Parliament [1080]
 https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-id="HellenicParliamentTV.gr" tvg-name="Hellenic Parliament TV" group-title="Legislative" tvg-logo="https://i.imgur.com/o2cvqv3.png" tvg-country="GR",Hellenic Parliament TV [1080p]
@@ -14,12 +14,8 @@ https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
 https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8
 #EXTINF:-1 tvg-id="SenatoTV.it" tvg-name="Senato TV" group-title="Legislative" tvg-logo="https://i.imgur.com/h4NyN5d.png" tvg-country="IT",Senato TV [1080]
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
-#EXTINF:-1 tvg-id="MOITV.kh" tvg-name="MOI TV" group-title="Legislative" tvg-logo="https://i.imgur.com/fbI2ybo.png" tvg-country="KH",MOI TV [1080]
-http://202.62.56.22:8080/hls/MOITV.m3u8
 #EXTINF:-1 tvg-id="PrivescEuTV.md" tvg-name="Privesc.Eu TV" group-title="Legislative" tvg-logo="https://i.imgur.com/ukBacSn.png" tvg-country="MD",Privesc.Eu TV [1080]
 https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
-#EXTINF:-1 tvg-id="HluttawSD.mm" tvg-name="Hluttaw S & D" group-title="Legislative" tvg-logo="https://i.imgur.com/Gffq8ks.png" tvg-country="MM",Hluttaw S & D [1080]
-https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8
 #EXTINF:-1 tvg-id="ParliamentTV.mn" tvg-name="Parliament TV" group-title="Legislative" tvg-logo="https://i.imgur.com/OD7YKuz.jpeg" tvg-country="MN",Parliament TV [1080]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Parlament/HLSv3-FTA/Parlament.m3u8

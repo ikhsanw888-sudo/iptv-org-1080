@@ -20,13 +20,11 @@ https://d1mp1kdk5zi1ie.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central" group-title="Comedy" tvg-logo="https://images.pluto.tv/channels/64f8a408bd341e000818fcda/colorLogoPNG.png" tvg-country="US",Comedy Central [1080]
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us" tvg-name="Comedy Central Latin America" group-title="Comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" tvg-country="US",Comedy Central Latin America [1080]
-http://15.204.246.24:8080/ComedyCentralHD/index.m3u8
+http://190.93.224.42/COMEDY-CENTRAL/index.m3u8
 #EXTINF:-1 tvg-id="ComedyDynamics.us" tvg-name="Comedy Dynamics" group-title="Comedy" tvg-logo="https://i.imgur.com/1lEvUOa.png" tvg-country="US",Comedy Dynamics [1080]
 https://linear-903.frequency.stream/dist/xumo/903/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="JustforLaughsGags.us" tvg-name="Just for Laughs Gags" group-title="Comedy" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-country="US",Just for Laughs Gags [1080]
-https://streams2.sofast.tv/sofastplayout/4c727f82-d2ec-4a07-870c-49a6f22ee6f9_0_HLS/master.m3u8
-#EXTINF:-1 tvg-id="Laff.us" tvg-name="Laff" group-title="Comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" tvg-country="US",Laff [1080]
-http://40.160.24.53/LAFF_TV/index.m3u8
+https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8
 #EXTINF:-1 tvg-id="MysteryScienceTheater3000.us" tvg-name="Mystery Science Theater 3000" group-title="Comedy" tvg-logo="https://i.imgur.com/8KWjY4o.png" tvg-country="US",Mystery Science Theater 3000 [1080]
 https://d1c73nj8qxp55a.cloudfront.net/Mystery_Science_Theater_3000.m3u8
 #EXTINF:-1 tvg-id="NBCComedyVault.us" tvg-name="NBC Comedy Vault" group-title="Comedy" tvg-logo="https://i.imgur.com/nydZWwg.png" tvg-country="US",NBC Comedy Vault [1080]
@@ -34,4 +32,4 @@ https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="SNLVault.us" tvg-name="SNL Vault" group-title="Comedy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/712dae9e-9111-4bbc-8ea4-242e891ab5b3/snl-vault-fclogo-72-dpi-1500-x-1000-3-2-channel-logo-dark-plex-1.png" tvg-country="US",SNL Vault [1080]
 https://xumo-xumoent-vc-103-d3uqt.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="Starz Comedy" group-title="Comedy" tvg-logo="https://i.imgur.com/JpKvjZe.png" tvg-country="US",Starz Comedy [1080]
-http://40.160.24.55/STARZ_COMEDY/index.m3u8
+http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8

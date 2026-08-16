@@ -5,5 +5,7 @@ https://streaming.meteonews.net/hls/stream.m3u8
 https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
 #EXTINF:-1 tvg-id="AccuWeatherNOW.us" tvg-name="AccuWeather NOW" group-title="Weather" tvg-logo="https://i.imgur.com/M8wbVYK.png" tvg-country="US",AccuWeather NOW [1080]
 https://d1gldweznovt26.cloudfront.net/Accuweather.m3u8
+#EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="Fox Weather" group-title="Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/960px-Fox_Weather_logo.svg.png" tvg-country="US",Fox Weather [1080]
+https://pb-hum8cczphcrpf.akamaized.net/FOX_Weather.m3u8
 #EXTINF:-1 tvg-id="NorCastWeather.us" tvg-name="NorCast Weather" group-title="Weather" tvg-logo="https://i.imgur.com/AfjoZgo.png" tvg-country="US",NorCast Weather [1080]
 https://norcast-weather.streamology.live/api/v1/streams/c1b5b114698e1ad4687153c4402d5ef0/live.m3u8

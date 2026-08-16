@@ -11,8 +11,6 @@ https://fox.hostlagarto.com:8081/bajotechotv/tracks-v1a1/mono.m3u8
 https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
 #EXTINF:-1 tvg-id="ShopChannel.jp" tvg-name="Shop Channel" group-title="Shop" tvg-logo="https://www.shopch.jp/com/images/common/logo_2021.png" tvg-country="JP",Shop Channel [1080]
 https://stream3.shopch.jp/HLS/master.m3u8
-#EXTINF:-1 tvg-id="Leomax24.ru" tvg-name="Leomax 24" group-title="Shop" tvg-logo="https://i.imgur.com/qU9ohQu.png" tvg-country="RU",Leomax 24 [1080]
-https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 #EXTINF:-1 tvg-id="Magnat.ru" tvg-name="Magnat" group-title="Shop" tvg-logo="https://i.imgur.com/r485aZL.png" tvg-country="RU",Magnat [1080]
 https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
 #EXTINF:-1 tvg-id="VitrinaTV.ru" tvg-name="Vitrina TV" group-title="Shop" tvg-logo="https://i.imgur.com/lzQsVfn.png" tvg-country="RU",Vitrina TV [1080]
@@ -23,8 +21,6 @@ https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
 #EXTINF:-1 tvg-id="GemShoppingNetwork.us" tvg-name="Gem Shopping Network" group-title="Shop" tvg-logo="https://i.imgur.com/WlHEpAu.png" tvg-country="US",Gem Shopping Network [1080]
 https://amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="HSN.us" tvg-name="HSN" group-title="Shop" tvg-logo="https://i.imgur.com/rnZN7rD.png" tvg-country="US",HSN [1080]
-http://40.160.24.53/HSN/index.m3u8
 #EXTINF:-1 tvg-id="JewelryTV.us" tvg-name="Jewelry TV" group-title="Shop" tvg-logo="https://i.imgur.com/mBcwks7.png" tvg-country="US",Jewelry TV [1080]
 https://content.jwplatform.com/live/broadcast/oe7UD7Ag.m3u8
 #EXTINF:-1 tvg-id="JewelryTV2.us" tvg-name="Jewelry TV 2" group-title="Shop" tvg-country="US",Jewelry TV 2 [1080]

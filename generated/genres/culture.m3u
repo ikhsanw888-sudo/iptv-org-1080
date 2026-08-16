@@ -7,20 +7,16 @@ https://belafrikamediatv.vedge.infomaniak.com/livecast/ik:belafrikamediatv/manif
 https://media.streambrothers.com:1936/8506/8506/playlist.m3u8
 #EXTINF:-1 tvg-id="TVLifeAmerica.br" tvg-name="TV Life America" group-title="Culture" tvg-logo="https://i.imgur.com/HZI0ilU.png" tvg-country="BR",TV Life America [1080]
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
+#EXTINF:-1 tvg-id="CMalayalamTV.ca" tvg-name="C Malayalam TV" group-title="Culture" tvg-logo="https://i.imgur.com/rpg0bQA.png" tvg-country="CA",C Malayalam TV [1080]
+https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
 #EXTINF:-1 tvg-id="DoyelTV.ca" tvg-name="Doyel TV" group-title="Culture" tvg-logo="https://i.imgur.com/8pR8Q4J.png" tvg-country="CA",Doyel TV [1080]
 https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8
+#EXTINF:-1 tvg-id="EETTV.ca" tvg-name="EET TV" group-title="Culture" tvg-logo="https://i.imgur.com/rntSEDZ.png" tvg-country="CA",EET TV [1080]
+https://eu.streamjo.com/eetlive/eettv.m3u8
 #EXTINF:-1 tvg-id="AfroMagicChannel.ci" tvg-name="Afro Magic Channel" group-title="Culture" tvg-logo="https://i.imgur.com/yQzXErU.png" tvg-country="CI",Afro Magic Channel [1080]
 https://video1.getstreamhosting.com:1936/8306/8306/playlist.m3u8
-#EXTINF:-1 tvg-id="AfrocultureTV.ci" tvg-name="Afroculture TV" group-title="Culture" tvg-logo="https://i.imgur.com/bjaZ3kO.png" tvg-country="CI",Afroculture TV [1080]
-https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="13C" group-title="Culture" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/13c_%282025%29.png" tvg-country="CL",13C [1080]
-https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1 tvg-id="ARTV.cl" tvg-name="ARTV" group-title="Culture" tvg-logo="https://i.imgur.com/rKP1ihL.png" tvg-country="CL",ARTV [1080]
 http://45.162.193.35/ARTV/index.m3u8
-#EXTINF:-1 tvg-id="Mega2.cl" tvg-name="Mega 2" group-title="Culture" tvg-logo="https://i.imgur.com/c1ME00r.png" tvg-country="CL",Mega 2 [1080]
-http://15.204.246.24:8080/Mega2HD/index.m3u8
-#EXTINF:-1 tvg-id="SuyaiTV.cl" tvg-name="Suyai TV" group-title="Culture" tvg-logo="https://suyaitv.cl/wp-content/uploads/2024/10/ico_Suyai_TV_512.png" tvg-country="CL",Suyai TV [1080]
-https://origin.skarnetchile.com:8081/suyai-tv-hd/index.m3u8
 #EXTINF:-1 tvg-id="VersoTV.cl" tvg-name="Verso TV" group-title="Culture" tvg-logo="https://i.imgur.com/zdv4IF8.png" tvg-country="CL",Verso TV [1080]
 https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8
 #EXTINF:-1 tvg-id="LanzhouCultureTourismChannel.cn" tvg-name="Lanzhou Culture & Tourism Channel" group-title="Culture" tvg-logo="https://www.tvchinese.net/uploads/tv/lanzhou.jpg" tvg-country="CN",Lanzhou Culture & Tourism Channel [1080]
@@ -29,12 +25,8 @@ https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8
 http://play1-qk.nmtv.cn/live/1769652109096027.m3u8
 #EXTINF:-1 tvg-id="KulturMD.de" tvg-name="KulturMD" group-title="Culture" tvg-logo="https://i.imgur.com/io7cJ1Z.png" tvg-country="DE",KulturMD [1080]
 http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal17RTVD.do" tvg-name="Canal 17 RTVD" group-title="Culture" tvg-logo="https://i.ibb.co/2YvKhjW4/Quisqueya-17-AZUL.png" tvg-country="DO",Canal 17 RTVD [1080]
-https://cdn.protvradiostream.com/rtvd17/ngrp:rtvd17_all/playlist.m3u8
 #EXTINF:-1 tvg-id="El33.es" tvg-name="El 33" group-title="Culture" tvg-logo="https://i.imgur.com/frKCBTN.png" tvg-country="ES",El 33 [1080]
-https://directes-tv-int.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8
-#EXTINF:-1 tvg-id="HamaikaTelebista.es" tvg-name="Hamaika Telebista" group-title="Culture" tvg-logo="https://i.imgur.com/HR3G3Ie.png" tvg-country="ES",Hamaika Telebista [1080]
-https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
+https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
 #EXTINF:-1 tvg-id="zenith.fr" tvg-name="zenith" group-title="Culture" tvg-logo="https://znth.tv/images/logo.png" tvg-country="FR",zenith [1080]
 https://live.azenagroup.com/zenith/index.m3u8
 #EXTINF:-1 tvg-id="SanskarTV.in" tvg-name="Sanskar TV" group-title="Culture" tvg-logo="https://dtil.tmsimg.com/assets/s143713_ld_h15_aa.png?lock=720x540" tvg-country="IN",Sanskar TV [1080]
@@ -74,7 +66,5 @@ https://fnx.lls.pbs.org/index.m3u8
 https://foxsoul-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="JewishLifeTelevision.us" tvg-name="Jewish Life Television" group-title="Culture" tvg-logo="https://yt3.googleusercontent.com/i6ETvgNzA8vvGCo-Ih6eo2XZUwz2VVMnstLyNZVXBlwa4uOeUIEl-3tzphB8phJaibe-FPQ5Fw=s512-c-k-c0x00ffffff-no-rj" tvg-country="US",Jewish Life Television [1080]
 https://jlt-jltv-xumo.otteravision.com/jlt/jltv/jltv.m3u8
-#EXTINF:-1 tvg-id="Ovation.us" tvg-name="Ovation" group-title="Culture" tvg-logo="https://i.imgur.com/A3o9gvc.png" tvg-country="US",Ovation [1080]
-http://40.160.24.55/OVATION/index.m3u8
 #EXTINF:-1 tvg-id="CanalDiplomatico.ve" tvg-name="Canal Diplomatico" group-title="Culture" tvg-logo="https://i.ibb.co/34vsSzS/1439-Canal-Diplomatico.png" tvg-country="VE",Canal Diplomatico [1080]
 https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8
