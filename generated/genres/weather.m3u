@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Meteonews.ch" tvg-name="Meteonews" group-title="Weather" tvg-logo="https://i.imgur.com/YtYhbJD.png" tvg-country="CH",Meteonews [1080]
 https://streaming.meteonews.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Megatiempo.cl" tvg-name="Megatiempo" group-title="Weather" tvg-logo="https://i.imgur.com/1xLhAEq.png" tvg-country="CL",Megatiempo [1080]
+http://cdn1tlinkgo.tlink.cl/megatiempo/mono.m3u8
 #EXTINF:-1 tvg-id="3CatCameresdeltemps.es" tvg-name="3Cat Cameres del temps" group-title="Weather" tvg-logo="https://i.imgur.com/zXy2kbe.png" tvg-country="ES",3Cat Cameres del temps [1080]
 https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
 #EXTINF:-1 tvg-id="AccuWeatherNOW.us" tvg-name="AccuWeather NOW" group-title="Weather" tvg-logo="https://i.imgur.com/M8wbVYK.png" tvg-country="US",AccuWeather NOW [1080]

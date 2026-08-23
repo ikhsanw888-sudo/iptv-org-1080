@@ -19,8 +19,6 @@ https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
 #EXTINF:-1 tvg-id="ParliamentTV.mn" tvg-name="Parliament TV" group-title="Legislative" tvg-logo="https://i.imgur.com/OD7YKuz.jpeg" tvg-country="MN",Parliament TV [1080]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Parlament/HLSv3-FTA/Parlament.m3u8
-#EXTINF:-1 tvg-id="IcrtvColima.mx" tvg-name="Icrtv Colima" group-title="Legislative" tvg-logo="https://i.imgur.com/iUks0ot.png" tvg-country="MX",Icrtv Colima [1080]
-https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ParliamentTV.nz" tvg-name="Parliament TV" group-title="Legislative" tvg-logo="https://i.imgur.com/2aHW4q7.png" tvg-country="NZ",Parliament TV [1080]
 https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
 #EXTINF:-1 tvg-id="JusticiaTV.pe" tvg-name="Justicia TV" group-title="Legislative" tvg-logo="https://i.imgur.com/VOjLXJd.png" tvg-country="PE",Justicia TV [1080]
@@ -35,6 +33,8 @@ https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
 http://stream.mcquack.net/246/index.m3u8
 #EXTINF:-1 tvg-id="ATXN1.us" tvg-name="ATXN1" group-title="Legislative" tvg-logo="https://i.imgur.com/tSMtDlz.png" tvg-country="US",ATXN1 [1080]
 https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(616d6f49-eaec-6f7e-7186-2bbaf66c69c0)/index.m3u8
+#EXTINF:-1 tvg-id="BATVGovernmentChannel.us" tvg-name="BATV Government Channel" group-title="Legislative" tvg-logo="https://i.imgur.com/4MdSstx.png" tvg-country="US",BATV Government Channel [1080]
+https://livestream.telvue.com/billerica3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="CapitalCityConnectionMontgomery.us" tvg-name="Capital City Connection Montgomery" group-title="Legislative" tvg-logo="https://image.roku.com/developer_channels/prod/a2cb55884ff88035ebbbb32ef9c60a228314d0a2ac4c86722aff5ea1cb9abcd8.png" tvg-country="US",Capital City Connection Montgomery [1080]
 https://capitalcityconnection.cablecast.tv/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="CGTV.us" tvg-name="CGTV" group-title="Legislative" tvg-logo="https://champaignil.gov/wp-content/uploads/2011/06/cgtv-page-logo.jpg" tvg-country="US",CGTV [1080]
