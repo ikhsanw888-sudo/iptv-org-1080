@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Motorvision.de" tvg-name="Motorvision" group-title="Auto" tvg-logo="https://i.imgur.com/v4kj8pI.png" tvg-country="DE",Motorvision [1080]
-https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 #EXTINF:-1 tvg-id="ShiftTV.hr" tvg-name="Shift TV" group-title="Auto" tvg-logo="https://i.imgur.com/mudXVT8.png" tvg-country="HR",Shift TV [1080]
 https://hls.shift.tv/live/shifttv/playlist.m3u8
 #EXTINF:-1 tvg-id="Avto24.ru" tvg-name="Avto24" group-title="Auto" tvg-logo="https://i.imgur.com/GXSXmN2.png" tvg-country="RU",Avto24 [1080]
@@ -9,4 +9,4 @@ http://stream.mcquack.net/78/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/404/index.m3u8
 #EXTINF:-1 tvg-id="PowerNationTV.us" tvg-name="PowerNation TV" group-title="Auto" tvg-logo="https://i.imgur.com/jguTO8E.png" tvg-country="US",PowerNation TV [1080]
-https://amg01258-raycomsports-powernationnz-samsungnz-q92ks.amagi.tv/playlist.m3u8
+https://d1g3ue0w0jg45k.cloudfront.net/POWERNATION.m3u8

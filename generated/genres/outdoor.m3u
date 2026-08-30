@@ -18,14 +18,12 @@ https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playl
 #EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu" tvg-name="The Fishing & Hunting Channel" group-title="Outdoor" tvg-logo="https://i.imgur.com/KcTTnUA.png" tvg-country="HU",The Fishing & Hunting Channel [1080]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.19/live/fishing_hun/index.m3u8
-#EXTINF:-1 tvg-id="ItalianFishingTV.it" tvg-name="Italian Fishing TV" group-title="Outdoor" tvg-logo="https://i.imgur.com/qrn6tUO.png" tvg-country="IT",Italian Fishing TV [1080]
-https://fms.premio.link/fishingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Dikayaokhota.ru" tvg-name="Dikaya okhota" group-title="Outdoor" tvg-logo="https://i.imgur.com/EOue13e.png" tvg-country="RU",Dikaya okhota [1080]
 http://stream.mcquack.net/274/index.m3u8
 #EXTINF:-1 tvg-id="Dikayarybalka.ru" tvg-name="Dikaya rybalka" group-title="Outdoor" tvg-logo="https://i.imgur.com/e3BFVgt.png" tvg-country="RU",Dikaya rybalka [1080]
 http://stream.mcquack.net/275/index.m3u8
 #EXTINF:-1 tvg-id="MoyaPlaneta.ru" tvg-name="Moya Planeta" group-title="Outdoor" tvg-logo="https://i.imgur.com/uIiAdBv.png" tvg-country="RU",Moya Planeta [1080]
-http://stream.mcquack.net/124/index.m3u8
+http://91.226.120.120/chid210/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Ohotnikirybolov.ru" tvg-name="Ohotnik i rybolov" group-title="Outdoor" tvg-logo="https://i.imgur.com/Bj1jI7F.png" tvg-country="RU",Ohotnik i rybolov [1080]
 http://stream.mcquack.net/194/index.m3u8
 #EXTINF:-1 tvg-id="Trofei.ua" tvg-name="Trofei" group-title="Outdoor" tvg-logo="https://i.imgur.com/VDt4mKB.png" tvg-country="UA",Trofei [1080]
@@ -44,10 +42,10 @@ https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
 #EXTINF:-1 tvg-id="OutdoorAmerica.us" tvg-name="Outdoor America" group-title="Outdoor" tvg-logo="https://i.imgur.com/UKfimFD.png" tvg-country="US",Outdoor America [1080]
 https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" group-title="Outdoor" tvg-logo="https://i.imgur.com/Kh4MWaY.png" tvg-country="US",Outdoor Channel [1080]
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="OutsideTV.us" tvg-name="Outside TV" group-title="Outdoor" tvg-logo="https://a.jsrdn.com/hls/22765/outside-tv/extras/1080_logo.png" tvg-country="US",Outside TV [1080]
 https://desdobebr2wri.cloudfront.net/Outside.m3u8
 #EXTINF:-1 tvg-id="PursuitUP.us" tvg-name="PursuitUP" group-title="Outdoor" tvg-logo="https://i.imgur.com/5Vzwqts.png" tvg-country="US",PursuitUP [1080]
 https://a-cdn.klowdtv.com/live2/pursuitup/playlist.m3u8
 #EXTINF:-1 tvg-id="WaypointTV.us" tvg-name="Waypoint TV" group-title="Outdoor" tvg-logo="https://i.imgur.com/9vvlJN9.png" tvg-country="US",Waypoint TV [1080]
-https://amg00381-waypointcommuni-waypointtv-xumo-syiru.amagi.tv/playlist.m3u8
+https://djb4ma5fajjay.cloudfront.net/Waypoint_TV.m3u8
