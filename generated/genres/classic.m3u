@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TVN3.cl" tvg-name="TVN3" group-title="Classic" tvg-logo="https://i.imgur.com/9LEiQPJ.png" tvg-country="CL",TVN3 [1080]
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
-#EXTINF:-1 tvg-id="CCTVNostalgiaTheater.cn" tvg-name="CCTV-Nostalgia Theater" group-title="Classic" tvg-logo="https://i.imgur.com/TVs9PBc.png" tvg-country="CN",CCTV-Nostalgia Theater [1080]
-http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="ThikrayatTV.sa" tvg-name="Thikrayat TV" group-title="Classic" tvg-logo="https://i.imgur.com/AKa1X9d.png" tvg-country="SA",Thikrayat TV [1080]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.m3u8
 #EXTINF:-1 tvg-id="RetroCrush.us" tvg-name="RetroCrush" group-title="Classic" tvg-logo="https://i.imgur.com/M40b4YI.png" tvg-country="US",RetroCrush [1080]

@@ -1,29 +1,23 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ElGourmet.ar" tvg-name="El Gourmet" group-title="Cooking" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png" tvg-country="AR",El Gourmet [1080]
-http://15.204.246.24:8080/ElGourmetHD/index.m3u8
+http://190.93.224.42/EL-GOURMET/index.m3u8
 #EXTINF:-1 tvg-id="ChefTV.br" tvg-name="Chef TV" group-title="Cooking" tvg-logo="https://i.imgur.com/UYksTee.png" tvg-country="BR",Chef TV [1080]
-http://45.190.28.50/CHEF_TV/index.m3u8
+http://168.197.104.22/CHEF_TV/index.m3u8
 #EXTINF:-1 tvg-id="GustoTV.ca" tvg-name="Gusto TV" group-title="Cooking" tvg-logo="https://i.imgur.com/swUX3hQ.png" tvg-country="CA",Gusto TV [1080]
-https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
+https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TV5MONDEChefs.fr" tvg-name="TV5MONDE Chefs" group-title="Cooking" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9adadebc-556e-4510-a632-ee532eb5863b/LOGO_PLEX_CHEFS_1500X1000_WHITE.png" tvg-country="FR",TV5MONDE Chefs [1080]
 https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
-#EXTINF:-1 tvg-id="ETVAbhiruchi.in" tvg-name="ETV Abhiruchi" group-title="Cooking" tvg-logo="https://dtil.tmsimg.com/assets/s143023_ld_h15_aa.png?lock=720x540" tvg-country="IN",ETV Abhiruchi [1080]
-https://dg3721c3ez5m0.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264_cloud-in/index.m3u8
 #EXTINF:-1 tvg-id="JordanKitchen.jo" tvg-name="Jordan Kitchen" group-title="Cooking" tvg-logo="https://i.imgur.com/B45qcQX.png" tvg-country="JO",Jordan Kitchen [1080]
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
-#EXTINF:-1 tvg-id="CityEdenReceptyGurmana.ru" tvg-name="City Eden Recepty Gurmana" group-title="Cooking" tvg-logo="https://i.imgur.com/wR0pvRc.png" tvg-country="RU",City Eden Recepty Gurmana [1080]
-https://cityeden.catcast.tv/content/47516/index.m3u8
 #EXTINF:-1 tvg-id="FoodTime.ru" tvg-name="FoodTime" group-title="Cooking" tvg-logo="https://i.imgur.com/gxCYAwH.png" tvg-country="RU",FoodTime [1080]
 http://stream.mcquack.net/216/index.m3u8
 #EXTINF:-1 tvg-id="AmericasTestKitchen.us" tvg-name="America's Test Kitchen" group-title="Cooking" tvg-logo="https://i.imgur.com/prMkTsZ.png" tvg-country="US",America's Test Kitchen [1080]
-https://aegis-cloudfront-1.tubi.video/0094c1fc-7c41-45d0-af7a-6bbb62d6cd6e/playlist.m3u8
+https://amg01420-americastestkitchen-amg01420c1-xumo-us-878.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="bonappetit.us" tvg-name="bon appetit" group-title="Cooking" tvg-logo="https://i.imgur.com/YhFFxlE.png" tvg-country="US",bon appetit [1080]
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ChefRocShow.us" tvg-name="Chef Roc Show" group-title="Cooking" tvg-logo="https://i.imgur.com/vhVnAzE.png" tvg-country="US",Chef Roc Show [1080]
-https://rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8
 #EXTINF:-1 tvg-id="Tastemade.us" tvg-name="Tastemade" group-title="Cooking" tvg-logo="https://i.imgur.com/xP7Ehn8.png" tvg-country="US",Tastemade [1080]
-https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8
+https://pb-rlo4if9lnjthw.akamaized.net/Tastemade.m3u8
 #EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-name="Tastemade en Espanol" group-title="Cooking" tvg-logo="https://i.imgur.com/8s6aRwv.png" tvg-country="US",Tastemade en Espanol [1080]
 https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TastemadeTravel.us" tvg-name="Tastemade Travel" group-title="Cooking" tvg-logo="https://i.imgur.com/8s6aRwv.png" tvg-country="US",Tastemade Travel [1080]
-https://d6ef3usc6d9cl.cloudfront.net/Tastemade_Travel.m3u8
+https://tm-tmtar-xumo.amagi.tv/playlist.m3u8

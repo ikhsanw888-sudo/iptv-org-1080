@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CanalGov.br" tvg-name="Canal Gov" group-title="Legislative" tvg-logo="https://i.imgur.com/rHPY0Yv.png" tvg-country="BR",Canal Gov [1080]
 http://45.177.114.115/TV_BRASIL_2/index.m3u8
-#EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Camara" group-title="Legislative" tvg-logo="https://i.imgur.com/Sdou1Ab.png" tvg-country="BR",TV Camara [1080]
-https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-id="TVfromtheDanishParliament.dk" tvg-name="TV from the Danish Parliament" group-title="Legislative" tvg-logo="https://i.imgur.com/RqQDUzX.png" tvg-country="DK",TV from the Danish Parliament [1080]
 https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-id="HellenicParliamentTV.gr" tvg-name="Hellenic Parliament TV" group-title="Legislative" tvg-logo="https://i.imgur.com/o2cvqv3.png" tvg-country="GR",Hellenic Parliament TV [1080p]
@@ -18,12 +16,13 @@ https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
 #EXTINF:-1 tvg-id="ParliamentTV.mn" tvg-name="Parliament TV" group-title="Legislative" tvg-logo="https://i.imgur.com/OD7YKuz.jpeg" tvg-country="MN",Parliament TV [1080]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Parlament/HLSv3-FTA/Parlament.m3u8
-#EXTINF:-1 tvg-id="IcrtvColima.mx" tvg-name="Icrtv Colima" group-title="Legislative" tvg-logo="https://i.imgur.com/iUks0ot.png" tvg-country="MX",Icrtv Colima [1080]
-https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ParliamentTV.nz" tvg-name="Parliament TV" group-title="Legislative" tvg-logo="https://i.imgur.com/2aHW4q7.png" tvg-country="NZ",Parliament TV [1080]
 https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
 #EXTINF:-1 tvg-id="JusticiaTV.pe" tvg-name="Justicia TV" group-title="Legislative" tvg-logo="https://i.imgur.com/VOjLXJd.png" tvg-country="PE",Justicia TV [1080]
 http://190.93.224.42/JUSTICIA-TV/index.m3u8
+#EXTINF:-1 tvg-id="DumaTV.ru" tvg-name="Duma TV" group-title="Legislative" tvg-logo="https://i.imgur.com/JvlO3PU.png" tvg-country="RU",Duma TV [1080]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://dumatv.iptv2022.com/playlist.m3u8
 #EXTINF:-1 tvg-id="LegislativeAssemblyofElSalvador.sv" tvg-name="Legislative Assembly of El Salvador" group-title="Legislative" tvg-logo="https://i.imgur.com/OBuiCyb.png" tvg-country="SV",Legislative Assembly of El Salvador [1080]
 https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
 #EXTINF:-1 tvg-id="PershyiZahidnyi.ua" tvg-name="Pershyi Zahidnyi" group-title="Legislative" tvg-logo="https://i.imgur.com/SnljTbR.png" tvg-country="UA",Pershyi Zahidnyi [1080]
@@ -59,8 +58,6 @@ https://edge-f.swagit.com/live/glendaleaz/live-1-a-1/playlist.m3u8
 https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-2/live.m3u8
 #EXTINF:-1 tvg-id="LGTV.us" tvg-name="LGTV" group-title="Legislative" tvg-logo="https://i.imgur.com/d5w2pT4.png" tvg-country="US",LGTV [1080]
 https://livestream.telvue.com/lexmedia3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lexmedia3/stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="MidpenMediaCenterChannel29.us" tvg-name="Midpen Media Center Channel 29" group-title="Legislative" tvg-logo="https://i.imgur.com/RPJiolQ.png" tvg-country="US",Midpen Media Center Channel 29 [1080]
-https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8
 #EXTINF:-1 tvg-id="MonroeCountyTV.us" tvg-name="Monroe County TV" group-title="Legislative" tvg-logo="https://i.imgur.com/YJfzdSu.png" tvg-country="US",Monroe County TV [1080]
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8
 #EXTINF:-1 tvg-id="SFGovTV.us" tvg-name="SFGovTV" group-title="Legislative" tvg-logo="https://i.imgur.com/uYXuwmV.png" tvg-country="US",SFGovTV [1080]
@@ -75,3 +72,5 @@ https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch5/video.m3u8
 https://reflect-communitytv.cablecast.tv/live-3/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="YumaChannel72.us" tvg-name="Yuma Channel 72" group-title="Legislative" tvg-logo="https://i.imgur.com/QsFBCWv.png" tvg-country="US",Yuma Channel 72 [1080]
 https://livestream.telvue.com/yumaaz1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="YumaChannel73.us" tvg-name="Yuma Channel 73" group-title="Legislative" tvg-logo="https://i.imgur.com/QsFBCWv.png" tvg-country="US",Yuma Channel 73 [1080]
+https://livestream.telvue.com/yumaaz2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8

@@ -11,6 +11,8 @@ http://88.212.15.19/live/test_parpika_tv_sd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPaprika.hu" tvg-name="TV Paprika" group-title="Travel" tvg-logo="https://i.imgur.com/KLpZIS6.png" tvg-country="HU",TV Paprika [1080]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.19/live/parpika_hun/index.m3u8
+#EXTINF:-1 tvg-id="Travelxp.in" tvg-name="Travelxp" group-title="Travel" tvg-logo="https://dtil.tmsimg.com/assets/s144015_ld_h15_aa.png?lock=720x540" tvg-country="IN",Travelxp [1080]
+http://stream.mcquack.net/451/index.m3u8
 #EXTINF:-1 tvg-id="PeerTVAltoAdige.it" tvg-name="Peer TV Alto Adige" group-title="Travel" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png" tvg-country="IT",Peer TV Alto Adige [1080]
 https://iptv.peer.biz/live/peertv-it.m3u8
 #EXTINF:-1 tvg-id="PeerTVSouthTyrol.it" tvg-name="Peer TV South Tyrol" group-title="Travel" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-south-tyrol.png" tvg-country="IT",Peer TV South Tyrol [1080]
@@ -18,7 +20,7 @@ https://iptv.peer.biz/live/peertv-en.m3u8
 #EXTINF:-1 tvg-id="PeerTVSudtirol.it" tvg-name="Peer TV Sudtirol" group-title="Travel" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png" tvg-country="IT",Peer TV Sudtirol [1080]
 https://iptv.peer.biz/live/peertv.m3u8
 #EXTINF:-1 tvg-id="INTRAVEL.nl" tvg-name="INTRAVEL" group-title="Travel" tvg-logo="https://cdn.uc.assets.prezly.com/394f887e-bb39-4228-b126-93914e375b13/-/preview/2000x2000/-/resize/1600/INTRAVEL_PortraitColor.png" tvg-country="NL",INTRAVEL [1080]
-https://amg00861-amg00861c22-stirr-us-8773.playouts.now.amagi.tv/playlist.m3u8
+https://amg00861-amg00861c10-firetv-us-4726.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="LivingAsiaChannel.ph" tvg-name="Living Asia Channel" group-title="Travel" tvg-logo="https://i.imgur.com/q3UToRM.png" tvg-country="PH",Living Asia Channel [1080]
 https://cdn.vegasplus.us/vegas/lac/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoverPakistan.pk" tvg-name="Discover Pakistan" group-title="Travel" tvg-logo="https://i.imgur.com/IJH47fJ.png" tvg-country="PK",Discover Pakistan [1080]
@@ -27,6 +29,8 @@ https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 http://stream.mcquack.net/141/index.m3u8
 #EXTINF:-1 tvg-id="RTGTV.ru" tvg-name="RTG TV" group-title="Travel" tvg-logo="https://i.imgur.com/ZMKPAho.png" tvg-country="RU",RTG TV [1080]
 http://stream.mcquack.net/164/index.m3u8
+#EXTINF:-1 tvg-id="TravelPlusAdventure.ru" tvg-name="Travel+Adventure" group-title="Travel" tvg-logo="https://i.imgur.com/AlpdXC4.png" tvg-country="RU",Travel+Adventure [1080]
+http://77.232.131.211/TravelAdventureHD/index.m3u8
 #EXTINF:-1 tvg-id="SpaceLivepoweredbysen.uk" tvg-name="Space Live powered by sen" group-title="Travel" tvg-logo="https://static.frequency.com/studio/itv/channels/1224-400x200.png" tvg-country="UK",Space Live powered by sen [1080]
 https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="DroneTV.us" tvg-name="DroneTV" group-title="Travel" tvg-logo="https://i.ibb.co/S71C9RJC/dronetv.webp" tvg-country="US",DroneTV [1080]
