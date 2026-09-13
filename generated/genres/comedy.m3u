@@ -15,10 +15,6 @@ http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 http://stream.mcquack.net/201/index.m3u8
 #EXTINF:-1 tvg-id="HAHATV.sk" tvg-name="HAHA TV" group-title="Comedy" tvg-country="SK",HAHA TV [1080]
 https://dash3.antik.sk/live/test_haha_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PlanetFun.uk" tvg-name="Planet Fun" group-title="Comedy" tvg-logo="https://i.imgur.com/5U1iKUq.png" tvg-country="UK",Planet Fun [1080]
-http://66.102.126.10:8000/play/a02k/index.m3u8
-#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central" group-title="Comedy" tvg-logo="https://images.pluto.tv/channels/64f8a408bd341e000818fcda/colorLogoPNG.png" tvg-country="US",Comedy Central [1080]
-http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us" tvg-name="Comedy Central Latin America" group-title="Comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" tvg-country="US",Comedy Central Latin America [1080]
 http://15.204.246.24:8080/ComedyCentralHD/index.m3u8
 #EXTINF:-1 tvg-id="ComedyDynamics.us" tvg-name="Comedy Dynamics" group-title="Comedy" tvg-logo="https://i.imgur.com/1lEvUOa.png" tvg-country="US",Comedy Dynamics [1080]
@@ -27,6 +23,8 @@ https://linear-903.frequency.stream/dist/xumo/903/hls/master/playlist.m3u8
 http://stream.mcquack.net/458/index.m3u8
 #EXTINF:-1 tvg-id="JustforLaughsGags.us" tvg-name="Just for Laughs Gags" group-title="Comedy" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-country="US",Just for Laughs Gags [1080]
 https://streams2.sofast.tv/sofastplayout/4c727f82-d2ec-4a07-870c-49a6f22ee6f9_0_HLS/master.m3u8
+#EXTINF:-1 tvg-id="Laff.us" tvg-name="Laff" group-title="Comedy" tvg-logo="https://i.imgur.com/6w1Wj3j.png" tvg-country="US",Laff [1080]
+http://4.30.180.36:8420/laff/index.m3u8?token=test
 #EXTINF:-1 tvg-id="MysteryScienceTheater3000.us" tvg-name="Mystery Science Theater 3000" group-title="Comedy" tvg-logo="https://i.imgur.com/8KWjY4o.png" tvg-country="US",Mystery Science Theater 3000 [1080]
 https://d1c73nj8qxp55a.cloudfront.net/Mystery_Science_Theater_3000.m3u8
 #EXTINF:-1 tvg-id="NBCComedyVault.us" tvg-name="NBC Comedy Vault" group-title="Comedy" tvg-logo="https://i.imgur.com/nydZWwg.png" tvg-country="US",NBC Comedy Vault [1080]

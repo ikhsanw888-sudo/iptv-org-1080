@@ -13,6 +13,14 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 tvg-id="STSLove.ru" tvg-name="STS Love" group-title="Family" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/3/35/%D0%A1%D0%A2%D0%A1_Love_%282023%29.svg/1920px-%D0%A1%D0%A2%D0%A1_Love_%282023%29.svg.png" tvg-country="RU",STS Love [1920]
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+#EXTINF:-1 tvg-id="VelvetEuropeanMovies.ru" tvg-name="Velvet. European Movies" group-title="Family" tvg-logo="https://antiabuse-container.b-cdn.net/eurkino.png" tvg-country="RU",Velvet. European Movies [1080]
+https://cdn.rostelekom-tv.xyz/live/LQ3j0n7j0Kq4OQm8.m3u8
+#EXTINF:-1 tvg-id="VelvetSeriesHits.ru" tvg-name="Velvet. Series Hits" group-title="Family" tvg-logo="https://antiabuse-container.b-cdn.net/serialyhity.png" tvg-country="RU",Velvet. Series Hits [1080]
+https://cdn.rostelekom-tv.xyz/live/DeWr3Sgw1Aj2lJd0.m3u8
+#EXTINF:-1 tvg-id="VelvetSvaty.ru" tvg-name="Velvet. Svaty" group-title="Family" tvg-logo="https://interra-cdn-europe1.b-cdn.net/svatyv.png" tvg-country="RU",Velvet. Svaty [1080]
+https://cdn.rostelekom-tv.xyz/live/HSxyMqDlSVR54UTN.m3u8
+#EXTINF:-1 tvg-id="VelvetWorldSeries.ru" tvg-name="Velvet. World Series" group-title="Family" tvg-logo="https://antiabuse-container.b-cdn.net/mirseriallogo.png" tvg-country="RU",Velvet. World Series [1080]
+https://cdn.rostelekom-tv.xyz/live/2RR44py-yGlIWQIp.m3u8
 #EXTINF:-1 tvg-id="AlSouriyaTV.sy" tvg-name="Al-Souriya TV" group-title="Family" tvg-logo="https://i.imgur.com/8FILgXT.jpeg" tvg-country="SY",Al-Souriya TV [1080]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8
 #EXTINF:-1 tvg-id="AMGTV.us" tvg-name="AMG TV" group-title="Family" tvg-logo="https://i.imgur.com/m5Anun9.png" tvg-country="US",AMG TV [1080]
@@ -22,9 +30,11 @@ https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="EstrellaGames.us" tvg-name="Estrella Games" group-title="Family" tvg-logo="https://i.imgur.com/Z52nEnH.png" tvg-country="US",Estrella Games [1080]
 https://d3jx4o3w9313un.cloudfront.net/Estrella_Games.m3u8
 #EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark Channel" group-title="Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/960px-Hallmark_Channel.svg.png" tvg-country="US",Hallmark Channel [1080]
-http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
+http://4.30.180.36:8420/hallmark/index.m3u8?token=test
 #EXTINF:-1 tvg-id="PositivTV.us" tvg-name="Positiv TV" group-title="Family" tvg-logo="https://i.imgur.com/WYM3tj8.png" tvg-country="US",Positiv TV [1080]
 https://livecdn.use1-0004.jwplive.com/live/sites/fGLyccP5/media/FoWynVnP/live.isml/.m3u8
+#EXTINF:-1 tvg-id="ShowtimeFamilyZone.us" tvg-name="Showtime Family Zone" group-title="Family" tvg-logo="https://i.imgur.com/qwJUawJ.png" tvg-country="US",Showtime Family Zone [1080]
+http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="ThePetCollective.us" tvg-name="The Pet Collective" group-title="Family" tvg-logo="https://i.imgur.com/yH7n2dF.png" tvg-country="US",The Pet Collective [1080]
 https://pb-jc9emctsujawo.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-id="SevimliTV.uz" tvg-name="Sevimli TV" group-title="Family" tvg-logo="https://i.imgur.com/iMwzRlr.png" tvg-country="UZ",Sevimli TV [1080]
