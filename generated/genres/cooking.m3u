@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ElGourmet.ar" tvg-name="El Gourmet" group-title="Cooking" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png" tvg-country="AR",El Gourmet [1080]
-http://15.204.246.24:8080/ElGourmetHD/index.m3u8
+http://138.121.15.230:9002/EL-GOURMET/index.m3u8
 #EXTINF:-1 tvg-id="ChefTV.br" tvg-name="Chef TV" group-title="Cooking" tvg-logo="https://i.imgur.com/UYksTee.png" tvg-country="BR",Chef TV [1080]
 http://168.197.104.22/CHEF_TV/index.m3u8
 #EXTINF:-1 tvg-id="GustoTV.ca" tvg-name="Gusto TV" group-title="Cooking" tvg-logo="https://i.imgur.com/swUX3hQ.png" tvg-country="CA",Gusto TV [1080]
@@ -9,12 +9,16 @@ https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/
 https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 #EXTINF:-1 tvg-id="JordanKitchen.jo" tvg-name="Jordan Kitchen" group-title="Cooking" tvg-logo="https://i.imgur.com/B45qcQX.png" tvg-country="JO",Jordan Kitchen [1080]
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
+#EXTINF:-1 tvg-id="CityEdenReceptyGurmana.ru" tvg-name="City Eden Recepty Gurmana" group-title="Cooking" tvg-logo="https://i.imgur.com/wR0pvRc.png" tvg-country="RU",City Eden Recepty Gurmana [1080]
+https://cityeden.catcast.tv/content/47516/index.m3u8
 #EXTINF:-1 tvg-id="FoodTime.ru" tvg-name="FoodTime" group-title="Cooking" tvg-logo="https://i.imgur.com/gxCYAwH.png" tvg-country="RU",FoodTime [1080]
-http://stream.mcquack.net/216/index.m3u8
+http://str2.iptvhd.ru:8080/Eda/index.m3u8
 #EXTINF:-1 tvg-id="AmericasTestKitchen.us" tvg-name="America's Test Kitchen" group-title="Cooking" tvg-logo="https://i.imgur.com/prMkTsZ.png" tvg-country="US",America's Test Kitchen [1080]
 https://amg01420-americastestkitchen-amg01420c1-xumo-us-878.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="bonappetit.us" tvg-name="bon appetit" group-title="Cooking" tvg-logo="https://i.imgur.com/YhFFxlE.png" tvg-country="US",bon appetit [1080]
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ChefRocShow.us" tvg-name="Chef Roc Show" group-title="Cooking" tvg-logo="https://i.imgur.com/vhVnAzE.png" tvg-country="US",Chef Roc Show [1080]
+https://rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8
 #EXTINF:-1 tvg-id="Tastemade.us" tvg-name="Tastemade" group-title="Cooking" tvg-logo="https://i.imgur.com/xP7Ehn8.png" tvg-country="US",Tastemade [1080]
 https://pb-rlo4if9lnjthw.akamaized.net/Tastemade.m3u8
 #EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-name="Tastemade en Espanol" group-title="Cooking" tvg-logo="https://i.imgur.com/8s6aRwv.png" tvg-country="US",Tastemade en Espanol [1080]

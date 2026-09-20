@@ -25,12 +25,16 @@ https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
 https://cdn.vegasplus.us/vegas/lac/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoverPakistan.pk" tvg-name="Discover Pakistan" group-title="Travel" tvg-logo="https://i.imgur.com/IJH47fJ.png" tvg-country="PK",Discover Pakistan [1080]
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+#EXTINF:-1 tvg-id="GlazamiTurista.ru" tvg-name="Glazami Turista" group-title="Travel" tvg-logo="https://i.imgur.com/GXJKWdy.png" tvg-country="RU",Glazami Turista [1080]
+http://str2.iptvhd.ru:8080/Glazami_turista_HD/index.m3u8
 #EXTINF:-1 tvg-id="Moyastikhiya.ru" tvg-name="Moya stikhiya" group-title="Travel" tvg-logo="https://i.imgur.com/Sl8c9eB.png" tvg-country="RU",Moya stikhiya [1080]
 http://stream.mcquack.net/141/index.m3u8
 #EXTINF:-1 tvg-id="RTGTV.ru" tvg-name="RTG TV" group-title="Travel" tvg-logo="https://i.imgur.com/ZMKPAho.png" tvg-country="RU",RTG TV [1080]
-http://stream.mcquack.net/164/index.m3u8
+http://str2.iptvhd.ru:8080/RTG_TV/index.m3u8
 #EXTINF:-1 tvg-id="TravelPlusAdventure.ru" tvg-name="Travel+Adventure" group-title="Travel" tvg-logo="https://i.imgur.com/AlpdXC4.png" tvg-country="RU",Travel+Adventure [1080]
-http://stream.mcquack.net/206/index.m3u8
+http://77.232.131.211/TravelAdventureHD/index.m3u8
+#EXTINF:-1 tvg-id="UTravel.ua" tvg-name="U Travel" group-title="Travel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/U_Travel.svg/1920px-U_Travel.svg.png" tvg-country="UA",U Travel [1080]
+http://str2.iptvhd.ru:8080/travel/index.m3u8
 #EXTINF:-1 tvg-id="SpaceLivepoweredbysen.uk" tvg-name="Space Live powered by sen" group-title="Travel" tvg-logo="https://static.frequency.com/studio/itv/channels/1224-400x200.png" tvg-country="UK",Space Live powered by sen [1080]
 https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="DroneTV.us" tvg-name="DroneTV" group-title="Travel" tvg-logo="https://i.ibb.co/S71C9RJC/dronetv.webp" tvg-country="US",DroneTV [1080]

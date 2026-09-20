@@ -19,6 +19,8 @@ https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3
 https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-id="NDTVProfit.in" tvg-name="NDTV Profit" group-title="Business" tvg-logo="https://i.imgur.com/WK4tZ6p.png" tvg-country="IN",NDTV Profit [1080]
 https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8
+#EXTINF:-1 tvg-id="NewsCapitalMarket.in" tvg-name="News Capital Market" group-title="Business" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NewsCapitalMarket.png" tvg-country="IN",News Capital Market [1080]
+https://newscapital.com/hls/stream.m3u8?token=Nc360PermanentSecureKey987
 #EXTINF:-1 tvg-id="ClassCNBC.it" tvg-name="Class CNBC" group-title="Business" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Class_CNBC_2026.svg" tvg-country="IT",Class CNBC [1080]
 https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="apartTV.lu" tvg-name="apart TV" group-title="Business" tvg-logo="https://i.imgur.com/IBcMIcZ.png" tvg-country="LU",apart TV [1080]
@@ -29,10 +31,15 @@ https://www.khuwemultimedia.com/hls/mntv/mntv.m3u8
 https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
 #EXTINF:-1 tvg-id="DeFianceMedia.pr" tvg-name="DeFiance Media" group-title="Business" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5e6HtuC9SEacvU98D5CWN9eBhERsc_WU73KZAyKHaePqMkJloAQ1lGfSGHqg-W_j5Z2g&usqp=CAU" tvg-country="PR",DeFiance Media [1080]
 https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalPro.py" tvg-name="Canal Pro" group-title="Business" tvg-logo="https://i.imgur.com/ah8n7jL.png" tvg-country="PY",Canal Pro [1080]
+#EXTVLCOPT:http-referrer=https://www.canalpro.com.py/en-vivo
+https://www.desde-paraguay.com/pro.m3u8
 #EXTINF:-1 tvg-id="JOBTV.ro" tvg-name="JOB TV" group-title="Business" tvg-logo="https://i.imgur.com/UzcZNe3.png" tvg-country="RO",JOB TV [1080]
 https://jobtvserver.eu/hls/stream.m3u8
 #EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="RBK-TV" group-title="Business" tvg-logo="https://i.imgur.com/CwhmJby.png" tvg-country="RU",RBK-TV [1080]
-http://online-video.rbc.ru/online2/rbctv.m3u8
+http://176.118.197.101/RBK/index.m3u8
+#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT" group-title="Business" tvg-logo="https://i.imgur.com/bmkXfIE.png" tvg-country="TR",Bloomberg HT [1080]
+https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
 #EXTINF:-1 tvg-id="CNBCe.tr" tvg-name="CNBC-e" group-title="Business" tvg-logo="https://s.cnbce.com/dist/images/logo-nav.png" tvg-country="TR",CNBC-e [1080]
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 #EXTINF:-1 tvg-id="Ameritrade.us" tvg-name="Ameritrade" group-title="Business" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CZKwin9mL.png" tvg-country="US",Ameritrade [1080]
@@ -46,4 +53,4 @@ https://cineverse-entrepreneurtv-entrepreneurtv-1-us.ono.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SchwabNetwork.us" tvg-name="Schwab Network" group-title="Business" tvg-logo="https://a.jsrdn.com/hls/22849/schwab-network/logo_20231219_221750_68.png" tvg-country="US",Schwab Network [1080p]
 https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
 #EXTINF:-1 tvg-id="YahooFinance.us" tvg-name="Yahoo! Finance" group-title="Business" tvg-logo="https://i.imgur.com/43oHsHL.png" tvg-country="US",Yahoo! Finance [1080]
-https://amg00119-amg00119c1-firetv-us-4205.playouts.now.amagi.tv/playlist.m3u8
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8

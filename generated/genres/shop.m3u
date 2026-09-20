@@ -11,6 +11,8 @@ https://fox.hostlagarto.com:8081/bajotechotv/tracks-v1a1/mono.m3u8
 https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
 #EXTINF:-1 tvg-id="ShopChannel.jp" tvg-name="Shop Channel" group-title="Shop" tvg-logo="https://www.shopch.jp/com/images/common/logo_2021.png" tvg-country="JP",Shop Channel [1080]
 https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1 tvg-id="Leomax24.ru" tvg-name="Leomax 24" group-title="Shop" tvg-logo="https://i.imgur.com/qU9ohQu.png" tvg-country="RU",Leomax 24 [1080]
+https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 #EXTINF:-1 tvg-id="Magnat.ru" tvg-name="Magnat" group-title="Shop" tvg-logo="https://i.imgur.com/r485aZL.png" tvg-country="RU",Magnat [1080]
 https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
 #EXTINF:-1 tvg-id="ShoppingLive.ru" tvg-name="Shopping Live" group-title="Shop" tvg-logo="https://i.imgur.com/EMmGnjV.png" tvg-country="RU",Shopping Live [1080]
@@ -30,6 +32,4 @@ https://cdn.jwplayer.com/live/broadcast/0rrJ3kkM.m3u8
 #EXTINF:-1 tvg-id="OnTV4U.us" tvg-name="OnTV4U" group-title="Shop" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/ontv4u.png" tvg-country="US",OnTV4U [1080]
 https://stirr.b-cdn.net/stirr/playlist.m3u8
 #EXTINF:-1 tvg-id="ShopLC.us" tvg-name="Shop LC" group-title="Shop" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062018/untitled-1_121.png?ZVD_C9lESJsKJoZZ8ooFfVYp_YenkUOx&itok=mX2kdNaO" tvg-country="US",Shop LC [1080]
-https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(ott)/master.m3u8
-#EXTINF:-1 tvg-id="TimelessTV.us" tvg-name="Timeless TV" group-title="Shop" tvg-logo="https://i.imgur.com/bjcpeVH.png" tvg-country="US",Timeless TV [1090]
-https://timelesstv1-301f.kxcdn.com/hls/TimelessTV.m3u8
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(xumo)/index.m3u8
