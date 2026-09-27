@@ -25,11 +25,11 @@ https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
 #EXTINF:-1 tvg-id="GemShoppingNetwork.us" tvg-name="Gem Shopping Network" group-title="Shop" tvg-logo="https://i.imgur.com/WlHEpAu.png" tvg-country="US",Gem Shopping Network [1080]
 https://amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="JewelryTV.us" tvg-name="Jewelry TV" group-title="Shop" tvg-logo="https://i.imgur.com/dB1Vl92.png" tvg-country="US",Jewelry TV [1080]
+#EXTINF:-1 tvg-id="JewelryTV.us" tvg-name="Jewelry TV" group-title="Shop" tvg-logo="https://i.imgur.com/ErEu9L6.png" tvg-country="US",Jewelry TV [1080]
 https://content.jwplatform.com/live/broadcast/oe7UD7Ag.m3u8
 #EXTINF:-1 tvg-id="JewelryTV2.us" tvg-name="Jewelry TV 2" group-title="Shop" tvg-country="US",Jewelry TV 2 [1080]
 https://cdn.jwplayer.com/live/broadcast/0rrJ3kkM.m3u8
-#EXTINF:-1 tvg-id="OnTV4U.us" tvg-name="OnTV4U" group-title="Shop" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/ontv4u.png" tvg-country="US",OnTV4U [1080]
+#EXTINF:-1 tvg-id="OnTV4U.us" tvg-name="OnTV4U" group-title="Shop" tvg-logo="https://i.imgur.com/NcEygU5.png" tvg-country="US",OnTV4U [1080]
 https://stirr.b-cdn.net/stirr/playlist.m3u8
 #EXTINF:-1 tvg-id="ShopLC.us" tvg-name="Shop LC" group-title="Shop" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062018/untitled-1_121.png?ZVD_C9lESJsKJoZZ8ooFfVYp_YenkUOx&itok=mX2kdNaO" tvg-country="US",Shop LC [1080]
-https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(xumo)/index.m3u8
+https://cdn-shop-lc-01.vos360.video/Content/HLS_HLS/Live/channel(ShopLCStirrTV)/master.m3u8

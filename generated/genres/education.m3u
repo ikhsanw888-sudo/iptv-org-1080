@@ -3,6 +3,9 @@
 https://fflive-darya-educationtv.b-cdn.net/master.m3u8
 #EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" group-title="Education" tvg-logo="https://i.imgur.com/5XyopHf.png" tvg-country="BR",AgroCanal [1080]
 http://186.219.52.187/agro_canal/index.m3u8
+#EXTINF:-1 tvg-id="BemMaisTV.br" tvg-name="Bem Mais TV" group-title="Education" tvg-logo="https://bemmaistv.com.br/wp-content/uploads/2025/08/0LASAmOtt4-150x150.jpg" tvg-country="BR",Bem Mais TV [1080]
+#EXTVLCOPT:http-referrer=https://bemmaistv.com.br/
+https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalEducacao.br" tvg-name="Canal Educacao" group-title="Education" tvg-logo="https://i.imgur.com/OOB7nrS.png" tvg-country="BR",Canal Educacao [1080]
 http://45.177.114.115/CANAL_EDUCACAO/index.m3u8
 #EXTINF:-1 tvg-id="CanalFDR.br" tvg-name="Canal FDR" group-title="Education" tvg-logo="https://i.imgur.com/7SE4CkE.png" tvg-country="BR",Canal FDR [1080]
@@ -94,8 +97,8 @@ https://create.lls.pbs.org/index.m3u8
 https://video.oct.dc.gov/out/u/DKN.m3u8
 #EXTINF:-1 tvg-id="MCN6ArtsChannel.us" tvg-name="MCN6 Arts Channel" group-title="Education" tvg-logo="https://i.imgur.com/j6IiysJ.png" tvg-country="US",MCN6 Arts Channel [1080]
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
-#EXTINF:-1 tvg-id="PBS.us" tvg-name="PBS" group-title="Education" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5BvkeBSFPZhLUgTOgGxpmu3CCrXwF8Mfy-Lw90vaRe84tY4Y__cOposrHuAKPbEVSx48&usqp=CAU" tvg-country="US",PBS [1080]
-https://pbs.lls.cdn.pbs.org/est/index.m3u8
+#EXTINF:-1 tvg-id="PBS.us" tvg-name="PBS" group-title="Education" tvg-logo="https://i.ibb.co/2KqyGjL/PBS-logo.png" tvg-country="US",PBS [1080]
+https://pbs.lls.cdn.pbs.org/pst/index.m3u8
 #EXTINF:-1 tvg-id="SMCTVChannel24.us" tvg-name="SMCTV Channel 24" group-title="Education" tvg-logo="https://i.imgur.com/4Autljp.png" tvg-country="US",SMCTV Channel 24 [1080]
 https://livestream.telvue.com/santamariactv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TUTV.us" tvg-name="TUTV" group-title="Education" tvg-logo="https://i.imgur.com/At0BPeA.png" tvg-country="US",TUTV [1080]
