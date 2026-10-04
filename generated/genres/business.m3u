@@ -34,8 +34,6 @@ https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalPro.py" tvg-name="Canal Pro" group-title="Business" tvg-logo="https://i.imgur.com/ah8n7jL.png" tvg-country="PY",Canal Pro [1080]
 #EXTVLCOPT:http-referrer=https://www.canalpro.com.py/en-vivo
 https://www.desde-paraguay.com/pro.m3u8
-#EXTINF:-1 tvg-id="JOBTV.ro" tvg-name="JOB TV" group-title="Business" tvg-logo="https://i.imgur.com/UzcZNe3.png" tvg-country="RO",JOB TV [1080]
-https://jobtvserver.eu/hls/stream.m3u8
 #EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="RBK-TV" group-title="Business" tvg-logo="https://i.imgur.com/CwhmJby.png" tvg-country="RU",RBK-TV [1080]
 http://176.118.197.101/RBK/index.m3u8
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT" group-title="Business" tvg-logo="https://i.imgur.com/bmkXfIE.png" tvg-country="TR",Bloomberg HT [1080]
@@ -47,12 +45,10 @@ https://tdameritrade-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals" group-title="Business" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png" tvg-country="US",Bloomberg Originals [1080]
 https://bloomberg.com/media-manifest/streams/qt.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" group-title="Business" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_TV.png" tvg-country="US",Bloomberg TV [2160]
-https://66e4bbba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnVFZQbHVzX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC" group-title="Business" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg" tvg-country="US",CNBC [1080]
-http://41.205.93.154/CNBC/index.m3u8
+https://d8975dc3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9CbG9vbWJlcmdUVlBsdXNfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="EntrepreneurTV.us" tvg-name="EntrepreneurTV" group-title="Business" tvg-logo="https://i.imgur.com/isRfHYZ.png" tvg-country="US",EntrepreneurTV [1080]
 https://cineverse-entrepreneurtv-entrepreneurtv-1-us.ono.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SchwabNetwork.us" tvg-name="Schwab Network" group-title="Business" tvg-logo="https://a.jsrdn.com/hls/22849/schwab-network/logo_20231219_221750_68.png" tvg-country="US",Schwab Network [1080p]
 https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
 #EXTINF:-1 tvg-id="YahooFinance.us" tvg-name="Yahoo! Finance" group-title="Business" tvg-logo="https://i.imgur.com/43oHsHL.png" tvg-country="US",Yahoo! Finance [1080]
-https://yahoo-plex.amagi.tv/playlist.m3u8
+https://amg00119-amg00119c1-firetv-us-4205.playouts.now.amagi.tv/playlist.m3u8

@@ -22,7 +22,7 @@ https://iptv.peer.biz/live/peertv-en.m3u8
 #EXTINF:-1 tvg-id="PeerTVSudtirol.it" tvg-name="Peer TV Sudtirol" group-title="Travel" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png" tvg-country="IT",Peer TV Sudtirol [1080]
 https://iptv.peer.biz/live/peertv.m3u8
 #EXTINF:-1 tvg-id="INTRAVEL.nl" tvg-name="INTRAVEL" group-title="Travel" tvg-logo="https://cdn.uc.assets.prezly.com/394f887e-bb39-4228-b126-93914e375b13/-/preview/2000x2000/-/resize/1600/INTRAVEL_PortraitColor.png" tvg-country="NL",INTRAVEL [1080]
-https://amg00861-amg00861c22-stirr-us-8773.playouts.now.amagi.tv/playlist.m3u8
+https://amg00861-amg00861c10-firetv-us-4726.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="LivingAsiaChannel.ph" tvg-name="Living Asia Channel" group-title="Travel" tvg-logo="https://i.imgur.com/q3UToRM.png" tvg-country="PH",Living Asia Channel [1080]
 https://cdn.vegasplus.us/vegas/lac/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoverPakistan.pk" tvg-name="Discover Pakistan" group-title="Travel" tvg-logo="https://i.imgur.com/IJH47fJ.png" tvg-country="PK",Discover Pakistan [1080]
@@ -39,5 +39,3 @@ https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8
 https://airvuz-dronetv-1-us.ohlscdn.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PoconoTelevisionNetwork.us" tvg-name="Pocono Television Network" group-title="Travel" tvg-logo="https://i.imgur.com/et6giFo.png" tvg-country="US",Pocono Television Network [1080]
 https://dfoiz3dv1euv7.cloudfront.net/ptnlive-s3/live1.m3u8
-#EXTINF:-1 tvg-id="TVSTravelNetwork.us" tvg-name="TVS Travel Network" group-title="Travel" tvg-logo="https://i.imgur.com/vSFf5Ce.png" tvg-country="US",TVS Travel Network [1080]
-https://rpn.bozztv.com/gusa/gusa-tvstravel/index.m3u8

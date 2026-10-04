@@ -4,7 +4,11 @@ https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8
 #EXTINF:-1 tvg-id="JordanComedy.jo" tvg-name="Jordan Comedy" group-title="Comedy" tvg-logo="https://i.imgur.com/DuwwoO2.png" tvg-country="JO",Jordan Comedy [1080]
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8
 #EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="Distrito Comedia" group-title="Comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png" tvg-country="MX",Distrito Comedia [1080]
-http://181.119.66.28:8081/DISTRITO-COMEDIA/index.m3u8
+http://138.121.15.230:9002/DISTRITO-COMEDIA/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.pl" tvg-name="Comedy Central" group-title="Comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" tvg-country="PL",Comedy Central [1080]
+http://57.128.231.171:8080/286/index.m3u8
+#EXTINF:-1 tvg-id="PolsatComedyCentralExtra.pl" tvg-name="Polsat Comedy Central Extra" group-title="Comedy" tvg-logo="https://i.imgur.com/6GOWgtE.png" tvg-country="PL",Polsat Comedy Central Extra [1080]
+http://57.128.231.171:8080/290/index.m3u8
 #EXTINF:-1 tvg-id="Kinokomedija.ru" tvg-name="Kinokomedija" group-title="Comedy" tvg-logo="https://i.imgur.com/dVjtth0.png" tvg-country="RU",Kinokomedija [1080]
 http://stream.mcquack.net/265/index.m3u8
 #EXTINF:-1 tvg-id="Komediynoe.ru" tvg-name="Komediynoe" group-title="Comedy" tvg-logo="https://i.imgur.com/cEKe8XC.png" tvg-country="RU",Komediynoe [1080]
@@ -28,6 +32,6 @@ https://d1c73nj8qxp55a.cloudfront.net/Mystery_Science_Theater_3000.m3u8
 #EXTINF:-1 tvg-id="NBCComedyVault.us" tvg-name="NBC Comedy Vault" group-title="Comedy" tvg-logo="https://i.imgur.com/nydZWwg.png" tvg-country="US",NBC Comedy Vault [1080]
 https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="SNLVault.us" tvg-name="SNL Vault" group-title="Comedy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/712dae9e-9111-4bbc-8ea4-242e891ab5b3/snl-vault-fclogo-72-dpi-1500-x-1000-3-2-channel-logo-dark-plex-1.png" tvg-country="US",SNL Vault [1080]
-https://xumo-xumoent-vc-103-d3uqt.fast.nbcuni.com/live/master.m3u8
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993017/hls/master.m3u8?ads.xumo_channelId=99993017
 #EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="Starz Comedy" group-title="Comedy" tvg-logo="https://i.imgur.com/JpKvjZe.png" tvg-country="US",Starz Comedy [1080]
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
