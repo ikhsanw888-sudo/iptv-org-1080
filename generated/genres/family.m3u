@@ -7,6 +7,12 @@ https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/
 https://avr.host247.net/live/emantv/playlist.m3u8
 #EXTINF:-1 tvg-id="Mixkurdy.iq" tvg-name="Mixkurdy" group-title="Family" tvg-logo="https://i.imgur.com/WHeH5i7.png" tvg-country="IQ",Mixkurdy [1080]
 https://avr.host247.net/live/Mix-kurdy/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalIPe.pe" tvg-name="Canal IPe" group-title="Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logo_Canal_IPe_2024.png/960px-Logo_Canal_IPe_2024.png" tvg-country="PE",Canal IPe [1080]
+http://190.93.224.42/IPE/index.m3u8
+#EXTINF:-1 tvg-id="ActiveFamily.pl" tvg-name="Active Family" group-title="Family" tvg-logo="https://i.imgur.com/I1wdWAo.png" tvg-country="PL",Active Family [1080]
+http://92.114.85.87:8010/play/a00p/index.m3u8
+#EXTINF:-1 tvg-id="CANALPlus360.pl" tvg-name="CANAL+ 360" group-title="Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Canal360_1920x1080.png/960px-Canal360_1920x1080.png" tvg-country="PL",CANAL+ 360 [1080]
+http://57.128.210.196:8080/300/index.m3u8
 #EXTINF:-1 tvg-id="STS.ru" tvg-name="STS" group-title="Family" tvg-logo="https://i.imgur.com/ilUzAeb.png" tvg-country="RU",STS [1920]
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
@@ -20,7 +26,7 @@ https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:-1 tvg-id="DoveChannel.us" tvg-name="Dove Channel" group-title="Family" tvg-country="US",Dove Channel [1080]
 https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="EstrellaGames.us" tvg-name="Estrella Games" group-title="Family" tvg-logo="https://i.imgur.com/Z52nEnH.png" tvg-country="US",Estrella Games [1080]
-https://d3jx4o3w9313un.cloudfront.net/Estrella_Games.m3u8
+https://amg00567-amg00567c1-firetv-us-4124.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark Channel" group-title="Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/960px-Hallmark_Channel.svg.png" tvg-country="US",Hallmark Channel [1080]
 http://41.205.93.154/HALLMARK/index.m3u8
 #EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="HBO Family Latin America" group-title="Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" tvg-country="US",HBO Family Latin America [1080]
