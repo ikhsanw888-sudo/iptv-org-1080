@@ -5,10 +5,6 @@ https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8
 #EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="Distrito Comedia" group-title="Comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png" tvg-country="MX",Distrito Comedia [1080]
 http://15.204.142.109:22880/TELEVISA-PROVEEDOR-DISTRITO-COMEDIA/index.m3u8
-#EXTINF:-1 tvg-id="ComedyCentral.pl" tvg-name="Comedy Central" group-title="Comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" tvg-country="PL",Comedy Central [1080]
-http://57.128.231.171:8080/286/index.m3u8
-#EXTINF:-1 tvg-id="PolsatComedyCentralExtra.pl" tvg-name="Polsat Comedy Central Extra" group-title="Comedy" tvg-logo="https://i.imgur.com/6GOWgtE.png" tvg-country="PL",Polsat Comedy Central Extra [1080]
-http://57.128.231.171:8080/290/index.m3u8
 #EXTINF:-1 tvg-id="Kinokomedija.ru" tvg-name="Kinokomedija" group-title="Comedy" tvg-logo="https://i.imgur.com/dVjtth0.png" tvg-country="RU",Kinokomedija [1080]
 http://stream.mcquack.net/265/index.m3u8
 #EXTINF:-1 tvg-id="Komediynoe.ru" tvg-name="Komediynoe" group-title="Comedy" tvg-logo="https://i.imgur.com/cEKe8XC.png" tvg-country="RU",Komediynoe [1080]
@@ -26,7 +22,7 @@ https://linear-903.frequency.stream/dist/xumo/903/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Gagsnetwork.us" tvg-name="Gagsnetwork" group-title="Comedy" tvg-logo="https://i.imgur.com/ENj5GIp.png" tvg-country="US",Gagsnetwork [1080]
 http://stream.mcquack.net/458/index.m3u8
 #EXTINF:-1 tvg-id="JustforLaughsGags.us" tvg-name="Just for Laughs Gags" group-title="Comedy" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-country="US",Just for Laughs Gags [1080]
-https://streams2.sofast.tv/sofastplayout/4c727f82-d2ec-4a07-870c-49a6f22ee6f9_0_HLS/master.m3u8
+https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8
 #EXTINF:-1 tvg-id="MysteryScienceTheater3000.us" tvg-name="Mystery Science Theater 3000" group-title="Comedy" tvg-logo="https://i.imgur.com/8KWjY4o.png" tvg-country="US",Mystery Science Theater 3000 [1080]
 https://d1c73nj8qxp55a.cloudfront.net/Mystery_Science_Theater_3000.m3u8
 #EXTINF:-1 tvg-id="NBCComedyVault.us" tvg-name="NBC Comedy Vault" group-title="Comedy" tvg-logo="https://i.imgur.com/nydZWwg.png" tvg-country="US",NBC Comedy Vault [1080]

@@ -51,6 +51,8 @@ https://video.oct.dc.gov/out/u/DCN.m3u8
 https://edge-f.swagit.com/live/glendaleaz/live-1-a-1/playlist.m3u8
 #EXTINF:-1 tvg-id="LGTV.us" tvg-name="LGTV" group-title="Legislative" tvg-logo="https://i.imgur.com/d5w2pT4.png" tvg-country="US",LGTV [1080]
 https://livestream.telvue.com/lexmedia3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lexmedia3/stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="MidpenMediaCenterChannel29.us" tvg-name="Midpen Media Center Channel 29" group-title="Legislative" tvg-logo="https://i.imgur.com/RPJiolQ.png" tvg-country="US",Midpen Media Center Channel 29 [1080]
+https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8
 #EXTINF:-1 tvg-id="MonroeCountyTV.us" tvg-name="Monroe County TV" group-title="Legislative" tvg-logo="https://i.imgur.com/YJfzdSu.png" tvg-country="US",Monroe County TV [1080]
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8
 #EXTINF:-1 tvg-id="SFGovTV.us" tvg-name="SFGovTV" group-title="Legislative" tvg-logo="https://i.imgur.com/uYXuwmV.png" tvg-country="US",SFGovTV [1080]

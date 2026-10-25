@@ -15,18 +15,6 @@ https://d4bq78o8d5tf5.cloudfront.net/ABC_2020.m3u8
 https://streams2.sofast.tv/WiseM3U8_30/sofast/cleanhls/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Action Hollywood Movies" group-title="Unclassified",Action Hollywood Movies [1080]
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AfroLand African" group-title="Unclassified",AfroLand African [1080]
-https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6075
-#EXTINF:-1 tvg-id="" tvg-name="AfroLand Black Experience" group-title="Unclassified",AfroLand Black Experience [1080]
-https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6101
-#EXTINF:-1 tvg-id="" tvg-name="AfroLand Family" group-title="Unclassified",AfroLand Family [1080]
-https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6072
-#EXTINF:-1 tvg-id="" tvg-name="AfroLand Nollywood" group-title="Unclassified",AfroLand Nollywood [1080]
-https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6076
-#EXTINF:-1 tvg-id="" tvg-name="AfroLand Romance" group-title="Unclassified",AfroLand Romance [1080]
-https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6074
-#EXTINF:-1 tvg-id="" tvg-name="Afroland Top 10" group-title="Unclassified",Afroland Top 10 [1080]
-https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6098
 #EXTINF:-1 tvg-id="" tvg-name="AfroLandTV" group-title="Unclassified",AfroLandTV [1080]
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=844
 #EXTINF:-1 tvg-id="" tvg-name="AfroLandTV WW" group-title="Unclassified",AfroLandTV WW [1080]
@@ -47,10 +35,6 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04
 https://d2mexh8isep4mf.cloudfront.net/AmericasGotTalent_GB.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="American Crimes" group-title="Unclassified",American Crimes [1080]
 https://pb-kdyzf3w51y7oz.akamaized.net/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="American Idol" group-title="Unclassified",American Idol [1080]
-https://d2yn8dyffvmgy.cloudfront.net/AmericanIdol_GB.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="American Ninja Warrior" group-title="Unclassified",American Ninja Warrior [1080]
-https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="American Pickers by History" group-title="Unclassified",American Pickers by History [1080]
 https://pb-k9ikw6ov8z4qi.akamaized.net/American_Pickers_by_History.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="American Stories" group-title="Unclassified",American Stories [1080]
@@ -122,7 +106,7 @@ https://d95zc3i1pxhs7.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bravo Vault" group-title="Unclassified",Bravo Vault [1080]
 https://xumo-xumoent-vc-114-x0p7i.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Breaking News by LeadStory" group-title="Unclassified",Breaking News by LeadStory [1080]
-https://amg02703-leadstory-leadstory-samsungnz-vc7nn.amagi.tv/playlist/amg02703-leadstory-leadstory-samsungnz/playlist.m3u8
+https://amg02703-leadstory-leadstory-samsungau-rr75f.amagi.tv/playlist/amg02703-leadstory-leadstory-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bring It!" group-title="Unclassified",Bring It! [1080]
 https://pb-46i4usnz2g1z1.akamaized.net/Bring_It.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="British Screen Classics" group-title="Unclassified",British Screen Classics [1080]
@@ -160,11 +144,11 @@ https://amg01439-amg01439c1-amgplt0081.playout.now3.amagi.tv/playlist/amg01439-a
 #EXTINF:-1 tvg-id="" tvg-name="Colour Blind" group-title="Unclassified",Colour Blind [1080]
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7e58f6fd-62bc-49bc-9ec6-2766ed521743/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Come Dine With Me" group-title="Unclassified",Come Dine With Me [1080]
-https://amg00654-itv-amg00654c2-rakuten-uk-1281.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-comedinewithmeukglobal-rakutenuk/playlist.m3u8
+https://amg00654-itvstudios-comedinewithmeu-samsunguk-m0euw.amagi.tv/playlist/amg00654-itvstudios-comedinewithmeu-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Tadka" group-title="Unclassified",Comedy Tadka [1080]
 https://streams2.sofast.tv/WiseM3U8_27/sofast/cleanhls/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Conan O'Brien TV" group-title="Unclassified",Conan O'Brien TV [1080]
-https://pb-nhrhhcia276e2.akamaized.net/Conan_OBrien_TV.m3u8
+https://d1nu0yp2dagil0.cloudfront.net/Conan_OBrien_TV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cook's Country Channel" group-title="Unclassified",Cook's Country Channel [1080]
 https://amg01420-amg01420c5-xumo-us-3817.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CooTel Nicaragua" group-title="Unclassified",CooTel Nicaragua [1080]
@@ -175,14 +159,12 @@ https://d32e935uzaanj4.cloudfront.net/e66911c8_a9c5_4206_979f_1ad694dcb8ad/hls/p
 https://amg00376-magellan-amg00376c14-rakuten-uk-1694.playouts.now.amagi.tv/playlist/amg00376-magellantv-spacesciencenowcauk-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cowboy Movie Channel" group-title="Unclassified",Cowboy Movie Channel [1080]
 https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cox Meriden Public Access Channel 15 (Meriden CT)" group-title="Unclassified",Cox Meriden Public Access Channel 15 (Meriden CT) [1080]
-http://applevalley.coxctv.com/live-1/live/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cozy Vibes" group-title="Unclassified",Cozy Vibes [1080]
 https://d2tyl7oi9wycxs.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Craftsy" group-title="Unclassified",Craftsy [1080]
 https://linear-492.frequency.stream/dist/stirr/492/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CraftsyTV" group-title="Unclassified",CraftsyTV [1080]
-https://linear-492.frequency.stream/dist/xumo/492/hls/master/playlist.m3u8
+https://d2lgb18e46c3by.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Crime & Justice" group-title="Unclassified",Crime & Justice [1080]
 https://d1vsdt3c2xcxl2.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CrimeFlix" group-title="Unclassified",CrimeFlix [1080]
@@ -206,7 +188,7 @@ https://d1sknsnbkyvie.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CW Gold" group-title="Unclassified",CW Gold [1080]
 https://d1d726ny1vain2.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dance Moms" group-title="Unclassified",Dance Moms [1080]
-https://pb-z02izgi68rhao.akamaized.net/Dance_Moms.m3u8
+https://aegis-cloudfront-1.tubi.video/a9cb26a5-5662-400d-87b2-bd77b3e98295/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Danger Vision" group-title="Unclassified",Danger Vision [1080]
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/453971f3-855a-455e-9353-ebbb069583a4/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dazn Ringside" group-title="Unclassified",Dazn Ringside [1080]
@@ -282,7 +264,7 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70
 #EXTINF:-1 tvg-id="" tvg-name="FilmGold Germany" group-title="Unclassified",FilmGold Germany [1080]
 https://mainstreamfilmgold-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fireplace Vibes" group-title="Unclassified",Fireplace Vibes [2160]
-https://d21izs34d0y5tl.cloudfront.net/Fireplace_4K_SONO20.m3u8
+https://pb-rhq7yj8tne4rm.akamaized.net/Fireplace_4K_SONO20.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FloRacing 24/7" group-title="Unclassified",FloRacing 24/7 [1080]
 https://amg02278-amg02278c1-distrotv-us-7534.playouts.now.amagi.tv/playlist/amg02278-flosports-floracing24x7-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fluss Monster" group-title="Unclassified",Fluss Monster [1080]
@@ -297,14 +279,12 @@ https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00
 https://stream01.welocal.stream/stream/fhd-frankenplus_119/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FreeTV Estelar" group-title="Unclassified",FreeTV Estelar [1080]
 https://d38sud5af047z8.cloudfront.net/ftveu.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="G-eye TV" group-title="Unclassified",G-eye TV [1080]
-https://online.geyetv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Game & Fish TV" group-title="Unclassified",Game & Fish TV [1080]
 https://d32bh11mbsmi60.cloudfront.net/Game_Fish_TV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gardening with Monty Don" group-title="Unclassified",Gardening with Monty Don [1080]
 https://all3media-gardening-with-monty-don-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Generation Sitcoms" group-title="Unclassified",Generation Sitcoms [1080]
-https://production-fastbpk.content.okast.tv/fa2e8c4385712f9aa35c5b79a2b4ac2d/channels/eec463a6-4364-473b-8d89-555acc5b8fb2/e36e4304-73ff-4f9f-8d38-e748576a1f51/media_.m3u8
+#EXTINF:-1 tvg-id="geFast.br" tvg-name="ge Fast" group-title="Unclassified",ge Fast [1080]
+https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Genie K Drama" group-title="Unclassified",Genie K Drama [1080]
 https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=US2000012KX&channel_id=newid_351&tp=samsung_tvplus
 #EXTINF:-1 tvg-id="" tvg-name="Genie K Movie" group-title="Unclassified",Genie K Movie [1080]
@@ -326,7 +306,7 @@ https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca14134
 #EXTINF:-1 tvg-id="" tvg-name="Hagerty" group-title="Unclassified",Hagerty [1080]
 https://dqw6u0upa8l21.cloudfront.net/Hagerty.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hardcore Pawn" group-title="Unclassified",Hardcore Pawn [1080]
-https://amg00627-banijay-amg00627c8-samsung-au-1827.playouts.now.amagi.tv/playlist.m3u8
+https://amg00627-banijay-amg00627c8-samsung-nz-1828.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HeartFelt TV" group-title="Unclassified",HeartFelt TV [1080]
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/74c455d4-625a-448a-8ba7-d086e6462245/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Heartland" group-title="Unclassified",Heartland [1080]
@@ -342,9 +322,7 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cf
 #EXTINF:-1 tvg-id="" tvg-name="Heritage+" group-title="Unclassified",Heritage+ [1080]
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e4523706-f2a8-4b0f-b081-40fe59a46f81/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Highway Thru Hell" group-title="Unclassified",Highway Thru Hell [1080]
-https://amg00627-amg00627c15-samsung-au-2899.playouts.now.amagi.tv/playlist/amg00627-banijayfast-highwaythruhell-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HIPTV" group-title="Unclassified",HIPTV [1080]
-https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16993
+https://amg00627-amg00627c15-rakuten-uk-4803.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="History & Warfare Now" group-title="Unclassified",History & Warfare Now [1080]
 https://d1nzda2a2b3swt.cloudfront.net/History_Warfare_Now.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="History 365" group-title="Unclassified",History 365 [1080]
@@ -360,7 +338,7 @@ https://rakutenaa-fastmedia-homicide-rakuten-pw6g3.amagi.tv/playlist/rakutenAA-f
 #EXTINF:-1 tvg-id="" tvg-name="Hoop TV" group-title="Unclassified",Hoop TV [1080]
 https://streams2.sofast.tv/WiseM3U8_28/sofast/cleanhls/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Horror by ALTER" group-title="Unclassified",Horror by ALTER [1080]
-https://aegis-cloudfront-1.tubi.video/acac036c-181a-413a-a102-cd294c83320d/playlist.m3u8
+https://d3opw4b2eztyyq.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Horror TV" group-title="Unclassified",Horror TV [1080]
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hot Ones" group-title="Unclassified",Hot Ones [1080]
@@ -377,10 +355,6 @@ https://d190au8yjmla79.cloudfront.net/playlist.m3u8
 https://soul-5mincraftspa-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="In Depth with Graham Bensinger" group-title="Unclassified",In Depth with Graham Bensinger [1080]
 https://d3l6x4fdwxv0np.cloudfront.net/In_Depth_With_Graham_Bensinger.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="In The Black Network" group-title="Unclassified",In The Black Network [1080]
-https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16206
-#EXTINF:-1 tvg-id="" tvg-name="INA 70s" group-title="Unclassified",INA 70s [1080]
-https://fast-rakuten.okast.tv/fa2e8c4385712f9af3e719ec904b3543/channels/34d82f76-b51f-4bf5-9b35-769fb5904e79/96f96405-90e7-489a-a1e6-8ede5d2b4933/media_.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INA Ardivision" group-title="Unclassified",INA Ardivision [1080]
 https://fast-rakuten.okast.tv/fa2e8c4385712f9a3b579747e448699c/channels/34d82f76-b51f-4bf5-9b35-769fb5904e79/a4226699-b685-4f5d-9cb6-2a6cac14c377/media_.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INTER 24/7" group-title="Unclassified",INTER 24/7 [1080]
@@ -456,7 +430,7 @@ https://xumo-xumoent-vc-121-ghge7.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Little Women LA" group-title="Unclassified",Little Women LA [1080]
 https://pb-dg3i75yovavc4.akamaized.net/Little_Women_LA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Live PD Presents" group-title="Unclassified",Live PD Presents [1080]
-https://amg26277-amg26277c11-samsung-gb-11286.playouts.now.amagi.tv/playlist.m3u8
+https://d8o79xse42g9s.cloudfront.net/Live_PD_Presents.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LOL TV" group-title="Unclassified",LOL TV [1080]
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fc63d5fd-b50e-4d3e-abdf-697d9b6cbf70/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LooLoo Kids" group-title="Unclassified",LooLoo Kids [1080]
@@ -510,7 +484,7 @@ https://aegis-cloudfront-1.tubi.video/cf8b86e9-932a-4454-99c5-32169b6a330f/playl
 #EXTINF:-1 tvg-id="" tvg-name="MrBeast" group-title="Unclassified",MrBeast [1080]
 https://d1uoaa28av70en.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTRSPT 1" group-title="Unclassified",MTRSPT 1 [1080]
-https://amg02873-kravemedia-mtrspt1-samsungau-2anp4.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-samsungau/playlist.m3u8
+https://amg02873-kravemedia-mtrspt1-samsungnz-k70ln.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mundo Series" group-title="Unclassified",Mundo Series [1080]
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Murder She Wrote" group-title="Unclassified",Murder She Wrote [1080]
@@ -539,6 +513,8 @@ https://dzz957bqk62e8.cloudfront.net/NASCAR.m3u8
 https://pb-4l6m6c7pca5dy.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-id="KOBDT1.us" tvg-name="NBC 4 Albuquerque NM (KOB)" group-title="Unclassified",NBC 4 Albuquerque NM (KOB) [1080]
 https://amg01942-amg01942c1-stirr-us-10167.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Netlink TV" group-title="Unclassified",Netlink TV [1080]
+https://netlink.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NEW KMOVIES" group-title="Unclassified",NEW KMOVIES [1080]
 https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=USAJ30000122O&channel_id=newid_342&tp=samsung_tvplus
 #EXTINF:-1 tvg-id="" tvg-name="NEW KPOP" group-title="Unclassified",NEW KPOP [1080]
@@ -587,8 +563,6 @@ https://amg02333-pbs-amg02333c13-samsung-au-6858.playouts.now.amagi.tv/playlist.
 https://streams2.sofast.tv/WiseM3U8_26/sofast/cleanhls/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PickleballTV" group-title="Unclassified",PickleballTV [1080]
 https://pb-p82n52ztxtyz8.akamaized.net/PickleballTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Playing for Change" group-title="Unclassified",Playing for Change [1080]
-https://streams2.sofast.tv/vglive-sk-860453/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pocoyo" group-title="Unclassified",Pocoyo [1080]
 https://d16ecq77cfclte.cloudfront.net/Pocoyo_GB.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pointless UK" group-title="Unclassified",Pointless UK [1080]
@@ -600,9 +574,9 @@ https://amg00461-eone-amg00461c2-firetv-us-5210.playouts.now.amagi.tv/playlist.m
 #EXTINF:-1 tvg-id="" tvg-name="Powertube TV" group-title="Unclassified",Powertube TV [1080]
 https://streams2.sofast.tv/powertube_live/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Project Runway" group-title="Unclassified",Project Runway [1080]
-https://amg02189-amg02189c1-samsung-au-5798.playouts.now.amagi.tv/playlist.m3u8
+https://pb-w5i1ok5f9169m.akamaized.net/Project_Runway.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Property & Reno" group-title="Unclassified",Property & Reno [1080]
-https://linear-476.frequency.stream/dist/xumo/476/hls/master/playlist.m3u8
+https://linear-476.frequency.stream/dist/glewedtv/476/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pulse" group-title="Unclassified",Pulse [1080]
 https://amg01076-lightningintern-pulse-samsungau-4a45e.amagi.tv/playlist/amg01076-lightningintern-pulse-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pulse TV" group-title="Unclassified",Pulse TV [1080]
@@ -672,9 +646,9 @@ https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="" tvg-name="Rally.TV FAST+" group-title="Unclassified",Rally.TV FAST+ [1080]
 https://di4fb7mbsq3nf.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RCM" group-title="Unclassified",RCM [1080]
-https://samsungau-rialtosamsungaustralia-al2rg.amagi.tv/playlist/samsungau-rialtosamsungaustralia/playlist.m3u8
+https://amg01076-lightningintern-rialto-samsungnz-03h40.amagi.tv/playlist/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Real Crime" group-title="Unclassified",Real Crime [1080]
-https://lds-realcrime-samsunguk.amagi.tv/playlist.m3u8
+https://lds-realcrime-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Real Crime Beta" group-title="Unclassified",Real Crime Beta [1080]
 https://lds-realcrimebeta-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Real Disaster Channel" group-title="Unclassified",Real Disaster Channel [1080]
@@ -685,8 +659,8 @@ https://xumo-xumoent-vc-123-8gq0q.fast.nbcuni.com/live/master.m3u8
 http://190.181.18.82:4111/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Reelz Famous & Infamous" group-title="Unclassified",Reelz Famous & Infamous [1080]
 https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rig TV" group-title="Unclassified",Rig TV [1080]
-https://buzzr-rigtv-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RIG TV" group-title="Unclassified",RIG TV [1080]
+https://d3czphc6lk67kh.cloudfront.net/RIG_TV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="River Monsters" group-title="Unclassified",River Monsters [1080]
 https://amg00654-itv-amg00654c24-samsung-gb-8890.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Roku Sports Channel" group-title="Unclassified",Roku Sports Channel [1080]
@@ -784,9 +758,9 @@ https://lotus.stingray.com/manifest/ose-232ads-montreal/samsungtvplus/master.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Storm Vibes" group-title="Unclassified",Storm Vibes [1080]
 https://d23gs0zonql31y.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Supermarket Sweep" group-title="Unclassified",Supermarket Sweep [1080]
-https://pb-zp5s7cka1vjrd.akamaized.net/Supermarket_Sweep.m3u8
+https://amg00145-letsplayinc-supermarketswep-xumo-59bvy.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Surf Cinema" group-title="Unclassified",Surf Cinema [1080]
-https://amg13231-actve-amg13231c4-samsung-nz-3093.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-samsungnz/playlist.m3u8
+https://amg13231-actve-amg13231c4-samsung-au-2990.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SURFER TV" group-title="Unclassified",SURFER TV [1080]
 https://dgwfm675921lp.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Surfing+" group-title="Unclassified",Surfing+ [1080]
@@ -830,7 +804,7 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/48
 #EXTINF:-1 tvg-id="" tvg-name="The Grappling Network" group-title="Unclassified",The Grappling Network [1080]
 https://d1vwakhda3vp6p.cloudfront.net/scheduler/scheduleMaster/236.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="The Hotel Inspector" group-title="Unclassified",The Hotel Inspector [1080]
-https://amg00654-itv-amg00654c4-samsung-au-998.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-hotelinspector-samsungau/playlist.m3u8
+https://amg00654-itv-amg00654c4-samsung-gb-8889.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="The Jack Hanna Channel" group-title="Unclassified",The Jack Hanna Channel [1080]
 https://pb-tdmd4j4zqfssc.akamaized.net/The_Jack_Hanna_Channel.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="The Jack Hannah Channel" group-title="Unclassified",The Jack Hannah Channel [1080]
@@ -852,7 +826,7 @@ https://d173iv46agmwo9.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="The UnXplained with William Shatner" group-title="Unclassified",The UnXplained with William Shatner [1080]
 https://pb-ii1ggyq6hduy9.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="The Wicked Tuna Channel" group-title="Unclassified",The Wicked Tuna Channel [1080]
-https://amg00353-lionsgatestudio-wickedtuna-samsungau-26lq4.amagi.tv/playlist/amg00353-lionsgatestudio-wickedtuna-samsungau/playlist.m3u8
+https://amg00353-lionsgatestudio-wickedtunase-samsungse-w4kcr.amagi.tv/playlist/amg00353-lionsgatestudio-wickedtunase-samsungse/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TheSorryGirls TV" group-title="Unclassified",TheSorryGirls TV [1080]
 https://d11iia85bv1ffj.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="This Old House Makers" group-title="Unclassified",This Old House Makers [1080]
@@ -900,7 +874,7 @@ https://amg00886-uktvmedialimite-uktvplayuncovered-samsunguk-pxi83.amagi.tv/play
 #EXTINF:-1 tvg-id="" tvg-name="U&Transport" group-title="Unclassified",U&Transport [1080]
 https://amg00886-uktvmedialimite-uktvplayfullthrottle-samsunguk-36uja.amagi.tv/playlist/amg00886-uktvmedialimite-uktvplayfullthrottle-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UFC" group-title="Unclassified",UFC [1080]
-https://pb-ljudrmfw5j68n.akamaized.net/playlist.m3u8
+https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Unchained TV" group-title="Unclassified",Unchained TV [1080]
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e6fe3169-15ec-4f33-b16c-c9fc37853d61/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Universal Action" group-title="Unclassified",Universal Action [1080]
@@ -948,7 +922,7 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ff
 #EXTINF:-1 tvg-id="" tvg-name="Wasabi la chaîne anime" group-title="Unclassified",Wasabi la chaîne anime [1080]
 https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-wasabii-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Waterbear" group-title="Unclassified",Waterbear [1080]
-https://waterbear-waterbear-rakuten.amagi.tv/playlist.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungse/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="wedo movies" group-title="Unclassified",wedo movies [1080]
 https://videosolu-w4freemovies-samsunguk-jpmp3.amagi.tv/playlist/videosolu-w4freemovies-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WeShort" group-title="Unclassified",WeShort [1080]
@@ -958,7 +932,7 @@ https://ime-cw-stirr.otteravision.com/ime/cw/cw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Wheels & Steel" group-title="Unclassified",Wheels & Steel [1080]
 https://amg01775-amg01775c2-amgplt0002.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01775-amg01775c2-amgplt0002/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Wicked Tuna" group-title="Unclassified",Wicked Tuna [1080]
-https://amg00353-amg00353c25-rakuten-us-4896.playouts.now.amagi.tv/playlist.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtunanl-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Wicked Tuna Germany" group-title="Unclassified",Wicked Tuna Germany [1080]
 https://amg00353-amg00353c28-rakuten-us-4895.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Wild Nature" group-title="Unclassified",Wild Nature [1080]
@@ -966,7 +940,7 @@ https://dhiy0zcig7ty1.cloudfront.net/scheduler/scheduleMaster/491.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Wild Planet" group-title="Unclassified",Wild Planet [1080]
 https://d1h8whhtg5u7om.cloudfront.net/WildPlanet_GB.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Wild West TV" group-title="Unclassified",Wild West TV [1080]
-https://linear-799.frequency.stream/dist/xumo/799/hls/master/playlist.m3u8
+https://pb-7m2kwpwgu3dqf.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Wildest Wish TV" group-title="Unclassified",Wildest Wish TV [1080]
 https://streams2.sofast.tv/sofast3/v1/0197e8dd18f31ebd4704322ec12ab7/0197e8dd477d1ea506ec3673c3696b/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Winter Vibes" group-title="Unclassified",Winter Vibes [1080]
@@ -1009,12 +983,16 @@ https://rakutenaa-fastmedia-yaquelaverite-rakuten-81p2x.amagi.tv/playlist/rakute
 https://d7vulbd7rxo7j.cloudfront.net/Yahoo_Sports_Network.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Yu-Gi-Oh! Italy" group-title="Unclassified",Yu-Gi-Oh! Italy [1080]
 https://amg01796-amg01796c17-rakuten-it-7492.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh3it-rakutenit/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zarok TV Sorani" group-title="Unclassified",Zarok TV Sorani [1080]
+https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Zhara.ru" tvg-name="Zhara" group-title="Unclassified",Zhara [1080]
 http://stream.mcquack.net/386/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="上虞1新闻综合" group-title="Unclassified",上虞1新闻综合 [1080]
 https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="之江纪录" group-title="Unclassified",之江纪录 [1080]
-https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="上虞3新商都" group-title="Unclassified",上虞3新商都 [1080]
+https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="浙江教科" group-title="Unclassified",浙江教科 [1080]
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="福州广播电视台新闻综合频道 (FZTV-1)" group-title="Unclassified",福州广播电视台新闻综合频道 (FZTV-1) [1080]
 http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="福州广播电视台都市生活频道 (FZTV-3)" group-title="Unclassified",福州广播电视台都市生活频道 (FZTV-3) [1080]
@@ -1031,6 +1009,8 @@ https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8
 http://stream.mcquack.net/37/index.m3u8
 #EXTINF:-1 tvg-id="Canal2Misiones.ar" tvg-name="Canal 2 Misiones" group-title="Unclassified" tvg-logo="https://i.imgur.com/YqTNXDf.png" tvg-country="AR",Canal 2 Misiones [1080]
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
+#EXTINF:-1 tvg-id="Canal3Formosa.ar" tvg-name="Canal 3 Formosa" group-title="Unclassified" tvg-logo="https://i.imgur.com/rVDrNIy.png" tvg-country="AR",Canal 3 Formosa [1080]
+https://stmvideo6.livecastv.com/agenfor/agenfor/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal4Jujuy.ar" tvg-name="Canal 4 Jujuy" group-title="Unclassified" tvg-logo="https://i.imgur.com/qB6I274.png" tvg-country="AR",Canal 4 Jujuy [1080]
 https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal50Morteros.ar" tvg-name="Canal 50 Morteros" group-title="Unclassified" tvg-logo="https://i.imgur.com/IDhgBav.png" tvg-country="AR",Canal 50 Morteros [1080]
@@ -1053,6 +1033,8 @@ http://45.171.64.30:6060/play/a04n/index.m3u8
 https://stream.t5satelital.blog/hls/t5satelitalweb.m3u8
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/960px-Telemax_Argentina_%282018%29.png" tvg-country="AR",Telemax [1080]
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+#EXTINF:-1 tvg-id="TIVTelevision.ar" tvg-name="TIV Television" group-title="Unclassified" tvg-logo="https://i.imgur.com/gsgXGEj.png" tvg-country="AR",TIV Television [1080]
+https://videohd.live:19360/8008/8008.m3u8
 #EXTINF:-1 tvg-id="TVPublicaFueguina.ar" tvg-name="TV Publica Fueguina" group-title="Unclassified" tvg-logo="https://i.imgur.com/4dUvFqa.png" tvg-country="AR",TV Publica Fueguina [1080]
 https://nd106.republicaservers.com/hls/c8094/index.m3u8
 #EXTINF:-1 tvg-id="RTV.at" tvg-name="RTV" group-title="Unclassified" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtvat.png" tvg-country="AT",RTV [1080]
@@ -1069,16 +1051,18 @@ http://158.172.155.130:8000/play/a0e7/index.m3u8
 https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8
 #EXTINF:-1 tvg-id="UnivalleTelevision.bo" tvg-name="Univalle Television" group-title="Unclassified" tvg-logo="https://i.imgur.com/qgrWDIs.png" tvg-country="BO",Univalle Television [1080]
 https://master.tucableip.com/univalletv/playlist.m3u8
+#EXTINF:-1 tvg-id="AmazonSat.br" tvg-name="Amazon Sat" group-title="Unclassified" tvg-logo="https://i.imgur.com/7rjCS5i.png" tvg-country="BR",Amazon Sat [1080]
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-id="NovaEraTV.br" tvg-name="Nova Era TV" group-title="Unclassified" tvg-logo="https://i.imgur.com/IK3F9Uq.png" tvg-country="BR",Nova Era TV [1080]
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 #EXTINF:-1 tvg-id="PlayTV.br" tvg-name="Play TV" group-title="Unclassified" tvg-logo="https://i.imgur.com/Ikrj3lk.png" tvg-country="BR",Play TV [1080]
 https://isaocorp.cloudecast.com/playtv/index.m3u8
-#EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="Rede Globo" group-title="Unclassified" tvg-logo="https://i.imgur.com/O02TF2r.png" tvg-country="BR",Rede Globo [1080]
-https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:-1 tvg-id="RedeTVParana.br" tvg-name="RedeTV! Parana" group-title="Unclassified" tvg-logo="https://i.imgur.com/D8R0Af4.png" tvg-country="BR",RedeTV! Parana [1080]
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT Nacional" group-title="Unclassified" tvg-logo="https://i.imgur.com/tc1ALuu.png" tvg-country="BR",SBT Nacional [1080]
 https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
+#EXTINF:-1 tvg-id="SICTV.br" tvg-name="SIC TV" group-title="Unclassified" tvg-logo="https://i.imgur.com/mHxQyB2.png" tvg-country="BR",SIC TV [1080]
+https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
 #EXTINF:-1 tvg-id="TVACritica.br" tvg-name="TV A Critica" group-title="Unclassified" tvg-logo="https://i.imgur.com/j51rBro.png" tvg-country="BR",TV A Critica [1080]
 https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBahia.br" tvg-name="TV Bahia" group-title="Unclassified" tvg-logo="https://i.imgur.com/sJOrvHg.png" tvg-country="BR",TV Bahia [1080]
@@ -1118,16 +1102,12 @@ https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8
 https://canalalpha.vedge.infomaniak.com/livecast/ik:canalalpha/playlist.m3u8
 #EXTINF:-1 tvg-id="TVM3.ch" tvg-name="TVM 3" group-title="Unclassified" tvg-logo="https://i.imgur.com/zNJlFMg.png" tvg-country="CH",TVM 3 [1080]
 https://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
-#EXTINF:-1 tvg-id="CampusTV.cl" tvg-name="CampusTV" group-title="Unclassified" tvg-logo="https://i.imgur.com/LvzLg33.png" tvg-country="CL",CampusTV [1080]
-https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal2Quellon.cl" tvg-name="Canal 2 Quellon" group-title="Unclassified" tvg-logo="https://i.imgur.com/MOwLCwT.png" tvg-country="CL",Canal 2 Quellon [1080]
 https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal9BioBioTelevision.cl" tvg-name="Canal 9 Bio-Bio Television" group-title="Unclassified" tvg-logo="https://i.imgur.com/J2G1WMs.png" tvg-country="CL",Canal 9 Bio-Bio Television [1080]
 https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PuconTV.cl" tvg-name="Pucon TV" group-title="Unclassified" tvg-logo="https://i.imgur.com/nO4cV3E.png" tvg-country="CL",Pucon TV [1080]
 https://redirector.dps.live/hls/pucontv/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioPopularTV.cl" tvg-name="Radio Popular TV" group-title="Unclassified" tvg-logo="https://i.imgur.com/71U0wTN.png" tvg-country="CL",Radio Popular TV [1080]
-https://tv.arkeo.cl:19360/8052/8052.m3u8
 #EXTINF:-1 tvg-id="RTVNuble.cl" tvg-name="RTV Nuble" group-title="Unclassified" tvg-logo="https://i.imgur.com/BDKgDZG.png" tvg-country="CL",RTV Nuble [1080]
 https://tv.arkeo.cl:1936/canalrtv/canalrtv/playlist.m3u8
 #EXTINF:-1 tvg-id="ThemaTelevision.cl" tvg-name="Thema Television" group-title="Unclassified" tvg-logo="https://www.thematelevision.cl/wp-content/uploads/2019/08/fffffffff.png" tvg-country="CL",Thema Television [1080]
@@ -1145,26 +1125,22 @@ https://v2.tustreaming.cl/utv/index.m3u8
 #EXTINF:-1 tvg-id="VisionPlusTV.cl" tvg-name="Vision Plus TV" group-title="Unclassified" tvg-logo="https://i.imgur.com/mpNcG5F.png" tvg-country="CL",Vision Plus TV [1080]
 #EXTVLCOPT:http-referrer=https://visionplustv.cl/
 https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8
-#EXTINF:-1 tvg-id="AnhuiTV.cn" tvg-name="Anhui TV" group-title="Unclassified" tvg-logo="https://i.imgur.com/gDn101f.png" tvg-country="CN",Anhui TV [1080]
-https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8
 #EXTINF:-1 tvg-id="BreadTV.cn" tvg-name="Bread TV" group-title="Unclassified" tvg-logo="https://bread-tv.com/uploads/allimg/241202/9_1836542371.png" tvg-country="CN",Bread TV [1080]
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 tvg-id="CCTV8K.cn" tvg-name="CCTV-8K" group-title="Unclassified" tvg-logo="https://i.imgur.com/fxVPMJF.png" tvg-country="CN",CCTV-8K [1080]
 http://192.151.150.154/live/cctv8k.m3u8
-#EXTINF:-1 tvg-id="CCTVCultureofQuality.cn" tvg-name="CCTV-Culture of Quality" group-title="Unclassified" tvg-logo="https://i.imgur.com/Paig8gG.png" tvg-country="CN",CCTV-Culture of Quality [1080]
-http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="HunanTV.cn" tvg-name="Hunan TV" group-title="Unclassified" tvg-logo="https://parco-zh.github.io/demo/HNWS.png" tvg-country="CN",Hunan TV [2160]
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #EXTINF:-1 tvg-id="NeiMonggolTV.cn" tvg-name="Nei Monggol TV" group-title="Unclassified" tvg-logo="https://i.imgur.com/WeugJBE.png" tvg-country="CN",Nei Monggol TV [1080]
 http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
-#EXTINF:-1 tvg-id="QinghaiTV.cn" tvg-name="Qinghai TV" group-title="Unclassified" tvg-logo="https://i.imgur.com/Nyuxo8S.png" tvg-country="CN",Qinghai TV [1080]
-https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 #EXTINF:-1 tvg-id="VoATVChina.cn" tvg-name="VoA TV China" group-title="Unclassified" tvg-logo="https://i.imgur.com/XCTZkoq.png" tvg-country="CN",VoA TV China [1080]
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 #EXTINF:-1 tvg-id="XinjiangTV2.cn" tvg-name="Xinjiang TV 2" group-title="Unclassified" tvg-logo="https://i.imgur.com/GXFLqxx.png" tvg-country="CN",Xinjiang TV 2 [1080]
 http://110.153.180.106:55555/out_3/index.m3u8
 #EXTINF:-1 tvg-id="XinjiangTV3.cn" tvg-name="Xinjiang TV 3" group-title="Unclassified" tvg-logo="https://i.imgur.com/l8S5qQB.png" tvg-country="CN",Xinjiang TV 3 [1080]
 https://st-video.xjmty.com/fs/livedit/e55abfa37af26e19/8ce9971c2177b3dd.m3u8
+#EXTINF:-1 tvg-id="XinjiangTV5.cn" tvg-name="Xinjiang TV 5" group-title="Unclassified" tvg-logo="https://i.imgur.com/PARupWK.png" tvg-country="CN",Xinjiang TV 5 [1080]
+http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="XinjiangTV8.cn" tvg-name="Xinjiang TV 8" group-title="Unclassified" tvg-logo="https://i.imgur.com/JJw1Ndc.png" tvg-country="CN",Xinjiang TV 8 [1080]
 http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
 #EXTINF:-1 tvg-id="XizangTVChinese.cn" tvg-name="Xizang TV Chinese" group-title="Unclassified" tvg-logo="https://i.imgur.com/V0v3ST5.png" tvg-country="CN",Xizang TV Chinese [1080]
@@ -1173,8 +1149,6 @@ https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8
 http://php.jdshipin.com:8880/xztv.php?id=zy
 #EXTINF:-1 tvg-id="ZhejiangInternationalChannel.cn" tvg-name="Zhejiang International Channel" group-title="Unclassified" tvg-logo="https://i.imgur.com/XOL1Hph.png" tvg-country="CN",Zhejiang International Channel [1080]
 https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
-#EXTINF:-1 tvg-id="BestClasicosTV.cr" tvg-name="BestClasicosTV" group-title="Unclassified" tvg-logo="https://i.imgur.com/a/BRb8AVL.png" tvg-country="CR",BestClasicosTV [1080]
-https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="QuinceUCR.cr" tvg-name="Quince UCR" group-title="Unclassified" tvg-logo="https://i.imgur.com/U7DUlem.png" tvg-country="CR",Quince UCR [1080]
 https://wowza.ucr.ac.cr/quinceucr/_definst_/quinceucr.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleUno.cr" tvg-name="Tele Uno" group-title="Unclassified" tvg-logo="https://i.imgur.com/eRwYxc2.png" tvg-country="CR",Tele Uno [1080]
@@ -1184,7 +1158,7 @@ https://k20.usastreams.com:8081/tvsur/index.m3u8
 #EXTINF:-1 tvg-id="Sat7Arabic.cy" tvg-name="Sat 7 Arabic" group-title="Unclassified" tvg-logo="https://i.imgur.com/BzDjQeQ.png" tvg-country="CY",Sat 7 Arabic [1080]
 https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="Sat7Turk.cy" tvg-name="Sat 7 Turk" group-title="Unclassified" tvg-logo="https://i.imgur.com/cKQIK4i.png" tvg-country="CY",Sat 7 Turk [1080]
-https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8
+https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Ballcasterz.cz" tvg-name="Ballcasterz" group-title="Unclassified" tvg-logo="https://web02.antik.sk/assets/img/channels/59cd3407a28c122f4abbc7b01eff7a0c.svg" tvg-country="CZ",Ballcasterz [1080]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://antik.streaming.tivio.studio/channels/yXDwkH0CbFfkhU7ZnHlT/index.m3u8
@@ -1193,23 +1167,11 @@ http://antik.streaming.tivio.studio/channels/yXDwkH0CbFfkhU7ZnHlT/index.m3u8
 https://antik.streaming.tivio.studio/channels/IxLi19VRasgu94bIaXbH/index.m3u8
 #EXTINF:-1 tvg-id="ElektrikaTV.cz" tvg-name="Elektrika TV" group-title="Unclassified" tvg-logo="https://i.imgur.com/OLd5od5.png" tvg-country="CZ",Elektrika TV [1080]
 https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="History2.cz" tvg-name="History2" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/960px-History2_logo_%282022%29.svg.png" tvg-country="CZ",History2 [1080]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/test_h2/playlist.m3u8
 #EXTINF:-1 tvg-id="KVIFFTV.cz" tvg-name="KVIFF TV" group-title="Unclassified" tvg-logo="https://web02.antik.sk/assets/img/channels/0d824abdc4c21ab5d35cf946847cedee.svg" tvg-country="CZ",KVIFF TV [1080]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://antik.streaming.tivio.studio/channels/HC7JIqyyvQMl0mnqbbnI/index.m3u8
 #EXTINF:-1 tvg-id="MnauTV.cz" tvg-name="Mnau TV" group-title="Unclassified" tvg-logo="https://i.imgur.com/deVHJKS.png" tvg-country="CZ",Mnau TV [1080]
 https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="PrimaKrimi.cz" tvg-name="Prima Krimi" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Prima_Krimi.png/960px-Prima_Krimi.png" tvg-country="CZ",Prima Krimi [1080]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/test_prima_krimi_cz/playlist.m3u8
-#EXTINF:-1 tvg-id="PrimaMax.cz" tvg-name="Prima Max" group-title="Unclassified" tvg-logo="https://i.imgur.com/ePrdyLi.png" tvg-country="CZ",Prima Max [1080]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/test_prima_max_cz/playlist.m3u8
-#EXTINF:-1 tvg-id="TVBarrandov.cz" tvg-name="TV Barrandov" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_TV_Barrandov.png/960px-Logo_TV_Barrandov.png" tvg-country="CZ",TV Barrandov [1080]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/test_barrandov/playlist.m3u8
 #EXTINF:-1 tvg-id="UpNetwork.cz" tvg-name="Up Network" group-title="Unclassified" tvg-logo="https://i.imgur.com/cwlHDjh.png" tvg-country="CZ",Up Network [1080]
 https://dash.antik.sk/live/test_upnetwork/playlist.m3u8
 #EXTINF:-1 tvg-id="UTV.cz" tvg-name="UTV" group-title="Unclassified" tvg-logo="https://i.imgur.com/ulfeIwM.png" tvg-country="CZ",UTV [1080]
@@ -1219,7 +1181,7 @@ https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
 #EXTINF:-1 tvg-id="BibelTVImpuls.de" tvg-name="Bibel TV Impuls" group-title="Unclassified" tvg-logo="https://i.imgur.com/k4tbW3W.png" tvg-country="DE",Bibel TV Impuls [1080]
 https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="BLKRegionalTV.de" tvg-name="BLK Regional TV" group-title="Unclassified" tvg-logo="https://i.imgur.com/JLgnPG1.png" tvg-country="DE",BLK Regional TV [1080]
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8?ref=medienportal-sachsen-
 #EXTINF:-1 tvg-id="BRFernsehen.de" tvg-name="BR Fernsehen" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_Bayerischer_Rundfunk_2024.svg/960px-Logo_Bayerischer_Rundfunk_2024.svg.png" tvg-country="DE",BR Fernsehen [1080]
 https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
 #EXTINF:-1 tvg-id="CiraTV.de" tvg-name="Cira TV" group-title="Unclassified" tvg-logo="https://i.imgur.com/YFnmSLW.png" tvg-country="DE",Cira TV [1080]
@@ -1256,8 +1218,6 @@ http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
 https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SWR3VisualRadio.de" tvg-name="SWR 3 Visual Radio" group-title="Unclassified" tvg-logo="https://i.imgur.com/PxSgxRO.jpg" tvg-country="DE",SWR 3 Visual Radio [1080]
 https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
-#EXTINF:-1 tvg-id="teltOwkanal.de" tvg-name="teltOwkanal" group-title="Unclassified" tvg-logo="https://i.imgur.com/G0cImlU.png" tvg-country="DE",teltOwkanal [1080]
-https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8
 #EXTINF:-1 tvg-id="TVIngolstadt.de" tvg-name="TV Ingolstadt" group-title="Unclassified" tvg-logo="https://i.imgur.com/Ymh11VV.png" tvg-country="DE",TV Ingolstadt [1080]
 https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMainfranken.de" tvg-name="TV Mainfranken" group-title="Unclassified" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvmainfranken.png" tvg-country="DE",TV Mainfranken [1080]
@@ -1272,9 +1232,6 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.is
 http://provedores.unsion.tv:8081/srt/1/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalDiocesano.es" tvg-name="Canal Diocesano" group-title="Unclassified" tvg-logo="https://i.imgur.com/uWhVKL3.png" tvg-country="ES",Canal Diocesano [1080]
 https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8
-#EXTINF:-1 tvg-id="CanalTerrassa.es" tvg-name="Canal Terrassa" group-title="Unclassified" tvg-logo="https://i.imgur.com/5fc5ZyI.png" tvg-country="ES",Canal Terrassa [1080]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://ingest2-video.streaming-pro.com/canalterrassa/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Elche7TV.es" tvg-name="Elche 7 TV" group-title="Unclassified" tvg-logo="https://i.imgur.com/tjI0dLx.png" tvg-country="ES",Elche 7 TV [1080]
 https://elche7tv.gestec-video.com/hls/canal2.m3u8
 #EXTINF:-1 tvg-id="GoienaEus.es" tvg-name="Goiena Eus" group-title="Unclassified" tvg-logo="https://i.imgur.com/eaLIJzK.png" tvg-country="ES",Goiena Eus [1080]
@@ -1304,31 +1261,28 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 #EXTINF:-1 tvg-id="Vision6TV.es" tvg-name="Vision 6 TV" group-title="Unclassified" tvg-logo="https://i.imgur.com/TB1wMQ7.jpg" tvg-country="ES",Vision 6 TV [1080]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://streaming.proceso.info:8888/vision6-web/stream.m3u8
-#EXTINF:-1 tvg-id="VOTV.es" tvg-name="VOTV" group-title="Unclassified" tvg-logo="https://i.imgur.com/1g2Z64L.png" tvg-country="ES",VOTV [1080]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://ingest2-video.streaming-pro.com/votv/streaming_web/playlist.m3u8
 #EXTINF:-1 tvg-id="YleTeemaFem.fi" tvg-name="Yle Teema & Fem" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yle_Teema_%26_Fem.svg/960px-Yle_Teema_%26_Fem.svg.png" tvg-country="FI",Yle Teema & Fem [1080]
 https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/index.m3u8
 #EXTINF:-1 tvg-id="YleTV1.fi" tvg-name="Yle TV1" group-title="Unclassified" tvg-logo="https://i.imgur.com/6yXZwUL.png" tvg-country="FI",Yle TV1 [1080]
 https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8
+#EXTINF:-1 tvg-id="YleTV2.fi" tvg-name="Yle TV2" group-title="Unclassified" tvg-logo="https://i.imgur.com/4xkc6PL.png" tvg-country="FI",Yle TV2 [1080]
+https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8
 #EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-name="RMC Decouverte" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/960px-RMC_D%C3%A9couverte_logo_2017.svg.png" tvg-country="FR",RMC Decouverte [1080]
 https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
 #EXTINF:-1 tvg-id="RMCStory.fr" tvg-name="RMC Story" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_RMC_Story_2025.png/960px-Logo_RMC_Story_2025.png" tvg-country="FR",RMC Story [1080]
 https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX" group-title="Unclassified" tvg-logo="https://i.imgur.com/d91GcVf.png" tvg-country="FR",TFX [1080]
+http://149.62.177.107:9999/TFX/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr" tvg-name="TV5Monde Asia" group-title="Unclassified" tvg-logo="https://i.imgur.com/FRsRXRR.png" tvg-country="FR",TV5Monde Asia [1080]
 https://freem3u.xyz/api/live/play.m3u8?vid=9852
 #EXTINF:-1 tvg-id="ViaMatele.fr" tvg-name="ViaMatele" group-title="Unclassified" tvg-logo="https://i.imgur.com/XVCV9rj.png" tvg-country="FR",ViaMatele [1080]
 https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
-#EXTINF:-1 tvg-id="AdinkraTV.gh" tvg-name="Adinkra TV" group-title="Unclassified" tvg-logo="https://i.imgur.com/uwuSXJ8.png" tvg-country="GH",Adinkra TV [1080]
-https://59d39900ebfb8.streamlock.net/adinkratvny/adinkratvny/playlist.m3u8
 #EXTINF:-1 tvg-id="BestTV.gr" tvg-name="Best TV" group-title="Unclassified" tvg-logo="https://i.imgur.com/AeeeDUc.png" tvg-country="GR",Best TV [1080]
 http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel8.gr" tvg-name="Channel 8" group-title="Unclassified" tvg-logo="https://www.channel8.gr/img/channel8.png" tvg-country="GR",Channel 8 [1080]
 https://gra1.crystalweb.net:1936/channel8/channel8/playlist.m3u8
 #EXTINF:-1 tvg-id="EcclesiaTV.gr" tvg-name="Ecclesia TV" group-title="Unclassified" tvg-logo="https://i.imgur.com/QQSSMZx.png" tvg-country="GR",Ecclesia TV [1080]
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
-#EXTINF:-1 tvg-id="Xplore.gr" tvg-name="Xplore" group-title="Unclassified" tvg-logo="https://i.imgur.com/8oy62fX.png" tvg-country="GR",Xplore [1080]
-http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecosta.gt" tvg-name="Telecosta" group-title="Unclassified" tvg-logo="https://www.telecostaescuintla.com/gallery_gen/f57408fa00aca6d969248be4b56b48e6.png" tvg-country="GT",Telecosta [1080]
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1 tvg-id="GoldenJade.hk" tvg-name="Golden Jade" group-title="Unclassified" tvg-logo="https://i.imgur.com/lPYxsUr.png" tvg-country="HK",Golden Jade [1080]
@@ -1337,35 +1291,8 @@ http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-id="Teleceiba.hn" tvg-name="Teleceiba" group-title="Unclassified" tvg-logo="https://i.imgur.com/oPSfsvy.png" tvg-country="HN",Teleceiba [1080]
 http://45.238.141.222:8000/play/a0pf/index.m3u8
-#EXTINF:-1 tvg-id="ATVSpirit.hu" tvg-name="ATV Spirit" group-title="Unclassified" tvg-logo="https://i.imgur.com/JINE5xS.png" tvg-country="HU",ATV Spirit [1080]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/test_atv_spirit/playlist.m3u8
-#EXTINF:-1 tvg-id="Prime.hu" tvg-name="Prime" group-title="Unclassified" tvg-logo="https://i.imgur.com/VvZEP4s.png" tvg-country="HU",Prime [1080]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/prime/index.m3u8
-#EXTINF:-1 tvg-id="RTL.hu" tvg-name="RTL" group-title="Unclassified" tvg-logo="https://i.imgur.com/ruRshE1.png" tvg-country="HU",RTL [1080]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/test_rtl_klub_hungary_1200_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="RTLHarom.hu" tvg-name="RTL Harom" group-title="Unclassified" tvg-logo="https://i.imgur.com/c4Hhhzs.png" tvg-country="HU",RTL Harom [1080]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/test_rtl_plus_hungary_1200_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="RTLKetto.hu" tvg-name="RTL Ketto" group-title="Unclassified" tvg-logo="https://i.imgur.com/IVv0qrI.png" tvg-country="HU",RTL Ketto [1080]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/test_rtl2_hungary_1200_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="Story4.hu" tvg-name="Story4" group-title="Unclassified" tvg-logo="https://i.imgur.com/pJsLyiv.png" tvg-country="HU",Story4 [1080]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/story_4_cze_atk/index.m3u8
 #EXTINF:-1 tvg-id="TVEger.hu" tvg-name="TV Eger" group-title="Unclassified" tvg-logo="https://i.imgur.com/GUVW073.png" tvg-country="HU",TV Eger [1080]
 http://stream.tveger.hu:8010/live.m3u8
-#EXTINF:-1 tvg-id="TV2.hu" tvg-name="TV2" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/TV2_2008.svg/960px-TV2_2008.svg.png" tvg-country="HU",TV2 [1080]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/test_tv_2_hungary_1200_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="Viasat3.hu" tvg-name="Viasat 3" group-title="Unclassified" tvg-logo="https://i.imgur.com/ehx7R3A.png" tvg-country="HU",Viasat 3 [1080]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/viasat3/index.m3u8
-#EXTINF:-1 tvg-id="Viasat6.hu" tvg-name="Viasat 6" group-title="Unclassified" tvg-logo="https://i.imgur.com/kypSbFX.png" tvg-country="HU",Viasat 6 [1080]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/viasat6/index.m3u8
 #EXTINF:-1 tvg-id="CarubanTV.id" tvg-name="Caruban TV" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/CarubanTV%28Low-res%29.png" tvg-country="ID",Caruban TV [1080]
 #EXTVLCOPT:http-referrer=https://stream.carubantv.id
 https://stream.carubantv.id/hls/0/stream.m3u8
@@ -1377,16 +1304,21 @@ http://122.248.43.242:1935/RIAUTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="RRINet.id" tvg-name="RRI Net" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RRI_NET_2023.svg/960px-RRI_NET_2023.svg.png" tvg-country="ID",RRI Net [1080]
 https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8
 #EXTINF:-1 tvg-id="StaraTV.id" tvg-name="Stara TV" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png" tvg-country="ID",Stara TV [1080]
-#EXTVLCOPT:http-referrer=https://bandung.staratv.id/
-https://bandung.staratv.id/hls/0/stream.m3u8
+#EXTVLCOPT:http-referrer=https://malang.staratv.id/
+https://malang.staratv.id/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="TVRIWorld.id" tvg-name="TVRI World" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/960px-TVRIWorld.png" tvg-country="ID",TVRI World [1080]
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+#EXTINF:-1 tvg-id="USMTV.id" tvg-name="USM TV" group-title="Unclassified" tvg-logo="https://usmtv.id/wp-content/uploads/2024/01/logo-large-1.png" tvg-country="ID",USM TV [1080]
+#EXTVLCOPT:http-referrer=https://usmtv.id/live-tv/
+https://play.fsa-stream.my.id/hls/siaran.m3u8
 #EXTINF:-1 tvg-id="TG4.ie" tvg-name="TG4" group-title="Unclassified" tvg-logo="https://i.imgur.com/XiAKb4E.png" tvg-country="IE",TG4 [1080]
 https://fastly.live.brightcove.com/6384196213112/eu-west-1/1555966122001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieDl2YzlnLmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiMTU1NTk2NjEyMjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyIxNTU1OTY2MTIyMDAxIl0sImp0aSI6IjYzODQxOTYyMTMxMTIifQ.Co2xR3kmJBoxTaFTpwU0b37lJ05vNt-y32-SwfM26EA/chunklist.m3u8
 #EXTINF:-1 tvg-id="Channel16.il" tvg-name="Channel 16" group-title="Unclassified" tvg-logo="https://ch16israel.vod.immergo.tv/ch16israel/uploaded/bfbd4781-67a7-437e-8f7e-898a5cbc4ab4.png" tvg-country="IL",Channel 16 [1080]
 https://ch16israel-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="ComedyChannel.il" tvg-name="Comedy Channel" group-title="Unclassified" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fc0d8109a18a4db3b585f154d32bd5b1/version/93/width/288/height/153/" tvg-country="IL",Comedy Channel [1080]
 https://d15ds134q59udk.cloudfront.net/out/v1/fbba879221d045598540ee783b140fe2/index.m3u8
+#EXTINF:-1 tvg-id="HSTV.in" tvg-name="HSTV" group-title="Unclassified" tvg-logo="https://ibb.co/Ng5nkX6F" tvg-country="IN",HSTV [1080]
+https://live.castmaxcloud.com/live/hstv.m3u8
 #EXTINF:-1 tvg-id="PravasiChannel.in" tvg-name="Pravasi Channel" group-title="Unclassified" tvg-logo="https://i.imgur.com/1dHarb7.png" tvg-country="IN",Pravasi Channel [1080]
 https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="RPlus.in" tvg-name="R Plus" group-title="Unclassified" tvg-logo="https://i.imgur.com/XUnWcZF.png" tvg-country="IN",R Plus [1080]
@@ -1403,13 +1335,15 @@ http://103.151.60.162:2122/play/a02f/index.m3u8?hls
 https://live.we2live.in/taazatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="UBangla.in" tvg-name="U Bangla" group-title="Unclassified" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/U_Bangla.png" tvg-country="IN",U Bangla [1080]
 https://stream.ottlive.co.in/ubangla/index.m3u8
+#EXTINF:-1 tvg-id="AVAMedia.iq" tvg-name="AVA Media" group-title="Unclassified" tvg-logo="https://github.com/user-attachments/assets/a9259f18-b9f2-4aa0-86f0-8fba1f343e69" tvg-country="IQ",AVA Media [1080]
+http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV-avc1_2500000=10002,mp4a_128000=20000.m3u8
 #EXTINF:-1 tvg-id="AvarTV.iq" tvg-name="Avar TV" group-title="Unclassified" tvg-logo="https://i.imgur.com/JazFBkW.jpeg" tvg-country="IQ",Avar TV [1080]
 https://avr.host247.net/live/AvarTv/playlist.m3u8
 #EXTINF:-1 tvg-id="UTV.iq" tvg-name="UTV" group-title="Unclassified" tvg-logo="https://i.imgur.com/9qFHjnu.png" tvg-country="IQ",UTV [1080]
 https://utviraqi-live.lg.mncdn.com/utviraqi-live/64c80359/index.m3u8
 #EXTINF:-1 tvg-id="WaarTV.iq" tvg-name="Waar TV" group-title="Unclassified" tvg-logo="https://i.imgur.com/rK0y02d.png" tvg-country="IQ",Waar TV [1080]
 https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
-#EXTINF:-1 tvg-id="HamoonTV.ir" tvg-name="Hamoon TV" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/b/bc/Zahedan_Hamoon.png" tvg-country="IR",Hamoon TV [1080]
+#EXTINF:-1 tvg-id="HamoonTV.ir" tvg-name="Hamoon TV" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/b/bc/Zahedan_Hamoon.png" tvg-country="IR",Hamoon TV [1088]
 https://ncdn.telewebion.ir/hamoon/live/playlist.m3u8
 #EXTINF:-1 tvg-id="NoorTV.ir" tvg-name="Noor TV" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/c/ce/Qum_Noor_TV.svg/960px-Qum_Noor_TV.svg.png" tvg-country="IR",Noor TV [1080]
 https://ncdn.telewebion.ir/noor/live/playlist.m3u8
@@ -1426,6 +1360,8 @@ https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
 https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
 #EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png" tvg-country="IT",Rai 3 [1080]
 https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="Rai Gulp" group-title="Unclassified" tvg-logo="https://i.imgur.com/irAhPJM.png" tvg-country="IT",Rai Gulp [1080]
+http://5.180.164.197:8080/RAIGULP/index.m3u8
 #EXTINF:-1 tvg-id="RaiItalia.it" tvg-name="Rai Italia" group-title="Unclassified" tvg-logo="https://i.imgur.com/1nN4rEP.png" tvg-country="IT",Rai Italia [1080]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://d3k8wzt41aflvx.cloudfront.net/RAIEU/Live.m3u8
@@ -1440,6 +1376,8 @@ https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/index.m3u8
 https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
 #EXTINF:-1 tvg-id="RDSSocialTV.it" tvg-name="RDS Social TV" group-title="Unclassified" tvg-logo="https://i.imgur.com/bxGvE8C.png" tvg-country="IT",RDS Social TV [1080]
 https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
+#EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real Time" group-title="Unclassified" tvg-logo="https://i.imgur.com/SPlk2Gx.png" tvg-country="IT",Real Time [1080]
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="RTCTelecalabria.it" tvg-name="RTC Telecalabria" group-title="Unclassified" tvg-logo="https://i.imgur.com/NnFopuS.png" tvg-country="IT",RTC Telecalabria [1080]
 https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="RTTRTrento.it" tvg-name="RTTR Trento" group-title="Unclassified" tvg-logo="https://i.imgur.com/6DyzN8M.png" tvg-country="IT",RTTR Trento [1080]
@@ -1474,8 +1412,6 @@ https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 https://stream.pdtvhd.com/LiveApp/streams/Townfullhd.m3u8
 #EXTINF:-1 tvg-id="TBSTV.kr" tvg-name="TBS TV" group-title="Unclassified" tvg-logo="https://i.imgur.com/iOnWS6V.png" tvg-country="KR",TBS TV [1080]
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SensesTV.lb" tvg-name="Senses TV" group-title="Unclassified" tvg-logo="https://i.imgur.com/hnTx8eK.png" tvg-country="LB",Senses TV [1080]
-http://31.14.41.69:8080/hls/sensesonline/index.m3u8
 #EXTINF:-1 tvg-id="TV3.lt" tvg-name="TV3" group-title="Unclassified" tvg-logo="https://i.imgur.com/7nipq0y.png" tvg-country="LT",TV3 [1080]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/29/index.m3u8
@@ -1496,16 +1432,13 @@ https://5fe2654d6127d.streamlock.net:443/telemetrika3/_definst_/videotelemetrika
 #EXTINF:-1 tvg-id="CanalOnce.mx" tvg-name="Canal Once" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal_Once_logo_2025.png" tvg-country="MX",Canal Once [1080]
 https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
 #EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden" group-title="Unclassified" tvg-logo="https://i.imgur.com/NNd1lYl.png" tvg-country="MX",Golden [1080]
-http://138.121.15.230:9002/GOLDEN/index.m3u8
+http://15.204.196.147:22880/RECEPCION-GOLDEN_LAT-FHD/video.m3u8
 #EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="Golden Edge" group-title="Unclassified" tvg-logo="https://i.imgur.com/SlSbcp3.png" tvg-country="MX",Golden Edge [1080]
-http://138.121.15.230:9002/GOLDEN-EDGE/index.m3u8
+http://15.204.196.147:22880/RECEPCION-GOLDEN_EDGE-LATAM-FHD/video.m3u8
 #EXTINF:-1 tvg-id="RCGTV.mx" tvg-name="RCG TV" group-title="Unclassified" tvg-logo="https://i.imgur.com/kYtAR26.png" tvg-country="MX",RCG TV [1080]
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 #EXTINF:-1 tvg-id="SistemaMichoacanodeTV.mx" tvg-name="Sistema Michoacano de TV" group-title="Unclassified" tvg-logo="https://i.imgur.com/7MXF4Fd.png" tvg-country="MX",Sistema Michoacano de TV [1080]
 https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleYucatan.mx" tvg-name="Tele Yucatan" group-title="Unclassified" tvg-logo="https://i.imgur.com/XkpDSmO.png" tvg-country="MX",Tele Yucatan [1080]
-#EXTVLCOPT:http-referrer=https://www.teleyucatan.gob.mx/
-https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemax.mx" tvg-name="Telemax" group-title="Unclassified" tvg-logo="https://i.imgur.com/klhTyDU.png" tvg-country="MX",Telemax [1080]
 https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
 #EXTINF:-1 tvg-id="UMTV.mx" tvg-name="UMTV" group-title="Unclassified" tvg-logo="https://i.imgur.com/sjxVdPh.png" tvg-country="MX",UMTV [1080]
@@ -1570,30 +1503,14 @@ https://live-evg5.tv360.bitel.com.pe/bitel/imperialSRT/playlist.m3u8
 https://live-evg8.tv360.bitel.com.pe/bitel/planeatvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="UcayalinadeTelevision.pe" tvg-name="Ucayalina de Television" group-title="Unclassified" tvg-logo="https://i.imgur.com/jBhfcqy.png" tvg-country="PE",Ucayalina de Television [1080]
 https://live-evg11.tv360.bitel.com.pe/bitel/utv/playlist.m3u8
-#EXTINF:-1 tvg-id="AdventureTV.pl" tvg-name="Adventure TV" group-title="Unclassified" tvg-logo="https://i.imgur.com/VQVr4Nk.png" tvg-country="PL",Adventure TV [1080]
-http://57.128.231.171:8080/320/index.m3u8
 #EXTINF:-1 tvg-id="CanalPlusDomo.pl" tvg-name="Canal+ Domo" group-title="Unclassified" tvg-logo="https://i.imgur.com/Iz2BxbR.png" tvg-country="PL",Canal+ Domo [1080]
 http://92.114.85.87:8019/play/a008/index.m3u8
-#EXTINF:-1 tvg-id="CanalPlusNow.pl" tvg-name="Canal+ Now" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/C%2BNow.png/960px-C%2BNow.png" tvg-country="PL",Canal+ Now [1080]
-http://57.128.210.196:8080/299/index.m3u8
-#EXTINF:-1 tvg-id="PoloTV.pl" tvg-name="Polo TV" group-title="Unclassified" tvg-logo="https://i.imgur.com/GEJZjRB.png" tvg-country="PL",Polo TV [1080]
-http://57.128.210.196:8080/210/index.m3u8
-#EXTINF:-1 tvg-id="PolsatCafe.pl" tvg-name="Polsat Cafe" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Polsat_Caf%C3%A9_2021_gradient.svg/500px-Polsat_Caf%C3%A9_2021_gradient.svg.png" tvg-country="PL",Polsat Cafe [1080]
-http://57.128.210.196:8080/207/index.m3u8
-#EXTINF:-1 tvg-id="PolsatDoku.pl" tvg-name="Polsat Doku" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Polsat_Doku_2021_gradient.svg/500px-Polsat_Doku_2021_gradient.svg.png" tvg-country="PL",Polsat Doku [1080]
-http://57.128.210.196:8080/206/index.m3u8
 #EXTINF:-1 tvg-id="PolsatGames.pl" tvg-name="Polsat Games" group-title="Unclassified" tvg-logo="https://i.imgur.com/OSCrBvh.png" tvg-country="PL",Polsat Games [1080]
-http://57.128.210.196:8080/204/index.m3u8
-#EXTINF:-1 tvg-id="PolsatPlay.pl" tvg-name="Polsat Play" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Polsat_Play_2021_gradient.svg/500px-Polsat_Play_2021_gradient.svg.png" tvg-country="PL",Polsat Play [1080]
-http://57.128.210.196:8080/198/index.m3u8
+http://92.63.196.180:8080/live/74173747597177/7vfxky4rjx3j/10209.m3u8?token=Q0FaWEpZFFsXAwNWUFMEBwJXAwMDVlpTBgVTVwEHAQNeWgoACVVXVQAVGEZGFUdTUl9qWwIVAlBSAQBdGENHQ10RbVBdEwxDAgANUAJVFxoRRlxfAxUCUU4RQA1QQwheTQ9eFRtUThVQRVoFWT5RU0VbVldEDVYUDl8cRlsPbVRdDlNXXRMMQwQVGEZcEkUUCVxAXgobGgMLR0IFQAQQClYWXlUVE1UOQFlAFkxDDxRjfhceRFJAFQddQw1bDxAKGg4BTAETGkNcRGsWUBJBRFZTWFcUFQJDUhEcRlkASm9bDFxXXFJCCFpZR0YPQwQUHxBYXQheTA4QbEANUEMIXk0PXkQ=
 #EXTINF:-1 tvg-id="PolsatRodzina.pl" tvg-name="Polsat Rodzina" group-title="Unclassified" tvg-logo="https://i.imgur.com/IS0AW48.png" tvg-country="PL",Polsat Rodzina [1080]
-http://57.128.210.196:8080/197/index.m3u8
-#EXTINF:-1 tvg-id="PolsatSport1.pl" tvg-name="Polsat Sport 1" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/500px-Polsat_Sport_1_2024.svg.png" tvg-country="PL",Polsat Sport 1 [1080]
-http://57.128.210.196:8080/193/index.m3u8
-#EXTINF:-1 tvg-id="PolsatSport2.pl" tvg-name="Polsat Sport 2" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Polsat_Sport_2_2024.svg/500px-Polsat_Sport_2_2024.svg.png" tvg-country="PL",Polsat Sport 2 [1080]
-http://57.128.210.196:8080/195/index.m3u8
-#EXTINF:-1 tvg-id="PolsatSport3.pl" tvg-name="Polsat Sport 3" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_3_2024.svg/500px-Polsat_Sport_3_2024.svg.png" tvg-country="PL",Polsat Sport 3 [1080]
-http://57.128.210.196:8080/192/index.m3u8
+http://92.114.85.87:8014/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="Puls2.pl" tvg-name="Puls 2" group-title="Unclassified" tvg-logo="https://i.imgur.com/EOnzPiZ.png" tvg-country="PL",Puls 2 [1080]
+https://edge01.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-hls/index.m3u8
 #EXTINF:-1 tvg-id="RedCarpetTVInternational.pl" tvg-name="Red Carpet TV International" group-title="Unclassified" tvg-logo="https://i.imgur.com/xf7UXCA.png" tvg-country="PL",Red Carpet TV International [1080]
 https://fast-rakuten.okast.tv/fa2e8c4385712f9a9076eaf728c751de/channels/1a6ecfaa-40c6-41b8-8634-595c424f856e/21f67fd1-4d21-43ba-8ad8-3afac9982c25/master.m3u8
 #EXTINF:-1 tvg-id="RomanceTV.pl" tvg-name="Romance TV" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Romance_TV_Logo_10.2019.svg/960px-Romance_TV_Logo_10.2019.svg.png" tvg-country="PL",Romance TV [1080]
@@ -1606,6 +1523,8 @@ http://92.114.85.87:8001/play/a00o/index.m3u8
 https://5d84fe297ee2b.streamlock.net/sercanie/scj_florek.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="TOPBarca.pl" tvg-name="TOP Barca" group-title="Unclassified" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7c59e962-086b-4d64-afb3-7f83ca8c3377-width200-quality90.jpeg" tvg-country="PL",TOP Barca [1080]
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="TopMoviesPolska.pl" tvg-name="Top Movies Polska" group-title="Unclassified" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/39a979b9-49df-48c1-8c1c-5763828b60aa-width200-quality90.png" tvg-country="PL",Top Movies Polska [1080]
+https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8
 #EXTINF:-1 tvg-id="TVPuls.pl" tvg-name="TV Puls" group-title="Unclassified" tvg-logo="https://i.imgur.com/gXA7pai.png" tvg-country="PL",TV Puls [1080]
 https://edge01.cdn.emitel.pl/bpk-tv/Puls_HD/hbbtv-hls/index.m3u8
 #EXTINF:-1 tvg-id="TVRegionalnaLubin.pl" tvg-name="TV Regionalna Lubin" group-title="Unclassified" tvg-logo="https://i.imgur.com/2WVNt3f.png" tvg-country="PL",TV Regionalna Lubin [1080]
@@ -1614,19 +1533,9 @@ https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285c
 http://92.114.85.87:8018/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="TVTorun.pl" tvg-name="TV Torun" group-title="Unclassified" tvg-logo="https://i.imgur.com/ZJ0yDWI.png" tvg-country="PL",TV Torun [1080]
 http://217.173.176.107:1935/live/tvk.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVTrwam.pl" tvg-name="TV Trwam" group-title="Unclassified" tvg-logo="https://i.imgur.com/yq10wS5.png" tvg-country="PL",TV Trwam [1080]
-http://57.128.231.171:8080/338/index.m3u8
-#EXTINF:-1 tvg-id="TV4.pl" tvg-name="TV4" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/TV4Polska.png" tvg-country="PL",TV4 [1080]
-http://57.128.210.196:8080/161/index.m3u8
-#EXTINF:-1 tvg-id="TV6.pl" tvg-name="TV6" group-title="Unclassified" tvg-logo="https://i.imgur.com/sW2PQ9z.png" tvg-country="PL",TV6 [1080]
-http://57.128.210.196:8080/160/index.m3u8
-#EXTINF:-1 tvg-id="TVC.pl" tvg-name="TVC" group-title="Unclassified" tvg-logo="https://i.imgur.com/1Wmib2f.png" tvg-country="PL",TVC [1080]
-http://57.128.231.171:8080/214/index.m3u8
 #EXTINF:-1 tvg-id="TVP3Warszawa.pl" tvg-name="TVP 3 Warszawa" group-title="Unclassified" tvg-logo="https://i.imgur.com/AfZOO8U.jpg" tvg-country="PL",TVP 3 Warszawa [1080]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 http://92.114.85.87:8010/play/a006/index.m3u8
-#EXTINF:-1 tvg-id="TVPHD.pl" tvg-name="TVP HD" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/TVP_HD_logo.svg/960px-TVP_HD_logo.svg.png" tvg-country="PL",TVP HD [1080]
-http://57.128.210.196:8080/141/index.m3u8
 #EXTINF:-1 tvg-id="TVPInfo.pl" tvg-name="TVP Info" group-title="Unclassified" tvg-logo="https://i.imgur.com/qXrrNxv.png" tvg-country="PL",TVP Info [1080]
 https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPKultura.pl" tvg-name="TVP Kultura" group-title="Unclassified" tvg-logo="https://i.imgur.com/JU858Es.png" tvg-country="PL",TVP Kultura [1080]
@@ -1634,15 +1543,16 @@ http://92.114.85.87:8006/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="TVPPolonia.pl" tvg-name="TVP Polonia" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/960px-TVP_Polonia_Logo_2020.svg.png" tvg-country="PL",TVP Polonia [1080]
 https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
 #EXTINF:-1 tvg-id="TVP1.pl" tvg-name="TVP1" group-title="Unclassified" tvg-logo="https://i.imgur.com/ewpSjBs.png" tvg-country="PL",TVP1 [1080]
-http://57.128.210.196:8080/144/index.m3u8
-#EXTINF:-1 tvg-id="TVP2.pl" tvg-name="TVP2" group-title="Unclassified" tvg-logo="https://i.imgur.com/XxCc32B.png" tvg-country="PL",TVP2 [1080]
-http://57.128.210.196:8080/143/index.m3u8
+http://92.114.85.87:8009/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="ViasatTrueCrime.pl" tvg-name="Viasat True Crime" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Viasat_True_Crime_%2820.05.2026%29.png" tvg-country="PL",Viasat True Crime [1080]
 http://92.114.85.87:8010/play/a00a/index.m3u8
-#EXTINF:-1 tvg-id="WaterPlanet.pl" tvg-name="Water Planet" group-title="Unclassified" tvg-logo="https://i.imgur.com/ZKczKhD.png" tvg-country="PL",Water Planet [1080]
-http://57.128.231.171:8080/122/index.m3u8
 #EXTINF:-1 tvg-id="TeleOnce.pr" tvg-name="TeleOnce" group-title="Unclassified" tvg-logo="https://i.imgur.com/Crt3P4N.png" tvg-country="PR",TeleOnce [1080]
 https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="WIPRTV61.pr" tvg-name="WIPR-TV 6.1" group-title="Unclassified" tvg-logo="https://i.imgur.com/MGJaxFO.png" tvg-country="PR",WIPR-TV 6.1 [1080]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://ott3.streann.com/loadbalancer/services/public/channels-secure/6273ffeae4b037870081ff51/playlist.m3u8
+#EXTINF:-1 tvg-id="WKAQTV22.pr" tvg-name="WKAQ-TV 2.2" group-title="Unclassified" tvg-logo="https://i.imgur.com/TL6xy4y.png" tvg-country="PR",WKAQ-TV 2.2 [1080]
+http://38.107.110.140:61400/play/a07a/index.m3u8
 #EXTINF:-1 tvg-id="RajeenTV.ps" tvg-name="Rajeen TV" group-title="Unclassified" tvg-logo="https://i.imgur.com/6Cx22ya.png" tvg-country="PS",Rajeen TV [1080]
 https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ShababFM.ps" tvg-name="Shabab FM" group-title="Unclassified" tvg-logo="https://i.imgur.com/4Cyz4Bn.png" tvg-country="PS",Shabab FM [1080]
@@ -1651,20 +1561,16 @@ https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
 #EXTINF:-1 tvg-id="SICReplay.pt" tvg-name="SIC Replay" group-title="Unclassified" tvg-logo="https://i.imgur.com/fj84mXz.png" tvg-country="PT",SIC Replay [1080]
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
-#EXTINF:-1 tvg-id="beINSports9.qa" tvg-name="beIN Sports 9" group-title="Unclassified" tvg-logo="https://assets.bein.com/mena/sites/3/2023/09/logos-_beINSPORTS9.png" tvg-country="QA",beIN Sports 9 [1080]
-http://primetv.cc.cd/beinfhd99/tracks-v1a1/mono.tbin.m3u8
-#EXTINF:-1 tvg-id="PROTV.ro" tvg-name="PRO TV" group-title="Unclassified" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Pro_TV_Aug_2025.svg/revision/latest/scale-to-width-down/1000?cb=20250810105837" tvg-country="RO",PRO TV [1080]
-http://eb4b8dcf.kablakaka.ru/iptv/3KZ2W9GEEY49ZV/6997/index.m3u8
 #EXTINF:-1 tvg-id="SangeorzTV.ro" tvg-name="Sangeorz TV" group-title="Unclassified" tvg-logo="https://sangeorztv.ro/wp-content/uploads/2025/12/sangeorz-tv-3.png" tvg-country="RO",Sangeorz TV [1080]
 https://live.sangeorztv.ro:8443/live/index.m3u8?cookieCheck=1
+#EXTINF:-1 tvg-id="UTV.ro" tvg-name="UTV" group-title="Unclassified" tvg-logo="https://i.imgur.com/aBdz9IT.png" tvg-country="RO",UTV [1080]
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/714.m3u8
 #EXTINF:-1 tvg-id="IDJTV.rs" tvg-name="IDJTV" group-title="Unclassified" tvg-logo="https://i.imgur.com/btvyrzr.png" tvg-country="RS",IDJTV [1080]
 https://best-str.umn.cdn.united.cloud/stream?channel=idjhd&p=In$trum300na765ta&player=m3u8&sp=idjtv&stream=hp1400&u=idjtv
 #EXTINF:-1 tvg-id="RTVNoviPazar.rs" tvg-name="RTV Novi Pazar" group-title="Unclassified" tvg-logo="https://i.imgur.com/NpyRVyC.png" tvg-country="RS",RTV Novi Pazar [1080]
 https://tv.rtvnp.rs/stream.m3u8
 #EXTINF:-1 tvg-id="Arkhyz24.ru" tvg-name="Arkhyz 24" group-title="Unclassified" tvg-logo="https://i.imgur.com/blAtdkJ.png" tvg-country="RU",Arkhyz 24 [1080]
 https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
-#EXTINF:-1 tvg-id="AstrahanRuTV.ru" tvg-name="Astrahan.Ru TV" group-title="Unclassified" tvg-logo="https://i.imgur.com/w4ys6zm.png" tvg-country="RU",Astrahan.Ru TV [1080]
-https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
 #EXTINF:-1 tvg-id="BST.ru" tvg-name="BST" group-title="Unclassified" tvg-logo="https://i.imgur.com/IDotHmQ.png" tvg-country="RU",BST [1080]
 http://bst.bratsk.ru/hls/bst2/index.m3u8
 #EXTINF:-1 tvg-id="Dagestan.ru" tvg-name="Dagestan" group-title="Unclassified" tvg-logo="https://i.imgur.com/jumkRvc.png" tvg-country="RU",Dagestan [1080]
@@ -1674,9 +1580,9 @@ http://stream.mcquack.net/213/index.m3u8
 #EXTINF:-1 tvg-id="InsaytTV.ru" tvg-name="Insayt TV" group-title="Unclassified" tvg-logo="https://i.imgur.com/slLuRel.png" tvg-country="RU",Insayt TV [2160]
 http://stream.mcquack.net/361/index.m3u8
 #EXTINF:-1 tvg-id="MirBelogorya.ru" tvg-name="Mir Belogorya" group-title="Unclassified" tvg-logo="https://mirbelogorya.ru/images/logo/Logo_Mir_Belogorya_purple_gradient.png" tvg-country="RU",Mir Belogorya [1080]
-http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
+http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
 #EXTINF:-1 tvg-id="Priklyucheniya.ru" tvg-name="Priklyucheniya" group-title="Unclassified" tvg-logo="https://i.imgur.com/qQ6pPPQ.png" tvg-country="RU",Priklyucheniya [1080]
-http://stream.mcquack.net/198/index.m3u8
+https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Prima.ru" tvg-name="Prima" group-title="Unclassified" tvg-logo="https://i.imgur.com/33XGMch.png" tvg-country="RU",Prima [1920]
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
@@ -1691,23 +1597,23 @@ https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
 #EXTINF:-1 tvg-id="Sever.ru" tvg-name="Sever" group-title="Unclassified" tvg-logo="https://i.imgur.com/sTOQLYl.png" tvg-country="RU",Sever [1080]
 https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SolovyovLive.ru" tvg-name="Solovyov Live" group-title="Unclassified" tvg-logo="https://images.iptv.rt.ru/images/d7efm08mifeaf9jacb30.png" tvg-country="RU",Solovyov Live [1080]
-https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8
+#EXTINF:-1 tvg-id="ShchyolkovskoeTV.ru" tvg-name="Shchyolkovskoe TV" group-title="Unclassified" tvg-logo="https://i.imgur.com/0us6l04.png" tvg-country="RU",Shchyolkovskoe TV [1080]
+http://stream0.tv41.ru/live.m3u8
 #EXTINF:-1 tvg-id="Surgut24.ru" tvg-name="Surgut 24" group-title="Unclassified" tvg-logo="https://i.imgur.com/OxvqXMt.png" tvg-country="RU",Surgut 24 [1080]
 https://sitv.ru/vgtrk/stv.m3u8
 #EXTINF:-1 tvg-id="SvoyoTV.ru" tvg-name="Svoyo TV" group-title="Unclassified" tvg-logo="https://i.imgur.com/3cP2fmX.png" tvg-country="RU",Svoyo TV [1080]
 https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
-#EXTINF:-1 tvg-id="Telplus.ru" tvg-name="Telplus" group-title="Unclassified" tvg-logo="https://i.imgur.com/1zbcZ3p.png" tvg-country="RU",Telplus [1080]
-https://streaming.astrakhan.ru/telplushd/playlist.m3u8
 #EXTINF:-1 tvg-id="TravelChannel.ru" tvg-name="Travel Channel" group-title="Unclassified" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Travel_Channel_International.svg/revision/latest?cb=20191226223708" tvg-country="RU",Travel Channel [1080]
 http://stream.mcquack.net/231/index.m3u8
 #EXTINF:-1 tvg-id="TVCentr.ru" tvg-name="TV Centr" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/TV_Tsentr_2013_Logo.svg" tvg-country="RU",TV Centr [1920]
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+#EXTINF:-1 tvg-id="TVCentrInternational.ru" tvg-name="TV Centr International" group-title="Unclassified" tvg-logo="https://i.imgur.com/tsCOnBW.png" tvg-country="RU",TV Centr International [1080]
+https://stream8.cinerama.uz/1281/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="UgraTV.ru" tvg-name="Ugra-TV" group-title="Unclassified" tvg-logo="https://i.imgur.com/561FRwI.png" tvg-country="RU",Ugra-TV [1080]
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
 #EXTINF:-1 tvg-id="UniverTV.ru" tvg-name="Univer TV" group-title="Unclassified" tvg-logo="https://i.imgur.com/r3u0mxr.png" tvg-country="RU",Univer TV [1080]
-https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
+https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Vmirezhivotnykh.ru" tvg-name="V mire zhivotnykh" group-title="Unclassified" tvg-logo="https://i.imgur.com/6uotdVQ.png" tvg-country="RU",V mire zhivotnykh [1080]
 http://stream.mcquack.net/241/index.m3u8
 #EXTINF:-1 tvg-id="VmesteRF.ru" tvg-name="Vmeste-RF" group-title="Unclassified" tvg-logo="https://i.imgur.com/KI1qZNc.png" tvg-country="RU",Vmeste-RF [1080]
@@ -1730,15 +1636,6 @@ https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8
 https://dash2.antik.sk/live/test_slo2_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="TVVeseljakGolicaHD.si" tvg-name="TV Veseljak Golica HD" group-title="Unclassified" tvg-logo="https://i.imgur.com/49VrbSW.png" tvg-country="SI",TV Veseljak Golica HD [1080]
 https://radio.serv.si/VeseljakGolicaTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="PrimaKrimiSK.sk" tvg-name="Prima Krimi SK" group-title="Unclassified" tvg-logo="https://www.jojgroup.sk/wp-content/uploads/PRIMA-KRIMI-SK-2-scaled.png" tvg-country="SK",Prima Krimi SK [1080]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/prima_krimi_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="PrimaloveSK.sk" tvg-name="Prima love SK" group-title="Unclassified" tvg-logo="https://www.jojgroup.sk/wp-content/uploads/PRIMA-LOVE-1.png" tvg-country="SK",Prima love SK [1080]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/prima_love_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="PrimaSK.sk" tvg-name="Prima SK" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/PRIMA_SK_logo_RGB.png" tvg-country="SK",Prima SK [1080]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/test_prima_plus_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Senzi.sk" tvg-name="Senzi" group-title="Unclassified" tvg-logo="https://i.imgur.com/1qJMmBu.png" tvg-country="SK",Senzi [1080]
 http://lb.streaming.sk/senzi/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TurboTV.sk" tvg-name="Turbo TV" group-title="Unclassified" tvg-logo="https://i.imgur.com/HI7bCHq.png" tvg-country="SK",Turbo TV [1080]
@@ -1759,8 +1656,6 @@ https://ramach.ddns.net/live/ramalive/index.m3u8
 https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/playlist.m3u8
 #EXTINF:-1 tvg-id="STOUChannel.th" tvg-name="STOU Channel" group-title="Unclassified" tvg-logo="https://i.imgur.com/L3T2QZz.png" tvg-country="TH",STOU Channel [1080]
 https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="ThaiChaiyo.th" tvg-name="Thai Chaiyo" group-title="Unclassified" tvg-logo="https://i.imgur.com/uOfb3y1.png" tvg-country="TH",Thai Chaiyo [1080]
-https://live.thaichaiyo.tv/tcy/live-transmux.m3u8
 #EXTINF:-1 tvg-id="ThaiPBS.th" tvg-name="Thai PBS" group-title="Unclassified" tvg-logo="https://i.imgur.com/CwalZjr.png" tvg-country="TH",Thai PBS [1080]
 https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="WhiteChannel.th" tvg-name="White Channel" group-title="Unclassified" tvg-logo="https://i.imgur.com/Chx0AV9.png" tvg-country="TH",White Channel [1080]
@@ -1787,12 +1682,16 @@ https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TRT Turk" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/960px-TRT_T%C3%BCrk_logo.svg.png" tvg-country="TR",TRT Turk [1440]
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TV264.tr" tvg-name="TV 264" group-title="Unclassified" tvg-logo="https://i.imgur.com/tudXdOZ.png" tvg-country="TR",TV 264 [1080]
+https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TV4.tr" tvg-name="TV 4" group-title="Unclassified" tvg-logo="https://i.imgur.com/UpsQsbd.png" tvg-country="TR",TV 4 [1080]
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:-1 tvg-id="UrfaNatikTV.tr" tvg-name="Urfa Natik TV" group-title="Unclassified" tvg-logo="https://i.imgur.com/8KO0uxn.png" tvg-country="TR",Urfa Natik TV [1080]
 https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
 #EXTINF:-1 tvg-id="VavTV.tr" tvg-name="Vav TV" group-title="Unclassified" tvg-logo="https://i.imgur.com/jw0gB8L.png" tvg-country="TR",Vav TV [1080]
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ZarokTV.tr" tvg-name="Zarok TV" group-title="Unclassified" tvg-logo="https://i.imgur.com/o0eevnb.png" tvg-country="TR",Zarok TV [1080]
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Channel8.ua" tvg-name="Channel 8" group-title="Unclassified" tvg-logo="https://i.imgur.com/6Sr5vJD.png" tvg-country="UA",Channel 8 [1080]
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.0.138/index.m3u8
@@ -1853,13 +1752,17 @@ http://23.237.104.106:8080/USA_BTN/index.m3u8
 #EXTINF:-1 tvg-id="Bounce.us" tvg-name="Bounce" group-title="Unclassified" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRovgIthNmn9MgjbnrOV5Y_1fY8XLnmADvmGGUlACeIClMVnUaiTwBhYvyo0vKn4RQAfBk&usqp=CAU" tvg-country="US",Bounce [1080]
 http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 #EXTINF:-1 tvg-id="BYUTV.us" tvg-name="BYU TV" group-title="Unclassified" tvg-logo="https://i.imgur.com/mruGyuu.png" tvg-country="US",BYU TV [1080]
-https://amg02604-byutv-amg02604c2-firetv-us-4981.playouts.now.amagi.tv/playlist.m3u8
+https://d13j8jpstr8iqz.cloudfront.net/BYUtv.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTheaterLatinAmerica.us" tvg-name="Discovery Theater Latin America" group-title="Unclassified" tvg-logo="https://i.imgur.com/AqR0Jkn.png" tvg-country="US",Discovery Theater Latin America [1080]
 http://181.224.200.5:2277/play/a0bj/index.m3u8
 #EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-name="HBO Latin America" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" tvg-country="US",HBO Latin America [1080]
 http://15.204.246.24:8080/HBOHD/index.m3u8
+#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-name="HBO+ Latin America" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/960px-Logohboplus2019.svg.png" tvg-country="US",HBO+ Latin America [1080]
+http://15.204.246.24:8080/HBOPlusHD/index.m3u8
 #EXTINF:-1 tvg-id="KTOO360TV.us" tvg-name="KTOO 360TV" group-title="Unclassified" tvg-logo="https://i.imgur.com/ppn5oJy.png" tvg-country="US",KTOO 360TV [1080]
 https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m3u8
+#EXTINF:-1 tvg-id="MidpenMediaCenterChannel26.us" tvg-name="Midpen Media Center Channel 26" group-title="Unclassified" tvg-logo="https://i.imgur.com/aX1GkCD.png" tvg-country="US",Midpen Media Center Channel 26 [1080]
+https://5c2974786200d.streamlock.net/live-chan26/ngrp:ch26_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Portlandia.us" tvg-name="Portlandia" group-title="Unclassified" tvg-logo="https://i.imgur.com/I4KDvu9.png" tvg-country="US",Portlandia [1080]
 https://amc-portlandia-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RCTV.us" tvg-name="RCTV" group-title="Unclassified" tvg-logo="https://i.imgur.com/DWwequ0.png" tvg-country="US",RCTV [1080]
@@ -1869,7 +1772,7 @@ https://2-fss-2.streamhoster.com/pl_118/206858-4404454-1/playlist.m3u8
 #EXTINF:-1 tvg-id="Revolt.us" tvg-name="Revolt" group-title="Unclassified" tvg-logo="https://i.imgur.com/eaYnGpH.png" tvg-country="US",Revolt [1080]
 http://23.237.104.106:8080/USA_REVOLT/index.m3u8
 #EXTINF:-1 tvg-id="RVTV.us" tvg-name="RVTV" group-title="Unclassified" tvg-logo="https://i.imgur.com/pBBb0wx.png" tvg-country="US",RVTV [1080]
-https://rvtv-stirr.b-cdn.net/rvtv-on-stirr/playlist.m3u8
+https://rvtv-on-freecast.b-cdn.net/RVTV-on-Freecast/index.m3u8
 #EXTINF:-1 tvg-id="ScientologyNetwork.us" tvg-name="Scientology Network" group-title="Unclassified" tvg-logo="https://i.imgur.com/HFmkjiR.png" tvg-country="US",Scientology Network [1080]
 https://stream6.scientology.org/master.m3u8
 #EXTINF:-1 tvg-id="ShemarooBollywood.us" tvg-name="Shemaroo Bollywood" group-title="Unclassified" tvg-logo="https://i.imgur.com/TFxLj80.png" tvg-country="US",Shemaroo Bollywood [1080]
@@ -1888,8 +1791,10 @@ http://15.204.246.24:8080/StudioUniversalHD/index.m3u8
 https://164475.gvideo.io/mpegts/164475_650646/master_mpegts.m3u8
 #EXTINF:-1 tvg-id="TBNPacific.us" tvg-name="TBN Pacific" group-title="Unclassified" tvg-logo="https://i.imgur.com/yWJTxKk.png" tvg-country="US",TBN Pacific [1080]
 https://broadcast.tbnpacific.org.au:4430/stream/TBNPacificTV/playlist.m3u8
+#EXTINF:-1 tvg-id="TCMLatinAmerica.us" tvg-name="TCM Latin America" group-title="Unclassified" tvg-logo="https://i.imgur.com/QpDkrmT.png" tvg-country="US",TCM Latin America [1080]
+https://streaming.onnethn.com/TCM_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="TCT.us" tvg-name="TCT" group-title="Unclassified" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGBjGJG3-J1NDvN8RAumzg3xBfekso6UxwD5LWr7fCgRUl0h4nk6SWgB5jILg9jqRU6UQ&usqp=CAU" tvg-country="US",TCT [1080]
-https://cdn.jwplayer.com/live/broadcast/frRD2nUK.m3u8
+https://d16yptpbiuldtt.cloudfront.net/0b4ebb8be00f40ee83c024f661a85dcd/index.m3u8
 #EXTINF:-1 tvg-id="TED.us" tvg-name="TED" group-title="Unclassified" tvg-logo="https://i.imgur.com/KeIhwNP.png" tvg-country="US",TED [1080]
 https://d1b16tvvxk3tnu.cloudfront.net/TED.m3u8
 #EXTINF:-1 tvg-id="TheHillTV.us" tvg-name="The Hill TV" group-title="Unclassified" tvg-logo="https://i.imgur.com/Ioh5xbx.png" tvg-country="US",The Hill TV [1080]
@@ -1899,13 +1804,13 @@ http://45.171.64.30:6060/play/a03i/index.m3u8
 #EXTINF:-1 tvg-id="TribecaChannel.us" tvg-name="Tribeca Channel" group-title="Unclassified" tvg-logo="https://i.imgur.com/JCpFAll.png" tvg-country="US",Tribeca Channel [1080]
 https://amg02507-giantpictures-tribeca-xumo-ey2b7.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueCrimeNow.us" tvg-name="True Crime Now" group-title="Unclassified" tvg-logo="https://i.imgur.com/Y6Hix17.png" tvg-country="US",True Crime Now [1080]
-https://amg00376-magellan-amg00376c12-samsung-nz-1727.playouts.now.amagi.tv/playlist/amg00376-magellantv-truecrimenowaunzin-samsungnz/playlist.m3u8
+https://amg00376-magellan-amg00376c11-rakuten-us-1700.playouts.now.amagi.tv/playlist/amg00376-magellantv-truecrimenowww-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-id="truTV.us" tvg-name="truTV" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/960px-TruTV_2014.svg.png" tvg-country="US",truTV [1080]
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 #EXTINF:-1 tvg-id="TUDN.us" tvg-name="TUDN" group-title="Unclassified" tvg-logo="https://i.imgur.com/oT5CAvd.png" tvg-country="US",TUDN [1080p]
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
-#EXTINF:-1 tvg-id="UniMas.us" tvg-name="UniMas" group-title="Unclassified" tvg-logo="https://i.imgur.com/Q7xrM2w.png" tvg-country="US",UniMas [1080p]
-https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
+#EXTINF:-1 tvg-id="UniMas.us" tvg-name="UniMas" group-title="Unclassified" tvg-logo="https://i.imgur.com/PGJOFD4.png" tvg-country="US",UniMas [1080p]
+https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8
 #EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us" tvg-name="Universal TV Latin America" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png" tvg-country="US",Universal TV Latin America [1080]
 http://15.204.246.24:8080/UniversalHD/index.m3u8
 #EXTINF:-1 tvg-id="Univision.us" tvg-name="Univision" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" tvg-country="US",Univision [1080p]
@@ -1913,7 +1818,7 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/unieast/unieast.isml/hls/un
 #EXTINF:-1 tvg-id="USANetworkLatinAmerica.us" tvg-name="USA Network Latin America" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" tvg-country="US",USA Network Latin America [1080]
 http://138.121.15.230:9002/USA/index.m3u8
 #EXTINF:-1 tvg-id="VICETV.us" tvg-name="VICE TV" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/960px-Vice_TV_logo.svg.png" tvg-country="US",VICE TV [1080]
-https://d1ocru52bkg5e9.cloudfront.net/VICE.m3u8
+https://vicetv-vicefast1-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="VSiN.us" tvg-name="VSiN" group-title="Unclassified" tvg-logo="https://i.imgur.com/C4wIRxg.png" tvg-country="US",VSiN [1080]
 https://vsin-sgrewind.streamguys1.com/scte/live-2k/playlist.m3u8
 #EXTINF:-1 tvg-id="WACX551.us" tvg-name="WACX 55.1" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/WACX_logo_2021.png/960px-WACX_logo_2021.png" tvg-country="US",WACX 55.1 [1080]
@@ -1936,10 +1841,12 @@ https://freem3u.xyz/api/live/play.m3u8?vid=20
 https://live.canthotv.vn/cs3/tv/chunklist.m3u8
 #EXTINF:-1 tvg-id="DakLakTV.vn" tvg-name="Dak Lak TV" group-title="Unclassified" tvg-logo="https://i.imgur.com/gFfZvTW.png" tvg-country="VN",Dak Lak TV [1080]
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8
+#EXTINF:-1 tvg-id="QPVN.vn" tvg-name="QPVN" group-title="Unclassified" tvg-logo="https://i.imgur.com/GQO7UNu.png" tvg-country="VN",QPVN [1080]
+https://qpvn.vn/live/qpvn/master.m3u8
+#EXTINF:-1 tvg-id="QuangNamTV.vn" tvg-name="Quang Nam TV" group-title="Unclassified" tvg-logo="https://i.imgur.com/uWiOoVg.png" tvg-country="VN",Quang Nam TV [1080]
+https://freem3u.xyz/api/live/play.m3u8?vid=80
 #EXTINF:-1 tvg-id="QuangNgaiTV.vn" tvg-name="Quang Ngai TV" group-title="Unclassified" tvg-logo="https://i.imgur.com/QckiN3H.png" tvg-country="VN",Quang Ngai TV [1080]
 https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u8
-#EXTINF:-1 tvg-id="SCTV4K.vn" tvg-name="SCTV4K" group-title="Unclassified" tvg-logo="https://i.imgur.com/eQVMAur.png" tvg-country="VN",SCTV4K [2160]
-https://vietanhtv.id.vn/sctv/sctv-4k/index.m3u8
 #EXTINF:-1 tvg-id="VietnamToday.vn" tvg-name="Vietnam Today" group-title="Unclassified" tvg-logo="https://i.imgur.com/xW9rY7s.png" tvg-country="VN",Vietnam Today [1080]
 https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
 #EXTINF:-1 tvg-id="VTV1.vn" tvg-name="VTV1" group-title="Unclassified" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Logo_VTV1_-_%C4%90%C3%A0i_Truy%E1%BB%81n_h%C3%ACnh_Vi%E1%BB%87t_Nam.svg/960px-Logo_VTV1_-_%C4%90%C3%A0i_Truy%E1%BB%81n_h%C3%ACnh_Vi%E1%BB%87t_Nam.svg.png" tvg-country="VN",VTV1 [1080]
@@ -1954,6 +1861,10 @@ https://dethich.pw/vtv3/index.m3u8
 https://dethich.pw/vtv4/index.m3u8
 #EXTINF:-1 tvg-id="VTV5.vn" tvg-name="VTV5" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/VTV5_logo_2025.png" tvg-country="VN",VTV5 [1080]
 https://dethich.pw/vtv5/index.m3u8
+#EXTINF:-1 tvg-id="VTV5TayNamBo.vn" tvg-name="VTV5 Tay Nam Bo" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/VTV5_T%C3%A2y_Nam_B%E1%BB%99.webp" tvg-country="VN",VTV5 Tay Nam Bo [1080]
+https://dethich.pw/vtv5tnb/index.m3u8
+#EXTINF:-1 tvg-id="VTV5TayNguyen.vn" tvg-name="VTV5 Tay Nguyen" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Logo_m%E1%BB%9Bi_2026.webp" tvg-country="VN",VTV5 Tay Nguyen [1080]
+http://dethich.pw/vtv5tn/index.m3u8
 #EXTINF:-1 tvg-id="VTV7.vn" tvg-name="VTV7" group-title="Unclassified" tvg-logo="https://i.ibb.co/Q3twkrbY/IMG-2681.webp" tvg-country="VN",VTV7 [1080]
 https://dethich.pw/vtv7/index.m3u8
 #EXTINF:-1 tvg-id="VTV8.vn" tvg-name="VTV8" group-title="Unclassified" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/VTV8_logo_2026.png" tvg-country="VN",VTV8 [1080]

@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" tvg-country="AR",Disney Channel Latin America [1080]
 https://barinaslive1.boldmss.com/DISNEY/DISNEY.isml/DISNEY.m3u8
+#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" tvg-name="Disney Jr. Latin America" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" tvg-country="AR",Disney Jr. Latin America [1080]
+http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="JapanimTV.be" tvg-name="JapanimTV" group-title="Kids" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/6b97e19f-4243-4d48-b794-ff8cf54d795f-profile_image-300x300.png" tvg-country="BE",JapanimTV [1080]
+https://foxkidstv.be:3369/stream/play.m3u8
 #EXTINF:-1 tvg-id="CCTV14.cn" tvg-name="CCTV-14" group-title="Kids" tvg-logo="https://i.imgur.com/c5SXW7i.png" tvg-country="CN",CCTV-14 [1080]
 http://74.91.26.218:82/live/cctv14hd.m3u8
 #EXTINF:-1 tvg-id="ExtremaKidsTV.cr" tvg-name="Extrema Kids TV" group-title="Kids" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3027-294x165-FFFFFF.jpg" tvg-country="CR",Extrema Kids TV [1080]
@@ -10,11 +14,13 @@ https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="KiKA.de" tvg-name="KiKA" group-title="Kids" tvg-logo="https://i.imgur.com/vZdNp5S.png" tvg-country="DE",KiKA [1080]
 https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8
 #EXTINF:-1 tvg-id="RiC.de" tvg-name="RiC" group-title="Kids" tvg-logo="https://i.imgur.com/4wMZ8Em.png" tvg-country="DE",RiC [1080]
-https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
+https://rictv.iptv-playoutcenter.de/rictv/rictv-web/chunks.m3u8
 #EXTINF:-1 tvg-id="ChinolaTV.do" tvg-name="Chinola TV" group-title="Kids" tvg-logo="https://i.imgur.com/ybud4dI.png" tvg-country="DO",Chinola TV [1080]
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 #EXTINF:-1 tvg-id="AmouYazidTV.dz" tvg-name="Amou Yazid TV" group-title="Kids" tvg-logo="https://i.imgur.com/L8UPGPC.png" tvg-country="DZ",Amou Yazid TV [1080]
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
+#EXTINF:-1 tvg-id="KoogiTV.eg" tvg-name="Koogi TV" group-title="Kids" tvg-logo="https://i.imgur.com/zojMTP9.png" tvg-country="EG",Koogi TV [1080]
+https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Clan.es" tvg-name="Clan" group-title="Kids" tvg-logo="https://i.ibb.co/vv3FC2Nv/clan.png" tvg-country="ES",Clan [1080]
 https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8
 #EXTINF:-1 tvg-id="ClanInternacional.es" tvg-name="Clan Internacional" group-title="Kids" tvg-logo="https://i.ibb.co/vv3FC2Nv/clan.png" tvg-country="ES",Clan Internacional [1080]
@@ -22,21 +28,17 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
 #EXTINF:-1 tvg-id="KinoKazka.es" tvg-name="KinoKazka" group-title="Kids" tvg-logo="https://i.imgur.com/y6SWpsX.png" tvg-country="ES",KinoKazka [1080]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/167/index.m3u8
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png" tvg-country="FR",France 4 [1080]
+http://149.62.177.107:9999/France_4/index.m3u8
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli" group-title="Kids" tvg-logo="https://i.imgur.com/kqYssbW.png" tvg-country="FR",Gulli [1080]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://99.27.51.147:8080/Gulli/index.m3u8
-#EXTINF:-1 tvg-id="DiosTeVeKids.hn" tvg-name="Dios Te Ve Kids" group-title="Kids" tvg-logo="https://i.imgur.com/GnZicVH.png" tvg-country="HN",Dios Te Ve Kids [1080]
-https://s.emisoras.tv:8081/diostevekids/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.hr" tvg-name="Nickelodeon" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png" tvg-country="HR",Nickelodeon [1080]
 http://176.61.157.250/Nickelodeon/index.m3u8
-#EXTINF:-1 tvg-id="Kolyokklub.hu" tvg-name="Kolyokklub" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/K%C3%B6ly%C3%B6kklub_II.svg/1920px-K%C3%B6ly%C3%B6kklub_II.svg.png" tvg-country="HU",Kolyokklub [1080]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/kolyokklub_atk/index.m3u8
-#EXTINF:-1 tvg-id="Nicktoons.hu" tvg-name="Nicktoons" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" tvg-country="HU",Nicktoons [1080]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/nicktoons_hungary/index.m3u8
 #EXTINF:-1 tvg-id="EpicKids.in" tvg-name="Epic Kids" group-title="Kids" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BVSR.png?lock=720x540" tvg-country="IN",Epic Kids [1080]
 https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8
+#EXTINF:-1 tvg-id="GreenGoldTV.in" tvg-name="Green Gold TV" group-title="Kids" tvg-logo="https://i.ibb.co/TDPsPVkT/Greengoldtv.png" tvg-country="IN",Green Gold TV [1080]
+https://cc-szrmqvu8zkg16.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szrmqvu8zkg16/greengold/stream/grngld/playlist.m3u8
 #EXTINF:-1 tvg-id="TheJungleBook.in" tvg-name="The Jungle Book" group-title="Kids" tvg-logo="https://pash.ink/storage/uploads/JungleBook_Logo.png" tvg-country="IN",The Jungle Book [1080]
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 #EXTINF:-1 tvg-id="ZBCartoon.in" tvg-name="ZB Cartoon" group-title="Kids" tvg-logo="https://i.imgur.com/BbFNpMr.jpeg" tvg-country="IN",ZB Cartoon [1080]
@@ -55,9 +57,6 @@ https://stream.paroledivita.org/bejoy.m3u8
 https://stream8.cinerama.uz/1500/playlist.m3u8
 #EXTINF:-1 tvg-id="ReinoInfantil.mz" tvg-name="Reino Infantil" group-title="Kids" tvg-logo="https://i.imgur.com/oAygpDw.png" tvg-country="MZ",Reino Infantil [1080]
 https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8
-#EXTINF:-1 tvg-id="NicktoonsScandinavia.nl" tvg-name="Nicktoons Scandinavia" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" tvg-country="NL",Nicktoons Scandinavia [1080]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PE7C639D6VY8TCQQ4BYRZT7X/12059/index.m3u8
 #EXTINF:-1 tvg-id="Chikitoonz.pe" tvg-name="Chikitoonz" group-title="Kids" tvg-logo="https://chikitoonz.com/site/wp-content/uploads/2024/08/logochikitoonz2.png" tvg-country="PE",Chikitoonz [1080]
 http://45.70.201.81:8000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="PequesTV.pe" tvg-name="Peques TV" group-title="Kids" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647409377/6123aa5e7fc7.png" tvg-country="PE",Peques TV [1080]
@@ -80,9 +79,11 @@ https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 #EXTINF:-1 tvg-id="KapitanFantastika.ru" tvg-name="Kapitan Fantastika" group-title="Kids" tvg-logo="https://i.imgur.com/K3PSHiT.png" tvg-country="RU",Kapitan Fantastika [1080]
-http://stream.mcquack.net/144/index.m3u8
+https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Mult.ru" tvg-name="Mult" group-title="Kids" tvg-logo="https://i.imgur.com/xi351Fx.png" tvg-country="RU",Mult [1080]
 http://stream.mcquack.net/232/index.m3u8
+#EXTINF:-1 tvg-id="Smotrim100Detskoe.ru" tvg-name="Smotrim 100% Detskoe" group-title="Kids" tvg-logo="https://i.imgur.com/1hsNeTa.png" tvg-country="RU",Smotrim 100% Detskoe [1080]
+https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
 #EXTINF:-1 tvg-id="Solnce.ru" tvg-name="Solnce" group-title="Kids" tvg-logo="https://i.imgur.com/HCefxaK.png" tvg-country="RU",Solnce [1920]
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
@@ -100,7 +101,9 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 https://dash3.antik.sk/live/duck_tv/index.m3u8
 #EXTINF:-1 tvg-id="ducktvPLUS.sk" tvg-name="ducktv PLUS" group-title="Kids" tvg-logo="https://i.imgur.com/RFhxfOx.png" tvg-country="SK",ducktv PLUS [1080]
 https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8
-#EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr" tvg-name="TRT Diyanet Cocuk" group-title="Kids" tvg-logo="https://i.imgur.com/8PmXz9t.png" tvg-country="TR",TRT Diyanet Cocuk [1080]
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-name="TRT Cocuk" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png" tvg-country="TR",TRT Cocuk [1440]
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr" tvg-name="TRT Diyanet Cocuk" group-title="Kids" tvg-logo="https://i.imgur.com/8PmXz9t.png" tvg-country="TR",TRT Diyanet Cocuk [1440]
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="CinePlusKids.ua" tvg-name="Cine+ Kids" group-title="Kids" tvg-logo="https://i.imgur.com/lmfc2u4.png" tvg-country="UA",Cine+ Kids [1080]
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
@@ -118,26 +121,18 @@ http://stream.mcquack.net/323/index.m3u8
 #EXTINF:-1 tvg-id="PLUSPLUS.ua" tvg-name="PLUSPLUS" group-title="Kids" tvg-logo="https://i.imgur.com/9bPhStm.png" tvg-country="UA",PLUSPLUS [1080]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/339/index.m3u8
-#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="BabyTV" group-title="Kids" tvg-logo="https://i.imgur.com/4BDJ5FT.png" tvg-country="UK",BabyTV [1080]
-http://57.128.231.171:8080/310/index.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkCEE.uk" tvg-name="Cartoon Network CEE" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-country="UK",Cartoon Network CEE [1080]
-http://57.128.231.171:8080/293/index.m3u8
-#EXTINF:-1 tvg-id="CartoonitoCEE.uk" tvg-name="Cartoonito CEE" group-title="Kids" tvg-logo="https://i.imgur.com/9MrzLb1.png" tvg-country="UK",Cartoonito CEE [1080]
-http://57.128.231.171:8080/303/index.m3u8
 #EXTINF:-1 tvg-id="JimJamEurope.uk" tvg-name="JimJam Europe" group-title="Kids" tvg-logo="https://i.imgur.com/ODhkYyx.png" tvg-country="UK",JimJam Europe [1080]
 http://212.5.144.156:8080/jimjam/index.m3u8
 #EXTINF:-1 tvg-id="MoonbugKids.uk" tvg-name="Moonbug Kids" group-title="Kids" tvg-logo="https://i.imgur.com/vZHtxQb.png" tvg-country="UK",Moonbug Kids [1080]
 https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8
 #EXTINF:-1 tvg-id="MrBeanAnimated.uk" tvg-name="Mr Bean Animated" group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" tvg-country="UK",Mr Bean Animated [1080]
-https://amg00627-amg00627c23-samsung-gb-3927.playouts.now.amagi.tv/playlist.m3u8
+https://d2t1w90tnft92.cloudfront.net/Mr_Bean_Animated.m3u8
 #EXTINF:-1 tvg-id="MrBeanLiveAction.uk" tvg-name="Mr Bean Live Action" group-title="Kids" tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png" tvg-country="UK",Mr Bean Live Action [1080]
 https://amg00627-amg00627c39-samsung-gb-5569.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TinyPop.uk" tvg-name="Tiny Pop" group-title="Kids" tvg-logo="https://i.imgur.com/zCTf71x.png" tvg-country="UK",Tiny Pop [1080]
 https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg01753-narrativeuk-tinypop-rakutenuk/cb7d3e4f7b726f8c9999376cd9f547f3d1006681563ad7316cad5e9420c91853d7b9f7c0e74feb690dbd7ba33e40340d0136d41cc07c11dfa32bfb086a384837c293a20287dd4755a2a55e793acc190e39ee0f15ce24562999fb0c52d468e137555aa82e6b553982f25bad7752c5810a8a6f5fd2ef88376635455e9a5943e5b24aa0ade75a44df64a9ac14489c2f58e68314c8c915ee84dc469745d722f247999aa482db16888cab43f803f10b1a4c3078988d709dce62bfdee82f53d8227a431a04b5a696b3186ad6450e08fafbcef267f942cbc470d13064ec549e1fd136df3af071cd8e4fa4be84db475730a7c164753eb0e0d2ef915624b864a1ea83af72788ac913794af66ed730393d9cfcdf1b96b167fcc672d3e23c456f99c211cbc9e5d2b6e7df10e64fbac6f08b025242621d079462b59369cf21af1ec2aa42780e1d1ed8f03bc582ca613467598f835beb1f16ada9e8e9be5f61b80a715bec73e656047ec731780e81479b8f3736f54c7884312ec44a21967dffb722e1a2d5f13932b1aca1289b3ab8ed5288b668d16c384a3da1e63a60464373c4eb68190f75c24be3c6cbe6727b648695c8f09a125276381341338af2f74f889acf3b1829d4412a12187a7d8405dd7ccb05474e3adf44afc6667581151e29e3b1365e5f539bc9ba84f5bfa023b376c1cafb3637611909cb32013551d0b9834df8365f41795c940a634caf0e5f5198f3a381b0a14c9fc636c050631070fae007480d2035094ecdc23b840db1c745f4cd9d0f95a2d943118771fa07479b9d8a39febf8493185bc6fd064f3deab957c4773ef813d13d81d175e7bd5a0219303221a8e973da719cedb3e471e346c24e076dd57cbe8aeab0d3594fe290584155633146260526767dd2bdd4601344e9b231943b8c8f45bb4d50697b2db283044db9f87818a3216770a0d2bfe1dfda0f11d36be665c86706995a042af3c334e6d9c89997866b473fcca5ae5e84b59191c9a4a34c191d652392d550472d9d4c9e8d03f2921c6cffb689f0d46a9b709046d1f5b521e972b2cab71bba9593eaed39005b580d6ea39d8a15dfaf3542bf6bc9722e179299e1fa718967de6dc2887ed18b3e3dbe394f53f0f8eb03e92899c41b0fc9a4677fd25513e0c1de073de9058429035cd0ecb7363cece22ec76cbc94d5386daf1e19c5667f408d32c3a69e484ec09d322170cc2a49a55a87dbeb447a27ada651032108383f58e06c4f09e1075b9d4ba1c5e5b66301af20ab2c1e96708ee074838329c7d1f5d2fefc1d448ed63f37d02ec6289801e7f8a6da1a8672508b63b23b6583fef9dfe9cdee96eefc3f7817bf65b828df54bbef80b057272b58fb2d1a6b0add3ee22a0072b5e574eb866e45a7d9dc35e2277164093511ea3898b730696002a8c75cbcfe4369486b11c9e227963295642aa57e569f3b4e3b2e267b6083b1ec3ad920db5690c57821e2a4968307c68d1effae81cf9f6803e373076f69b894aea0f16032ddb5abb0044da0ca449431543e0aa0fb836618e3e42301d987ac559a9d528e39172b4ef3a98f13ee5ea313cb7e7efb1af0de6c4cecac3d151aa41eb7ec526087079970759616fd0d7eda126a534a39b87ac769146c5b8917e7f7ae5228019600d40f1246dadde98a983d5e1c01531119617d12db4832a26b4321f55761f99099c29f859e1d1131e35db3db838b4a498386a499875db2d787fce6b7011d1aad370a1ff20e409172cb1815d2b252bd78869297865f07ba8275a03f85e655767210e98b316b192c68938740c15624de0dffda8af0c46ac3cdf237306e7e770a42d36f866463460de97dbec4193cf4ff9e6b0ad08ff2a3e4cfb38553e2a0f2509a9a446ad5fab530f0ebb436f55d0655850b571607b9b0505b39cc20a9ebd7e94303a22e954d582dece7fd3bb1b7147e539661b460ab772f53856e0168710b8bc55d8adcc55a7a2515490cedd4638a5e08a5742301c093438adf8f06c10090c0afff406a1c7134f87436233582496c5105fcb9f2c31c3be406f02b65a6d9b99e1a54698a9b58959d3e748194b800c871ec75ef72ff2c461c7dc7777d719d3e240a2d7b2018a94921e59aa6ecb4348c2dfc7b4cc800a57d37ba92021b82df7d8e7d7d539fd21441af67a13fa6998850e6786ee58eebcc0a/27/1920x1080_5903040/index.m3u8
 #EXTINF:-1 tvg-id="BabySharkTV.us" tvg-name="Baby Shark TV" group-title="Kids" tvg-logo="https://i.imgur.com/SbBKr8L.png" tvg-country="US",Baby Shark TV [1080]
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" group-title="Kids" tvg-logo="https://i.imgur.com/WxLHBwu.png" tvg-country="US",BabyFirst [1080]
-https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
 #EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png" tvg-country="US",Boomerang [1080]
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-id="BratTV.us" tvg-name="Brat TV" group-title="Kids" tvg-logo="https://i.imgur.com/Kkcp9Bk.png" tvg-country="US",Brat TV [1080]
@@ -152,16 +147,12 @@ https://dil9xdvretp0f.cloudfront.net/index.m3u8
 https://amg02713-amg02713c11-amgplt0852.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg02713-amg02713c11-amgplt0852/playlist.m3u8
 #EXTINF:-1 tvg-id="KartoonChannel.us" tvg-name="Kartoon Channel!" group-title="Kids" tvg-logo="https://i.imgur.com/1luzP3T.png" tvg-country="US",Kartoon Channel! [1080]
 https://hlspackager.akamaized.net/live/DB/KARTOON_CHANNEL/HLS/KARTOON_CHANNEL.m3u8
-#EXTINF:-1 tvg-id="KidsFlix.us" tvg-name="KidsFlix" group-title="Kids" tvg-logo="https://i.imgur.com/4Pn0ADQ.png" tvg-country="US",KidsFlix [1080]
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTINF:-1 tvg-id="LegoChannel.us" tvg-name="Lego Channel" group-title="Kids" tvg-logo="https://i.imgur.com/xePwW13.png" tvg-country="US",Lego Channel [1080]
 https://dh18i7whff86v.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="MBC3USA.us" tvg-name="MBC 3 USA" group-title="Kids" tvg-logo="https://i.imgur.com/PVt8OPN.png" tvg-country="US",MBC 3 USA [1080]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
 #EXTINF:-1 tvg-id="MCN6MusicChannel.us" tvg-name="MCN6 Music Channel" group-title="Kids" tvg-logo="https://i.imgur.com/j6IiysJ.png" tvg-country="US",MCN6 Music Channel [1080]
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
-#EXTINF:-1 tvg-id="NickJr.us" tvg-name="Nick Jr." group-title="Kids" tvg-logo="https://i.imgur.com/KT4tdQs.png" tvg-country="US",Nick Jr. [1080]
-http://107.167.16.138/nickjr/index.m3u8?token=test
 #EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us" tvg-name="Nickelodeon Latin America" group-title="Kids" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-country="US",Nickelodeon Latin America [1080]
 https://barinaslive1.boldmss.com/NICK/NICK.isml/NICK.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nicktoons" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Nicktoons_Logo_2023.svg" tvg-country="US",Nicktoons [1080]
