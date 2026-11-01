@@ -11,12 +11,13 @@ https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
 https://restr2.bgtv.bg/agro/hls/agro.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" tvg-country="CA",Love Nature [2160]
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
-#EXTINF:-1 tvg-id="AgriculturaTV.cl" tvg-name="Agricultura TV" group-title="Outdoor" tvg-logo="https://i.imgur.com/sxrYc3Q.png" tvg-country="CL",Agricultura TV [1080]
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAgro.co" tvg-name="TVAgro" group-title="Outdoor" tvg-logo="https://i.imgur.com/9nzY7Ch.png" tvg-country="CO",TVAgro [1080]
 http://190.61.47.54:8000/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-name="Agrotendencia TV" group-title="Outdoor" tvg-logo="https://i.imgur.com/frd60hR.png" tvg-country="CR",Agrotendencia TV [1080]
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
+#EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu" tvg-name="The Fishing & Hunting Channel" group-title="Outdoor" tvg-logo="https://i.imgur.com/KcTTnUA.png" tvg-country="HU",The Fishing & Hunting Channel [1080]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.7.14/live/fishing_hun/index.m3u8
 #EXTINF:-1 tvg-id="ItalianFishingTV.it" tvg-name="Italian Fishing TV" group-title="Outdoor" tvg-logo="https://i.imgur.com/qrn6tUO.png" tvg-country="IT",Italian Fishing TV [1080]
 https://fms.premio.link/fishingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Dikayaokhota.ru" tvg-name="Dikaya okhota" group-title="Outdoor" tvg-logo="https://i.imgur.com/EOue13e.png" tvg-country="RU",Dikaya okhota [1080]
@@ -51,4 +52,4 @@ https://desdobebr2wri.cloudfront.net/Outside.m3u8
 #EXTINF:-1 tvg-id="PursuitUP.us" tvg-name="PursuitUP" group-title="Outdoor" tvg-logo="https://i.imgur.com/5Vzwqts.png" tvg-country="US",PursuitUP [1080]
 https://a-cdn.klowdtv.com/live2/pursuitup/playlist.m3u8
 #EXTINF:-1 tvg-id="WaypointTV.us" tvg-name="Waypoint TV" group-title="Outdoor" tvg-logo="https://i.imgur.com/9vvlJN9.png" tvg-country="US",Waypoint TV [1080]
-https://amg00381-waypointcommuni-waypointtv-xumo-syiru.amagi.tv/playlist.m3u8
+https://djb4ma5fajjay.cloudfront.net/Waypoint_TV.m3u8

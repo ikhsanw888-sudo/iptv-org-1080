@@ -18,8 +18,6 @@ https://d21vn5eki5qsdi.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="Placid.us" tvg-name="Placid" group-title="Animation" tvg-logo="https://static.wikitide.net/indietvwiki/0/03/Placid_(2026).svg" tvg-country="US",Placid [1080]
 https://toy.vcdn.fyi/placid/index.m3u8
 #EXTINF:-1 tvg-id="YuGiOh.us" tvg-name="Yu-Gi-Oh!" group-title="Animation" tvg-logo="https://i.imgur.com/Tl6aW2u.png" tvg-country="US",Yu-Gi-Oh! [1080]
-https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
+https://dwgcgcahlni2h.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-name="eSports Max TV" group-title="Animation" tvg-logo="https://i.imgur.com/OprRgQN.png" tvg-country="VE",eSports Max TV [1080]
 https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="MAXAnime.ve" tvg-name="MAX Anime" group-title="Animation" tvg-logo="https://i.imgur.com/Oj3hEBh.jpg" tvg-country="VE",MAX Anime [1080]
-https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8

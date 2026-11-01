@@ -1,12 +1,12 @@
 # iptv-org 1080 Scan Summary
 
-- Streams tested: **18056**
-- PASS: **12615**
-- REVIEW: **3703**
-- FAIL: **1733**
-- Eligible HLS at least 1080 lines before deduplication: **4696**
-- Unique channels selected: **3597**
-- STB-safe channels without special HTTP headers: **3406**
+- Streams tested: **18434**
+- PASS: **13150**
+- REVIEW: **3565**
+- FAIL: **1714**
+- Eligible HLS at least 1080 lines before deduplication: **4827**
+- Unique channels selected: **3697**
+- STB-safe channels without special HTTP headers: **3443**
 
 ## Outputs
 
@@ -20,34 +20,34 @@
 
 | Genre | Channels |
 |---|---:|
-| Animation | 12 |
+| Animation | 11 |
 | Auto | 9 |
-| Business | 28 |
+| Business | 26 |
 | Classic | 8 |
-| Comedy | 16 |
-| Cooking | 17 |
+| Comedy | 15 |
+| Cooking | 18 |
 | Culture | 39 |
-| Documentary | 69 |
-| Education | 51 |
-| Entertainment | 194 |
+| Documentary | 80 |
+| Education | 49 |
+| Entertainment | 206 |
 | Family | 17 |
-| General | 719 |
+| General | 723 |
 | Kids | 82 |
-| Legislative | 33 |
-| Lifestyle | 42 |
-| Movies | 158 |
-| Music | 281 |
-| News | 372 |
+| Legislative | 31 |
+| Lifestyle | 43 |
+| Movies | 175 |
+| Music | 284 |
+| News | 368 |
 | Outdoor | 26 |
 | Public | 1 |
 | Relax | 1 |
-| Religious | 241 |
+| Religious | 246 |
 | Science | 6 |
 | Series | 76 |
-| Shop | 16 |
-| Sports | 140 |
-| Travel | 18 |
-| Unclassified | 919 |
+| Shop | 17 |
+| Sports | 165 |
+| Travel | 22 |
+| Unclassified | 947 |
 | Weather | 6 |
 
 > A GitHub-hosted runner may be blocked by geo-restricted streams that could still work from Indonesia. REVIEW items remain in the full report but are not included in generated playlists.
