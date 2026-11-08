@@ -6,7 +6,8 @@ https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7q
 #EXTINF:-1 tvg-id="HellenicParliamentTV.gr" tvg-name="Hellenic Parliament TV" group-title="Legislative" tvg-logo="https://i.imgur.com/o2cvqv3.png" tvg-country="GR",Hellenic Parliament TV [1080]
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8
 #EXTINF:-1 tvg-id="SansadTV1.in" tvg-name="Sansad TV 1" group-title="Legislative" tvg-logo="https://dtil.tmsimg.com/assets/s143760_ld_h15_aa.png?lock=720x540" tvg-country="IN",Sansad TV 1 [1080]
-https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8
+#EXTVLCOPT:http-referrer=https://webcast.gov.in/
+https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
 #EXTINF:-1 tvg-id="SansadTV2.in" tvg-name="Sansad TV 2" group-title="Legislative" tvg-logo="https://dtil.tmsimg.com/assets/s143761_ld_h15_aa.png?lock=720x540" tvg-country="IN",Sansad TV 2 [1080]
 https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8
 #EXTINF:-1 tvg-id="SenatoTV.it" tvg-name="Senato TV" group-title="Legislative" tvg-logo="https://i.imgur.com/h4NyN5d.png" tvg-country="IT",Senato TV [1080]
@@ -50,6 +51,8 @@ https://edge-f.swagit.com/live/glendaleaz/live-1-a-1/playlist.m3u8
 https://livestream.telvue.com/lexmedia3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lexmedia3/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="MonroeCountyTV.us" tvg-name="Monroe County TV" group-title="Legislative" tvg-logo="https://i.imgur.com/YJfzdSu.png" tvg-country="US",Monroe County TV [1080]
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8
+#EXTINF:-1 tvg-id="OrangeGovernmentAccessTV.us" tvg-name="Orange Government Access TV" group-title="Legislative" tvg-logo="https://i.imgur.com/hyPTfxA.png" tvg-country="US",Orange Government Access TV [1080]
+https://livestream.telvue.com/ogat1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="SFGovTV.us" tvg-name="SFGovTV" group-title="Legislative" tvg-logo="https://i.imgur.com/uYXuwmV.png" tvg-country="US",SFGovTV [1080]
 https://cdn3.wowza.com/5/ZFdxUW9BQWt2UWRL/sanfrancisco/G0051_048/playlist.m3u8
 #EXTINF:-1 tvg-id="SMCTVChannel23.us" tvg-name="SMCTV Channel 23" group-title="Legislative" tvg-logo="https://i.imgur.com/J2SKPoY.png" tvg-country="US",SMCTV Channel 23 [1080]
