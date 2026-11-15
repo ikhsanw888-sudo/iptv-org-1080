@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CiudadMagica.ar" tvg-name="Ciudad Magica" group-title="Outdoor" tvg-logo="https://i.imgur.com/HJkSz2U.png" tvg-country="AR",Ciudad Magica [1080]
-https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8
 #EXTINF:-1 tvg-id="SwamijiTVAmerican.at" tvg-name="Swamiji TV American" group-title="Outdoor" tvg-logo="https://i.imgur.com/nrLcuzs.png" tvg-country="AT",Swamiji TV American [1080]
 https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SwamijiTVAustralian.at" tvg-name="Swamiji TV Australian" group-title="Outdoor" tvg-logo="https://i.imgur.com/nrLcuzs.png" tvg-country="AT",Swamiji TV Australian [1080]
@@ -11,8 +9,10 @@ https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
 https://restr2.bgtv.bg/agro/hls/agro.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" tvg-country="CA",Love Nature [2160]
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
+#EXTINF:-1 tvg-id="AgriculturaTV.cl" tvg-name="Agricultura TV" group-title="Outdoor" tvg-logo="https://i.imgur.com/sxrYc3Q.png" tvg-country="CL",Agricultura TV [1080]
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAgro.co" tvg-name="TVAgro" group-title="Outdoor" tvg-logo="https://i.imgur.com/9nzY7Ch.png" tvg-country="CO",TVAgro [1080]
-http://190.61.47.54:8000/play/a01k/index.m3u8
+http://181.78.211.244:8005/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-name="Agrotendencia TV" group-title="Outdoor" tvg-logo="https://i.imgur.com/frd60hR.png" tvg-country="CR",Agrotendencia TV [1080]
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 #EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu" tvg-name="The Fishing & Hunting Channel" group-title="Outdoor" tvg-logo="https://i.imgur.com/KcTTnUA.png" tvg-country="HU",The Fishing & Hunting Channel [1080]
@@ -36,7 +36,7 @@ http://stream.mcquack.net/357/index.m3u8
 #EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-name="Horse & Country TV" group-title="Outdoor" tvg-logo="https://i.imgur.com/1x6zYZr.png" tvg-country="UK",Horse & Country TV [1080]
 https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
 #EXTINF:-1 tvg-id="AKCTV.us" tvg-name="AKC TV" group-title="Outdoor" tvg-logo="https://i.imgur.com/XRTfoSp.png" tvg-country="US",AKC TV [1080]
-https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8
+https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
 #EXTINF:-1 tvg-id="AKCTVMeettheBreeds.us" tvg-name="AKC TV Meet the Breeds" group-title="Outdoor" tvg-logo="https://i.imgur.com/66avgdk.png" tvg-country="US",AKC TV Meet the Breeds [1080]
 https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8
 #EXTINF:-1 tvg-id="AKCTVPuppies.us" tvg-name="AKC TV Puppies" group-title="Outdoor" tvg-logo="https://i.imgur.com/2nzRS60.png" tvg-country="US",AKC TV Puppies [1080]
@@ -44,7 +44,7 @@ https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8
 #EXTINF:-1 tvg-id="DuckHuntingTV.us" tvg-name="Duck Hunting TV" group-title="Outdoor" tvg-logo="https://image.roku.com/developer_channels/prod/b2a80f0a20fc338f22a8289f23d20d19d958470ff1b8df3845c57cbc54ec1245.png" tvg-country="US",Duck Hunting TV [1080]
 https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
 #EXTINF:-1 tvg-id="OutdoorAmerica.us" tvg-name="Outdoor America" group-title="Outdoor" tvg-logo="https://i.imgur.com/UKfimFD.png" tvg-country="US",Outdoor America [1080]
-https://d1e354daam8g5r.cloudfront.net/playlist.m3u8
+https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" group-title="Outdoor" tvg-logo="https://i.imgur.com/Kh4MWaY.png" tvg-country="US",Outdoor Channel [1080]
 https://freem3u.xyz/api/live/play.m3u8?vid=216
 #EXTINF:-1 tvg-id="OutsideTV.us" tvg-name="Outside TV" group-title="Outdoor" tvg-logo="https://i.imgur.com/0UMmG41.png" tvg-country="US",Outside TV [1080]
@@ -52,4 +52,4 @@ https://desdobebr2wri.cloudfront.net/Outside.m3u8
 #EXTINF:-1 tvg-id="PursuitUP.us" tvg-name="PursuitUP" group-title="Outdoor" tvg-logo="https://i.imgur.com/5Vzwqts.png" tvg-country="US",PursuitUP [1080]
 https://a-cdn.klowdtv.com/live2/pursuitup/playlist.m3u8
 #EXTINF:-1 tvg-id="WaypointTV.us" tvg-name="Waypoint TV" group-title="Outdoor" tvg-logo="https://i.imgur.com/9vvlJN9.png" tvg-country="US",Waypoint TV [1080]
-https://djb4ma5fajjay.cloudfront.net/Waypoint_TV.m3u8
+https://amg00381-waypointcommuni-waypointtv-xumo-syiru.amagi.tv/playlist.m3u8
